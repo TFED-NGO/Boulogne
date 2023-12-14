@@ -22,5 +22,5 @@ jobs:
       - name: Validate XML
         uses: ChristophWurst/xmllint-action@v1.2.1
         with:
-          xml-file: edition.xml
+          xml-file: ./edition.xml
           xml-schema-file: ./TEI/postprocess.xsl
