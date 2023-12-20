@@ -31,6 +31,7 @@
 								<resp>Encoding in TEI-conformant markup:</resp>
 									<name>Hunter Corb</name>
 									<name>Sarah Bulger</name>
+                  <name>Eve Svoboda</name>
                <resp>Manuscription description:</resp>
                		<name>Dr. Theodore H. Leinbaugh</name>
 							 		<name>Hunter Corb</name>
@@ -178,101 +179,93 @@
         </head>
       <ab>
         <lb n="1" />
-        <hi style="font-variant: smallcaps"><hi rend="3lines">Q</hi>uondam</hi>
+        <hi style="font-variant: smallcaps" rend="3lines">Q</hi>uondam
         <choice>
           <orig>dixim<macron/></orig>
           <reg>diximus</reg>
         </choice>
         uobis fratres quomodo saluator
         <choice>
-          <orig>n<macron/>r</orig>
-          <reg>noster</reg>
+          <abr>nr<macron/></abr>
+          <exp>noster</exp>
         </choice>
-
         <lb n="2" />
         <choice>
-          <orig>ih<macron/>s</orig>
-          <reg>iesus</reg>
+          <abr>ih<macron/>s</abr>
+          <exp>iesus</exp>
         </choice>
         <choice>
-          <orig lang="GK">xps</orig>
+          <orig><lang="GK">xp<macron/></orig>
           <reg>christus</reg>
-        </choice>
         hac ipsa die natus sit uera humanita
-
         <lb n="3" />
         te de
         <choice>
           <orig>sca<macron/></orig>
           <reg>sancta</reg>
         </choice>
-        maria uirgine
-        <choice>
-          <orig>p<macron/></orig>
-          <reg>pro</reg>
-        </choice>
-        salute mundi. sed tamen
-        <choice>
-          <orig>uolum<macron/></orig>
-          <reg>uolumus</reg>
-        </choice>
-
+          maria uirgine
+          <choice>
+            <orig>p</orig>
+            <reg>pro</reg>
+          </choice>
+          salute mundi. sed tamen
+          <choice>
+            <orig>uolum</orig>
+            <reg>uolumus</reg>
+          </choice>
         <lb n="4" />
-        <choice>
-          <orig>p<macron/></orig>
-          <reg>pro</reg>
-        </choice>
-        huius diei sollempnitate. uestras mentes aliqua spirita
-
+          <choice>
+            <orig>p</orig>
+            <reg>pro</reg>
+          </choice>
+        huius diei sollempnitate. uestras mentes aliqua spirita-
         <lb n="5" />
         li doctrina spiritaliter letificare.
-        <choice>
-          <abbr>&amp;</abbr>
-  				<expan>et</expan>
+          <choice>
+            <orig>&amp;</orig>
+            <reg>et</reg>
         </choice>
         in fide catholica
-
         <lb n="6" />
         confirmare: Fuerunt
         <choice>
-          <orig/>namq:</orig>
-          <reg>namque</reg>
+          <orig>namq</orig>
+          <reg>manque</reg>
         </choice>
         <choice>
-          <orig>quida<macron/></orig>
+          <orig>quid<macron/></orig>
           <reg>quidam</reg>
         </choice>
-        heretici demonico
-
+         heretici demonico
         <lb n="7" />
-          <choice>
-            <orig>sp<macron/>u</orig>
-            <reg>spiritu</reg>
-          </choice>
-          decepti in
-          <choice>
-            <orig>tantu<macron/></orig>
-            <reg>tantum</reg>
-          </choice>
-          ut dicerent
-          <choice>
-            <orig lang="GK">xp<macron/>m</orig>
-            <reg>christum</reg>
-          </choice>
-          <choice>
-            <orig>filiu<macron/></orig>
-            <reg>filium</reg>
-          </choice>
-          <choice>
-            <orig>d<macron/>i</orig>
-            <reg>dei</reg>
-          </choice>
-          non
-          <choice>
-            <orig>p<macron/></orig>
-            <reg>per</reg>
-          </choice>
-
+        <choice>
+          <orig>sp<macron/>u</orig>
+          <reg>spiritu</reg>
+        </choice>
+        decepti in
+        <choice>
+          <orig>tantu<macron/></orig>
+          <reg>tantum</reg>
+        </choice>
+        ut dicerent
+        <choice>
+          <orig>chrm<macron/></orig>
+          <reg>christum</reg>
+        </choice>
+        <choice>
+          <orig>filiu<macron/></orig>
+          <reg>filium</reg>
+        </choice>
+        <choice>
+          <orig>di<macron/></orig>
+          <reg>dei</reg>
+        </choice>
+        non
+        <choice>
+          <orig>p</orig>
+          <reg>per</reg>
+        </choice>
         <lb n="8" />
         manere apud
         <choice>
@@ -280,30 +273,30 @@
           <reg>patrem</reg>
         </choice>
         <choice>
-          <orig>semp<macron/></orig>
+          <orig>semp</orig>
           <reg>semper</reg>
         </choice>
         in diuinitate: sed
-        <abbr>ess<am>
-          <g ref="amp"/>
-        </am></abbr>
-        <expan>ess<ex>et</ex></expan>
+          <abbr>ess<am>
+            <g ref="amp"/>
+          </am></abbr>
+          <expan>ess<ex>et</ex></expan>
         aliquod
 
-        <pb n="13v" facs="data/images/fol_5v.png" />
-        <lb n="9" />
+  <pb n="13v" />
+      <lb n="9" />
         tempus
         <choice>
           <orig>antequa<macron/></orig>
           <reg>antequam</reg>
         </choice>
-        natus ess<g ref="amp"/> ex patre; Audiamus nunc
+        natus ess<g ref="amp"/>
+        ex patre; Audiamus nunc
         <choice>
-          <orig>sc<macron/>m</orig>
+          <orig>scm<macron/></orig>
           <reg>sanctum</reg>
         </choice>
-
-        <lb n="10" />
+      <lb n="10" />
         <choice>
           <orig>euuangeliu<macron/></orig>
           <reg>euuangelium</reg>
@@ -313,10 +306,9 @@
           <orig>habetes</orig>
           <corr>h<add>e</add>betes</corr>
         </choice>
-        superat
         <choice>
-          <abbr>&amp;</abbr>
-          <expan>et</expan>
+          <orig>&amp;</orig>
+          <reg>et</reg>
         </choice>
         <choice>
           <orig>stultitia<macron/></orig>
@@ -326,34 +318,31 @@
           <orig>eo<macron/></orig>
           <reg>eorum</reg>
         </choice>
-
         <lb n="11" />
         facile confundit: Iudei
         <choice>
-          <orig>namq:</orig>
+          <orig>namq</orig>
           <reg>namque</reg>
         </choice>
         interrogauerunt
         <choice>
-          <orig lang="GK">xp<macron/>m</orig>
+          <orig><lang="GK">xr<macron/>m</orig>
           <reg>Christum</reg>
         </choice>
         dicen
-
-        <lb n="12" />
+      <lb n="12" />
         tes; Tu quis es? Ille respondit;
         <choice>
-          <orig>Principiu</orig>
+          <orig>Principiu<macron/></orig>
           <reg>Principium</reg>
         </choice>
         qui
         <choice>
-          <abbr>&amp;</abbr>
-          <expan>et</expan>
+          <orig><macron/></orig>
+          <reg>et</reg>
         </choice>
         loquor uobis;
-
-        <lb n="13" />
+      <lb n="13" />
         Audistis fratres
         <choice>
           <orig>qua<macron/></orig>
@@ -369,57 +358,52 @@
           <reg>quam</reg>
         </choice>
         profunda sit; Ergo
-
-        <lb n="14" />
+      <lb n="14" />
         pater est principium
         <choice>
-          <abbr>&amp;</abbr>
-          <expan>et</expan>
+          <orig><&amp;/></orig>
+          <reg>et</reg>
         </choice>
-          filius qui ex patre natus est
-          <choice>
-            <orig>principiu</orig>
-            <reg>principium</reg>
-          </choice>
-
-        <lb n="15" />
+        filius qui ex patre natus est
+        <choice>
+          <orig>principiu<macron/></orig>
+          <reg>principium</reg>
+        </choice>
+      <lb n="15" />
         est:
         <choice>
-          <abbr>&amp;</abbr>
-          <expan>et</expan>
+          <orig><&amp;/></orig>
+          <reg>et</reg>
         </choice>
         <choice>
-          <orig>sp<macron/>s</orig>
+          <orig>sr<macron/>s</orig>
           <reg>spiritus</reg>
         </choice>
-        <choice>
-          <orig>sc<macron/>s</orig>
-          <reg>sanctus</reg>
-        </choice>
+         <choice>
+           <orig>sc<macron/>s</orig>
+           <reg>sanctus</reg>
+         </choice>
         qui est caritas
         <choice>
           <orig>ambo<macron/></orig>
           <reg>amborum</reg>
         </choice>
         <choice>
-          <orig>principiu</orig>
+          <org>principiu<macron/></orig>
           <reg>principium</reg>
         </choice>
         est; non tamen
-
         <lb n="16" />
         ipsi tria principia: sed unum
         <choice>
-          <orig>principiu</orig>
-          <reg>principium</reg>
+          <orig>principiu<macron/>.</orig>
+          <reg>principium.</reg>
         </choice>
-        . sicut unus
+        sicut unus
         <choice>
-          <orig>d<macron/>s</orig>
+          <orig>ds<macron/></orig>
           <reg>deus</reg>
-        </choice>
         in una
-
         <lb n="17" />
         deitate
         <choice>
@@ -431,115 +415,99 @@
           <reg>permanens</reg>
         </choice>
         : non inceptus. nec finitus; Sed ille
-
         <lb n="18" />
         homo insanus est qui quaerit aliquid ante
         <choice>
-          <orig>principiu</orig>
+          <orig>principiu<macron/></orig>
           <reg>principium</reg>
         </choice>
         : quia
-
         <lb n="19" />
         <choice>
           <orig>sc<macron/>a</orig>
           <reg>sancta</reg>
         </choice>
-        Trinitas ineffabili potentia
-        <choice>
-          <abbr>&amp;</abbr>
-          <expan>et</expan>
-        </choice>
-        una deitate omnes creatu
-
+      Trinitas ineffabili potentia
+      <choice>
+        <orig>&amp;</orig>
+        <reg>et</reg>
+      </choice>
+       una deitate omnes creatu
         <lb n="20" />
         ras fecit:
         <choice>
-          <abbr>&amp;</abbr>
-          <expan>et</expan>
+          <orig>&amp;</orig>
+          <reg>et</reg>
         </choice>
         non est creatura nec tempus
         <choice>
           <orig>p<macron/>manens</orig>
           <reg>permanens</reg>
         </choice>
-        quod
-        <choice>
-          <orig>sc<macron/></orig>
-          <reg>sancta</reg>
-        </choice>
-
+         quod
+         <choice>
+           <orig>sc<macron/>a</orig>
+           <reg>sancta</reg>
+         </choice>
         <lb n="21" />
         trinitas unus
         <choice>
-          <orig>d<macron/>s</orig>
+          <orig>ds</orig>
           <reg>deus</reg>
         </choice>
-        non creauerit; Credite hoc fratres carissi
-
+         non creauerit; Credite hoc fratres carissi
         <lb n="22" />
         mi, quia
         <choice>
-          <orig>p<macron/>pheta</orig>
+          <orig>ppheta</orig>
           <reg>propheta</reg>
         </choice>
-        dicit; Nisi credideritis non intellegitis;
-
+         dicit; Nisi credideritis non intellegitis;
         <lb n="23" />
-        Item scriptum est;  Altiora te ne quaesieris;
+        Item scriptum est; Altiora te ne quaesieris;
         <choice>
-          <abbr>&amp;</abbr>
-          <expan>Et</expan>
+          <orig>&amp;</orig>
+          <reg>et</reg>
         </choice>
-        ualde altiora
-
+         ualde altiora
         <lb n="24" />
-        se quaerit. qui uechors
+        se quaerit. qui uechors p[er]scrutando transscendere uult
         <choice>
-          <orig>p<macron/>scrutando</orig>
-          <reg>perscrutando</reg>
-        </choice>
-        transscendere uult
-        <choice>
-          <orig lang="GK">xp<macron/>m</orig>
-          <reg>christum</reg>
-        </choice>
-        ,
-
+          <orig><lang="GK">xr<macron/>m,</orig>
+            <reg>christum,</reg>
+          </choice>
         <lb n="25" />
         <choice>
           <orig>filiu<macron/></orig>
           <reg>filium</reg>
         </choice>
-        dei.
-        <choice>
-          <orig>coeternu<macron/></orig>
-          <reg>coeternum</reg>
-        </choice>
-        patri. qui est
-        <choice>
-          <orig>uirt<macron/></orig>
-          <reg>uirtus</reg>
-        </choice>
-        <choice>
-          <abbr>&amp;</abbr>
-          <expan>et</expan>
-        </choice>
-        sapientia dei; Si
-
+         dei.
+         <choice>
+           <orig>coeternu<macron/></orig>
+           <reg>coeternum</reg>
+         </choice>
+          patri. qui est
+          <choice>
+            <orig>uirt<macron/></orig>
+            <reg>uirtus</reg>
+          </choice>
+          <choice>
+            <orig>&amp;</orig>
+            <reg>et</reg>
+          </choice>
+           sapientia dei; Si
         <lb n="26" />
         aliquis modo
         <choice>
-          <orig>uell<g ref="amp"/></orig>
-          <reg>uellet</reg>
-        </choice>
-        erigere altam scalam sibi:
-        <choice>
-          <abbr>&amp;</abbr>
-          <expan>et</expan>
-        </choice>
-        ascendere
-
+          <orig>uell<macron/></orig>
+          <reg>uellet</reg?
+          </choice>
+          erigere altam scalam sibi:
+          <choice>
+            <orig>&amp;</orig>
+            <reg>et</reg>
+          </choice>
+          ascendere
         <lb n="27" />
         <choice>
           <orig>p<macron/></orig>
@@ -547,1761 +515,1420 @@
         </choice>
         gradus eius
         <choice>
-          <orig>usq:</orig>
+          <orig>usq</orig>
           <reg>usque</reg>
         </choice>
-        ad
-        <choice>
-          <orig>sumitate<macron/></orig>
-          <reg>sumitatem</reg>
-        </choice>
-        illius ualde uechors
-        <choice>
-        <orig>ess<g ref="amp"/></orig>
-        <reg>esset</reg>
-        si
-
+         ad
+         <choice>
+           <orig>sumitate<macron/></orig>
+           <reg>sumitatem</reg>
+         </choice>
+          illius ualde uechors
+          <choice>
+            <orig>ess<macron/></rig>
+            <reg>esset</reg>
+          </choice>
+          si
         <lb n="28" />
         sine
         <choice>
-          <orig>gradib<macron/></orig>
-          <reg>gradibus</reg>
+          <orig>gradib:</orig>
+          <reg>gradibus:</reg>
         </choice>
-        : altius adhuc ascendere
-        <choice>
-          <orig>uell<g ref="amp"/></orig>
-          <reg>uellet</reg>
-        </choice>
-        : quia tanto
-
+         altius adhuc ascendere
+         <choice>
+           <orig>uell<macron/>:</orig>
+           <reg>uellet</reg>
+         </choice>
+        quia tanto
         <lb n="29" />
         grauior casus ei eueniret. quanto altius
         <choice>
-          <orig>ascender<g ref="amp"/></orig>
-          <reg>ascenderet</reg>
+          <orig>ascender.<macron/></orig>
+          <reg>ascenderet.</reg>
         </choice>
-        . sed ad
-
+          sed ad
+        <lb n="30" />
         huc est dementior qui modica ratione meditando conatur
-
-        transscendere creatore[m] suu[m]; Dicit deniq[ue] dominus ad moysen:
-
-        Non ascendas p[er] gradus ad altare meu[m]; Altare namq[ue] in hoc
-
-        loco ipsu[m] d[eu]m significat sicut psalmista testat[ur]; Cu[m] dicer[et].
-
-        introibo ad altare dei. statim adiunxit; Ad d[eu]m qui letificat
-
-        iuuentute[m] mea[m]; Et bene altare significat deu[m] quo nichil
-
-        est altius; Ad que[m] non debem[us] ascendere p[er] gradus ut credam[us]
-
-        filiu[m] esse inferiore[m] patre. aut sp[iritu]m s[an]c[tu]m minore[m] ambobus:
-
-        fol. 14r
-
-        quia quicquid minor est deo non est d[eu]s: [Et] quicquid ince-
-
-        pit non potest habere omnipotentia[m]; Audite fratres: nemo
-
-        ascendat altius: nec cadat in infima; Numqua[m] incepit pat[er]
-
-        sed semp[er] erat: numqua[m] incepit filius: sed semp[er] erat sapientia
-
-        natus ex sapiente patre; Numqua[m] incepit sp[iritu]s s[an]c[tu]s sed semper
-
-        erat caritas patris [et] filii coeternus [et] consubstantialis ipsis
-
-        in una deitate; In creaturis sunt quaedam temporalia: quae-
-
-        dam aeterna; Temporalia uero sunt ut pecora pisces uola
-
-        tilia quae anima carent quae habent utrumq[ue] initium [et]
-
-        finem: quae inceperunt quando creata sunt. [et] iterum
-
-        morte finiant[ur]: [et] ad nichilu[m] redigantur: Alia sunt aet[er]na:
-
-        ita ut habeant initium. sed non habent finem; Initium
-
-        habent quia creata sunt: sed carent fine quia numquam
-
-        desinunt esse: sicut angeli [et] anime hominum;  Nam
-
-        creator omniu[m] sic aeternus est ut non habeat initium nec
-
-        fine[m] sed ipse est initiu[m] et finis. carens tamen initio [et] fine;
-
-        Nullum tim[et] quia non hab[et] potentiore[m] se: nec saltem
-
-        simile[m]; Semp[er] dat: [et] numquam sua minuit: nec aliquo in
-
-        dig[et]; Semp[er] est om[ni]p[oten]s: semp[er] uult bene. numqua[m] male:
-
-        sed odit eos qui operantur iniquitate[m]. [et] p[er]dit om[ne]s qui loquun-
-
-        tur mendaciu[m]; Ipse non est factus nec creatus: quia nichil
-
-        erat exsistens ante illu[m]; Et si factus ess[et] numqua[m] ess[et]
-
-        om[ni]p[oten]s d[eu]s; [Et] si aliquis insanus existimat quod d[eu]s seipsum
-
-        feciss[et]: tunc interrogemus quomodo se ipsu[m] feciss[et] si
-
-        ante non ess[et]; Sed erat semp[er]: [et] est, [et] erit; Et ipse solus
-
-        hab[et] semp[er] esse in se [et] p[er] se; Illu[m] possum[us] admirari sed
-
-        nequimus de eo digne nec cogitare nec loqui: quia est
-
-        inscrutabilis [et] ineffabilis. [et] angelis [et] hominibus; Trinitas
-
-        est d[eu]s n[oste]r: pater ex quo omnia: filius p[er] quem omnia sp[iritu]s s[an]c[tu]s
-
-        fol. 14v
-
-        in quo omnia: sed filius solus incarnatus est. [et] hodie natus
-
-        sine terreno patre qui ex patre semp[er] natus est sine matre;
-
-        Non hab[et] initiu[m] in diuinitate; [et] cepit esse in temporae
-
-        <lb n="70" />
-        ex matre uirgine. sed eius incarnatio erat predestinata
-
-        <lb n="71" />
-        <g ref="amp"/>erno
-        consilio patris; Ipse enim est perfectus
+        <lb n="31" />
+        transscendere
         <choice>
-          <abbr>d<macron/>s</abbr>
-          <expan>deus</expan>
+          <orig>creatore<macron/></orig>
+          <reg>creatorem</reg>
         </choice>
         <choice>
-          <abbr>&amp;</abbr>
-          <expan>et</expan>
+          <orig>suu<macron/>;</orig>
+          <reg>suum;</reg>
+        </choice>
+          Dicit
+        <choice>
+            <orig>deniq</orig>
+            <reg>denique</reg>
+        </choice>
+           dominus ad moysen:
+        <lb n="32" />
+        Non ascendas
+        <choice>
+          <orig>p<macron/></orig>
+          <reg>per</reg>
+        </choice>
+         gradus ad altare
+         <choice>
+           <orig>meu<macron/>;</orig>
+           <reg>meum;</reg>
+         </choice>
+           Altare
+           <choice>
+             <orig>namq</orig>
+             <reg>namque</reg>
+           </choice>
+          in hoc
+        <lb n="33" />
+        loco
+        <choice>
+          <orig>ipsu<macron/></orig>
+          <reg>ipsum</reg>
         </choice>
         <choice>
-          <abbr>p<macron/>fect<macron/></abbr>
-          <expan>perfectus</expan>
+          <orig>dm<macron/></orig>
+          <reg>deum</reg>
         </choice>
-
-        <lb n="72" />
-        homo. in duabus naturis
+        significat sicut psalmista
         <choice>
-          <abbr>d<macron/>i</abbr>
-          <expan>dei</expan>
+          <orig>testat<macron/>;</orig>
+          <reg>testatur</reg>
         </choice>
+         <choice>
+           <orig>Cu<macron/></orig>
+           <reg>Cum</reg>
+         </choice>
+         dicer <g ref="amp"/>.
+        <lb n="34" />
+        introibo ad altare dei. statim adiunxit; Ad
         <choice>
-          <abbr>&amp;</abbr>
-          <expan>et</expan>
+          <orig>dm<macron/></orig>
+          <reg>deum</reg>
         </choice>
-        hominis existens una
+        qui letificat
+        <lb n="35" />
         <choice>
-          <abbr>p<macron/>sona</abbr>
-          <expan>persona</expan>
+          <orig>iuuentute<macron/></orig>
+          <reg>iuuentutem</reg>
         </choice>
-        .
-
-        <lb n="73" />
-        in
+          <choice>
+            <orig>mea<macron/>;</orig>
+            <reg>meam;</reg>
+            <choice>
+              Et bene altare significat
+              <choice>
+                <orig>deu<macron/></orig>
+                <reg>deum</reg>
+              </choice>
+                quo nichil
+        <lb n="36" />
+        est altius; Ad
         <choice>
-          <abbr>tantu<macron/></abbr>
-          <expan>tantum</expan>
-        </choice>
-        ut idem sit filius dei qui filius hominis
-        <choice>
-          <abbr>&amp;</abbr>
-          <expan>et</expan>
-        </choice>
-        filius
-
-        <lb n="74" />
-        hominis qui filius
-        <choice>
-          <abbr>d<macron/>i</abbr>
-          <expan>dei</expan>
-        </choice>
-        unus
-        <choice>
-          <orig lang="GK">xps</orig>
-          <reg>christus</reg>
-        </choice>
-        ; Creaturae uero quas unus
-
-        <lb n="75" />
-        creator creauit multiplices sunt.
-        <choice>
-          <abbr>&amp;</abbr>
-          <expan>et</expan>
-        </choice>
-        uariae figurae.
-        <choice>
-          <abbr>&amp;</abbr>
-          <expan>et</expan>
-        </choice>
-
-        <lb n="76" />
-        non uno modo uiuunt; ex quibus
-        <choice>
-          <orig>quaeda<macron/></orig>
-          <reg>quaedam</reg>
-        </choice>
-        sunt incorpora
-
-        <lb n="77" />
-        lia
-        <choice>
-          <abbr>&amp;</abbr>
-          <expan>et</expan>
-        </choice>
-        inuisibilia; ut angeli in caelo nullo terreno cibo
-
-        <lb n="78" />
-        utentes; Alia
-        <choice>
-          <orig>namq:</orig>
-          <reg>namque</reg>
-        </choice>
-        corporalia sunt ratione carentia
-
-        <lb n="79" />
-        <choice>
-          <abbr>&amp;</abbr>
-          <expan>et</expan>
-        </choice>
-        toto corpore in terra reptantia sicut uermes; Quae
-
-        <lb n="80" />
-        dam uero ambulant
-        <choice>
-          <orig>duob:</orig>
-          <reg>duobus</reg>
-        </choice>
-        pedibus
-        <choice>
-          <orig>quaeda<macron/></orig>
-          <reg>quaedam</reg>
-        </choice>
-        quattuor;
-
-        <lb n="81" />
-        <choice>
-          <orig>Quaeda<macron/></orig>
-          <reg>Quaedam</reg>
-        </choice>
-        pennis uolant in aere.
-        <choice>
-          <orig>quaeda<macron/></orig>
-          <reg>quaedam</reg>
-        </choice>
-        etiam natatilia sunt
-
-        <lb n="82" />
-        ut pissces in mari.
-        <choice>
-          <abbr>&amp;</abbr>
-          <expan>et</expan>
-        </choice>
-        in amne uagantia: quae sine aquis
-
-        <lb n="83" />
-        uiuere nequeunt
-        <choice>
-          <abbr>&amp;</abbr>
-          <expan>et</expan>
-        </choice>
-        nos in aquis suffocamur; Omnia
-
-        <lb n="84" />
-        tamen ad
-        <choice>
-          <orig>terra<macron/></orig>
-          <reg>terram</reg>
-        </choice>
-        <choice>
-          <orig>inclinant<macron/></orig>
-          <reg>inclinantur</reg>
-        </choice>
-        de qua alimenta sumunt:
-
-        <lb n="85" />
-        <choice>
-          <abbr>&amp;</abbr>
-          <expan>et</expan>
-        </choice>
-        quicquid desiderant uel indigent; Sed homo solus recta
-
-        <lb n="86" />
-        statura ambulat. qui ad
-        <choice>
-          <abbr>imagine<macron/></abbr>
-          <expan>imageinem</expan>
-        </choice>
-        dei creatus est
-        <choice>
-          <abbr>&amp;</abbr>
-          <expan>et</expan>
-        </choice>
-        <choice>
-          <abbr>p<macron/>prio</abbr>
-          <expan>proprio</expan>
-        </choice>
-
-        <lb n="87" />
-        incessu significat quod deb<g ref="amp"/> plus de
-        <choice>
-          <abbr>celestib:</abbr>
-          <expan>celestibus</expan>
-        </choice>
-        meditari
-
-        <lb n="88" />
-        <choice>
-          <abbr>qua<macron/></abbr>
-          <expan>quam</expan>
-        </choice>
-        de terrenis, plus de eternis
-        <choice>
-          <abbr>qua<macron/></abbr>
-          <expan>quam</expan>
-        </choice>
-        de infimis. ne forte
-
-        <lb n="89" />
-        mens
-        <choice>
-          <abbr>ei<macron/></abbr>
-          <expan>eius</expan>
-        </choice>
-        fiat inferior corpore; Ergo ille homo qui
-        <choice>
-          <abbr>semp<macron/></abbr>
-          <expan>semper</expan>
-        </choice>
-
-        <lb n="90" />
-        inher<g ref="amp"/> infimis de caducis cogitans nonne est quasi uermis
-
-        <lb n="91" />
-        qui toto corpore serpit? nolite
-        <choice>
-          <abbr>fr<macron/></abbr>
-          <expan>fratres</expan>
-        </choice>
-        esse serpentes uenenati.
-
-        <lb n="92" />
-        nocentes inuicem;
-        <choice>
-          <abbr>Iteru<macron/></abbr>
-          <expan>Iterum</expan>
-        </choice>
-        nolite incurui incedere ut
-        <choice>
-          <abbr>ium<macron/>ta</abbr>
-          <expan>iumenta</expan>
-        </choice>
-        ;
-
-        <lb n="93" />
-        solam
-        <choice>
-          <abbr>terra<macron/></abbr>
-          <expan>terram</expan>
-        </choice>
-        aspicientes. ne forte dicat
-        <choice>
-          <abbr>uob<macron/></abbr>
-          <expan>uobis</expan>
-        </choice>
-        psalmista;
-
-        <lb n="94" />
-        <choice>
-          <abbr>Obscurent<macron/></abbr>
-          <expan>Obscurentur</expan>
-        </choice>
-        oculi
-        <choice>
-          <abbr>eo<macron/></abbr>
-          <expan>eorum</expan>
-        </choice>
-        ne uideant: et dorsa
-        <choice>
-          <abbr>eo<macron/></abbr>
-          <expan>eorum</expan>
-        </choice>
-        semper
-
-        <lb n="95" />
-        incurua; Erigite capita
-        <choice>
-          <abbr>ur<macron/>a</abbr>
-          <expan>uestra</expan>
-        </choice>
-        : ambulate ut homines
-
-        <pb n="15r" facs="data/images/fol_5v.png" />
-
-        <lb n="96" />
-        rationabiles; State in fide uiriliter agite
-        <choice>
-          <abbr>&amp;</abbr>
-          <expan>et</expan>
-        </choice>
-        confortamini
-
-        <lb n="97" />
-        omnia
-        <choice>
-          <abbr>ur<macron/>a</abbr>
-          <expan>uestra</expan>
-        </choice>
-        <choice>
-          <abbr>cu<macron/></abbr>
-          <expan>cum</expan>
-        </choice>
-        caritate fiant; Nolite esse bruta anima
-
-        <lb n="98" />
-        lia. intelligite quia serpens
-        <choice>
-          <abbr>terra<macron/></abbr>
-          <expan>terram</expan>
-        </choice>
-        comedit cunctis
-        <choice>
-          <abbr>dieb:</abbr>
-          <expan>diebus</expan>
-        </choice>
-
-        <lb n="99" />
-        uitae suae:
-        <choice>
-          <abbr>&amp;</abbr>
-          <expan>et</expan>
-        </choice>
-        bos herbis pascitur. uobis
-        <choice>
-          <abbr>aute<macron/></abbr>
-          <expan>autem</expan>
-        </choice>
-        dedit
-        <choice>
-          <abbr>ds<macron/></abbr>
-          <expan>deus</expan>
-        </choice>
-
-        <lb n="100" />
-        panem ad
-        <choice>
-          <abbr>uescendu<macron/></abbr>
-          <expan>uescendum</expan>
-        </choice>
-        ;
-        <choice>
-          <abbr>&amp;</abbr>
-          <expan>Et</expan>
+          <orig>que<macron/></orig>
+          <reg>quem</reg>
         </choice>
         non
         <choice>
-          <abbr>solu<macron/></abbr>
-          <expan>solum</expan>
+          <orig>debem<macron/></orig>
+          <reg>debemus</reg>
+        </choice>
+        ascendere
+        <choice>
+          <orig>p<macron/></orig>
+          <reg>per</reg>
+        </choice>
+        gradus ut
+        <choice>
+          <orig>credam<macron/></orig>
+          <reg>credamus</reg>
+        </choice>
+        <lb n="37" />
+        <choice>
+          <orig>filiu<macron/></orig>
+          <reg>filium</reg>
+        </choice>
+         esse
+         <choice>
+           <orig>inferiore<macron/></orig>
+           <reg>inferiorem</reg>
+         </choice>
+        patre. aut
+        <choice>
+          <orig>sp<macron/>m</orig>
+          <reg>spiritum</reg>
         </choice>
         <choice>
-          <abbr>pane<macron/></abbr>
-          <expan>panem</expan>
-        </choice>
-        terrenis
-        <choice>
-          <abbr>dapibu:</abbr>
-          <expan>dapibus</expan>
+          <orig>sc<macron/>m</orig>
+          <reg>sanctum</reg>
         </choice>
         <choice>
-          <abbr>p<macron/>para</abbr>
-          <expan>praepara</expan>
+          <orig>minore<macron/></orig>
+          <reg>minorem</reg>
+        </choice>
+         ambobus:
+
+    <pb n="14r" />
+        <lb n="38" />
+        quia quicquid minor est deo non est
+        <choice>
+          <orig>ds<macron/>:</orig>
+          <reg>deus:</reg>
+        </choice>
+         <g ref="amp"/> quicquid ince-
+        <lb n="39" />
+        pit non potest habere
+        <choice>
+          <orig>omnipotentia<macron/>;</orig>
+          <reg>omnipotentiam;</reg>
+        </choice>
+        Audite fratres: nemo
+        <lb n="40" />
+        ascendat altius: nec cadat in infima;
+        <choice>
+          <orig>Numqua<macron/></orig>
+          <reg>Numquam</reg>
+        </choice>
+        incepit
+         <choice>
+           <orig>pat<macron/></orig>
+           <reg>pater</reg>
+         </choice>
+        <lb n="41" />
+        sed
+        <choice>
+          <orig>semp<macron/></orig>
+          <reg>semper</reg>
+        </choice>
+         erat:
+         <choice>
+           <orig>numqua<macron/></orig>
+           <reg>numquam</reg>
+         </choice>
+        incepit filius: sed
+        <choice>
+          <orig>semp<macron/></orig>
+          <reg>semper</reg>
+        </choice>
+        erat sapientia
+        <lb n="42" />
+        natus ex sapiente patre;
+        <choice>
+          <orig>Numqua<macron/></orig>
+          <reg>Numquam</reg>
+        </choice>
+        incepit
+        <choice>
+          <orig>sp<macron/>s</orig>
+          <reg>spiritus</reg>
+        </choice>
+        <choice>
+          <orig>sc<macron/>s</orig>
+          <reg>sanctus</reg>
+        </choice>
+        sed semper
+        <lb n="43" />
+        erat caritas patris
+        <g ref="amp"/> filii coeternus
+        <g ref="amp"/> consubstantialis ipsis
+        <lb n="44" />
+        in una deitate; In creaturis sunt quaedam temporalia: quae-
+        <lb n="45" />
+        dam aeterna; Temporalia uero sunt ut pecora pisces uola 45
+        <lb n="46" />
+        tilia
+        <choice>
+          <orig>que<macron/></orig>
+          <reg>quae</reg>
+        </choice>
+        anima carent quae habent
+        <choice>
+          <orig>utrumq</orig>
+          <reg>utrumque</reg>
+        </choice>
+        initium <g ref="amp"/>
+        <lb n="47" />
+        finem: quae inceperunt quando creata sunt.
+        <g ref="amp"/> iterum
+        <lb n="48" />
+        morte
+        <choice>
+          <orig>finiant<macron/>:</orig>
+          <reg>finiantur:</reg>
+        </choice>
+        <g ref="amp"/> ad
+        <choice>
+          <orig>nichilu<macron/></orig>
+          <reg>nichilum</reg>
+        </choice>
+        redigantur: Alia sunt
+        <choice>aet<macron/>na:</orig>
+        <reg>aeterna:</reg>
+      </choice>
+        <lb n="49" />
+        ita ut habeant initium. sed non habent finem; Initium
+        <lb n="50" />
+        habent quia creata sunt: sed carent fine quia numquam
+        <lb n="51" />
+        desinunt esse: sicut angeli
+        <g ref="amp"/> anime hominum; Nam
+        <lb n="52" />
+        creator
+        <choice>
+          <orig>omniu<macron/></orig>
+          <reg>omnium</reg>
+        </choice>
+        sic aeternus est ut non habeat initium nec
+        <lb n="53" />
+        <choice>
+          <orig>fine<macron/></orig>
+          <reg>finem</reg>
+        </choice>
+        sed ipse est
+        <choice>
+          <orig>initiu<macron/></orig>
+          <reg>initium</reg>
+        </choice>
+        <g ref="amp"/> finis. carens tamen initio
+        <g ref="amp"/> fine;
+        <lb n="54" />
+        Nullum
+        tim<g ref="amp"/>
+        quia non
+        hab<g ref="amp"/>
+        <choice>
+          <orig>potentiore<macron/></orig>
+          <reg>potentiorem</reg>
+        </choice>
+        se: nec saltem
+        <lb n="55" />
+        <choice>
+          <orig>simile<macron/>;</orig>
+          <reg>similem;</reg>
+        </choice>
+        <choice>
+          <orig>Semp<macron/></orig>
+          <reg>Semper</reg>
+        </choice>
+        dat:
+        <g ref="amp"/> umquam sua minuit: nec aliquo in
+        <lb n="56" />
+        dig<g ref="amp"/>;
+        <choice>
+          <orig>Semp<macron/></orig>
+          <reg>Semper</reg>
+        </choice>
+        est
+        <choice>
+          <orig>om<macron/>ps:</orig>
+          <reg>omnipotens</reg>
+        </choice>
+        <choice>
+          <orig>semp<macron/></orig>
+          <reg>semper</reg>
+        </choice>
+          uult bene.
+          <choice>
+            <orig>numqua<macron/></orig>
+            <reg>numquam</reg>
+          </choice>
+          male:
+        <lb n="57" />
+        sed odit eos qui operantur
+        <choice>
+          <orig>iniquitate<macron/>.</orig>
+          <reg>iniquitatem</reg>
+        </choice>
+        <g ref="amp"/>
+        <choice>
+          <orig>p<macron/>dit</orig>
+          <reg>perdit</reg>
+        </choice>
+        <choice>
+          <orig>om<macron/>s</orig>
+          <reg>omnes</reg>
+        </choice>
+        qui loquun-
+        <lb n="58" />
+        tur
+        <choice>
+          <orig>mendaciu<macron/>;</orig>
+          <reg>mendacium;</reg>
+        </choice>
+        Ipse non est factus nec creatus: quia nichil
+        <lb n="59" />
+        erat exsistens ante
+        <choice>
+          <orig>illu<macron/>;</orig>
+          <reg>illium;</reg>
+          Et si factus
+          ess<g ref="amp"/>
+          <choice>
+            <orig>numqua<macron/></orig>
+            <reg>numquam</reg>
+          </choice>
+          ess<g ref="amp"/>
+        <lb n="60" />
+        <choice>
+          <orig>om<macron/>ps</orig>
+          <reg>omnipotens</reg>
+        </choice>
+        <choice>
+          <orig>d<macron/>s;</orig>
+          <reg>deus;</reg>
+          <g ref="amp"/> si aliquis insanus existimat quod
+          <choice>
+            <orig>ds<macron/></orig>
+            <reg>deus</reg>
+          </choice>
+        seipsum
+        <lb n="61" />
+        feciss<g ref="amp"/>:
+        tunc interrogemus quomodo se
+        <choice>
+          <orig>ipsu<macron/></orig>
+          <reg>ipsum</reg>
+        </choice>
+        feciss<g ref="amp"/> si
+        <lb n="62" />
+        ante non ess<g ref="amp"/>;Sed erat
+        <choice>
+          <orig>semp<macron/>:</orig>
+          <reg>semper:</reg>
+        </choice>
+        <g ref="amp"/> est,
+        <g ref="amp"/> erit; Et ipse solus
+        <lb n="63" />
+        hab<g ref="amp"/>
+        <choice>
+           <orig>semp<macron/></orig>
+           <reg>semper</reg>
+         </choice>
+        esse in se <g ref="amp"/>
+        <choice>
+          <orig>p<macron/></orig>
+          <reg>per</reg>
+        </choice>
+        se;
+        <choice>
+          <orig>Illu<macron/></orig>
+          <reg>Illium</reg>
+        </choice>
+        <choice>
+          <orig>possum<macron/></orig>
+          <reg>possumus</reg>
+        </choice>
+        admirari sed
+        <lb n="64" />
+        nequimus de eo digne nec cogitare nec loqui: quia est
+        <lb n="65" />
+        inscrutabilis <g ref="amp"/>
+        ineffabilis. <g ref="amp"/>
+        angelis <g ref="amp"/>
+        hominibus; Trinitas
+        <lb n="66" />
+        est
+        <choice>
+          <orig>ds<macron/></orig>
+          <reg>deus</reg>
+        </choice>
+        <choice>
+          <orig>n<macron/>r:</orig>
+          <reg>noster</reg>
+        </choice>
+        pater ex quo omnia: filius
+        <choice>
+          <orig>p<macron/></orig>
+          <reg>per</reg>
+        </choice>
+        quem omnia
+        <choice>
+          <orig>sp<macron/>s</orig>
+          <reg>spiritus</reg>
+        </choice>
+        <choice>
+          <orig>sc<macron/>s</orig>
+          <reg>sanctus</reg>
         </choice>
 
-        <lb n="101" />
-        tum sed etiam
+    <pb n="14v" />
+        <lb n="67" />
+        in quo omnia: sed filius solus incarnatus est.
+        <g ref="amp"/> hodie natus
+        <lb n="68" />
+        sine terreno patre qui ex patre
         <choice>
-          <abbr>pane<macron/></abbr>
-          <expan>panem</expan>
+          <orig>semp<macron/></orig>
+          <reg>semper</reg>
         </choice>
+        natus est sine matre;
+        <lb n="69" />
+        Non hab<g ref="amp"/>
         <choice>
-          <abbr>angelo<macron/></abbr>
-          <expan>angelorum</expan>
+          <orig>initiu<macron/></orig>
+          <reg>initium</reg>
         </choice>
-        qui de celo descendit. qui hodie
+        in diuinitate;
+        <g ref="amp"/> cepit esse in temporae
+        <lb n="70" />
+        ex matre uirgine. sed eius incarnatio erat predestinata
 
-        <lb n="102" />
-        natus est nobis ex inmaculata uirgine maria. qui dixit;
-
-        <lb n="103" />
-        Ego
-        <choice>
-          <abbr>su<macron/></abbr>
-          <expan>sum</expan>
-        </choice>
-        panis uiuus qui de celo descendi: si quis manducaue
-
-        <lb n="104" />
-        rit ex hoc pane uiu<g ref="amp"/> in aeternum; Et panis
-        <choice>
-          <abbr>que<macron/></abbr>
-          <expan>quem</expan>
-        </choice>
-        ego dabo
-
-        <lb n="105" />
-        caro mea est
-        <choice>
-          <abbr>o<macron/></abbr>
-          <expan>pro</expan>
-        </choice>
-        mundi uita: Istum panem
-        <choice>
-          <abbr>deniq:<macron/></abbr>
-          <expan>denique</expan>
-        </choice>
-        manduca
-
-        <lb n="106" />
-        mus cum ad sacrificium
-        <choice>
-          <orig lang="GK">xpi</orig>
-          <reg>christi</reg>
-        </choice>
-        <choice>
-          <abbr>cu<macron/></abbr>
-          <expan>cum</expan>
-        </choice>
-        fide accedimus; Nam
-
-        <lb n="107" />
-        hodie debent
-        <choice>
-          <orig lang="GK">xpiani</orig>
-          <reg>christiani</reg>
-        </choice>
-        accedere ad
-        <choice>
-          <orig>sacrificiu<macron/></orig>
-          <reg>sacrificium</reg>
-        </choice>
-        <choice>
-          <orig lang="GK">xpi</orig>
-          <reg>christi</reg>
-        </choice>
-        . quia ual
-
-        <lb n="108" />
-        de raro
-        <choice>
-          <orig>cu<macron/>municat</orig>
-          <reg>cummunicat</reg>
-        </choice>
-        qui semel in anno communicat. Cum
-
-        <lb n="109" />
-        canones
-        <choice>
-          <orig>dignu<macron/></orig>
-          <reg>dignum</reg>
-        </choice>
-        doceant excommunicatione qui tres domini
-
+    <pb n="15r" />
         <lb n="110" />
         cas dies peragit sine
         <choice>
-          <orig>co<macron/>munione</orig>
-          <reg>communione</reg>
+          <orig>co<macron/>munione;</orig>
+          <reg>communione;</reg>
         </choice>
-        ; Semel uero natus est
+        Semel uero natus est
         <choice>
-          <orig lang="GK">xps</orig>
+          <orig><lang="GK">xp<macron/>s</orig>
           <reg>christus</reg>
         </choice>
-
-        in humanitate. sed nascitur in corde credentiu[m] frequent[er]
-
-        p[er] fidem: nascatur [et] in nobis uera fide: qui ideo hodie nat[us]
-
-        est ex matre humanitus ut nos ad se p[er]ducer[et] diuinitus;
-
+        <lb n="111" />
+        in humanitate. sed nascitur in corde
+        <choice>
+          <orig>credentiu<macron/></orig>
+          <reg>credentium</reg>
+        </choice>
+        <choice>
+          <orig>frequent<macron/></orig>
+          <reg>frequenter</reg>
+        </choice>
+        <lb n="112" />
+        <choice>
+          <orig>p<macron/></orig>
+          <reg>per</reg>
+        </choice>
+        fidem: nascatur <orig>&amp;</orig>
+        in nobis uera fide: qui ideo hodie
+        <choice>
+          <orig>nat<macron/></orig>
+          <reg>natus</reg>
+        </choice>
+        <lb n="113" />
+        est ex matre humanitus ut nos ad se
+        <choice>
+          <orig>p<macron/>ducer<g ref="amp"/></orig>
+          <reg>perduceret</reg>
+        </choice>
+        diuinitus;
+        <lb n="114" />
         Agamus illi gratias fratres ex intimo corde, quia uocat
+        <lb n="115" />
+        nos ad eternam
+        <choice>
+          <orig>uita<macron/>.</orig>
+          <reg>uitam</reg>
+        </choice>
+        in qua
+        <choice>
+          <orig>cu<macron/></orig>
+          <reg>cum</reg>
+        </choice>
+        illo <g ref="amp"/>
+        <choice>
+          <orig>omnib</orig>
+          <reg>omnibus</reg>
+        </choice>
+        <choice>
+          <orig>sc<macron/>is</orig>
+          <reg>sanctis</reg>
+        </choice>
+        <choice>
+          <orig>ei<macron/></orig>
+          <reg>eius</reg>
+        </choice>
+        aeternali
+        <lb n="116" />
+        ter
+        <choice>
+          <orig>manebib:</orig>
+          <reg>manebibus:</reg>
+        </choice>
+        si in hac mortali uita recta fide <g ref="amp"/> bona
+        <lb n="117" />
+        operatione
+        <choice>
+          <orig>eu<macron/></orig>
+          <reg>eum</reg>
+        </choice>
+        nobis placabimus; Rogo uos fratres
+        <lb n="118" />
+        nolite decipere uos
+        <choice>
+          <orig>m<g ref="amp"/></orig>
+          <reg>met</reg>
+        </choice>
+        ipsos inuicem
+        <choice>
+          <orig>fraudib</orig>
+          <reg>fraudibus</reg>
+        </choice>
+        aut furtis:
+        <lb n="119" />
+        quia tu hodie illum decipis [<g ref="amp"/>
+        <choice>
+          <orig>anima<macron/></orig>
+          <reg>animam</reg>
+        </choice>
+        <choice>
+          <orig>tua<macron/></orig>
+          <reg>tuam</reg>
+        </choice>
+        <choice>
+          <orig>p<macron/>dis.</orig>
+          <reg>perdis</reg>
+        </choice>
+         <g ref="amp"/> ille te
+        <lb n="120" />
+        cras decipit. <g ref="amp"/>
+        <choice>
+          <orig>p<macron/>dit</orig>
+          <reg>perdit</reg>
+        </choice>
+        <choice>
+          <orig>anima<macron/></orig>
+          <reg>animam</reg>
+        </choice>
+        suam; Tunc eritis ambo
+        <choice>
+          <orig>p<macron/>diti</orig>
+          <reg>perditi</reg>
+        </choice>
+        <lb n="121" />
+        carentes substantiis; Nonne
+        <choice>
+          <orig>ess<g ref="amp"/></orig>
+          <reg>esset</reg>
+        </choice>
+         melius <g ref="amp"/> sapientius
+        <lb n="122" />
+        ut tu diligeres
+        <choice>
+          <orig>p<macron/>ximum</orig>
+          <reg>proximum</reg>
+        </choice>
+        <choice>
+          <orig>tuu<macron/>:</orig>
+          <reg>tuum:</reg>
+        </choice>
+        sicut
+        <choice>
+          <orig>ds<macron/></orig>
+          <reg>deus</reg>
+        </choice>
+        precepit <g ref="amp"/> ipse
+        <lb n="123" />
+        <choice>
+          <orig>diliger<g ref="amp"/></orig>
+          <reg>diligeret</reg>
+        </choice>
+        te
+        <choice>
+          <orig>qua<macron/></orig>
+          <reg>quam</reg>
+        </choice>
+        tu
+        <choice>
+          <orig>p<macron/>deres</orig>
+          <reg>perderes</reg>
+        </choice>
+        <choice>
+          <orig>eu<macron/></orig>
+          <reg>eum</reg>
+        </choice>
+        et ipse te decipiendo; Duo
+        <lb n="124" />
+        <choice>
+          <orig>namq</orig>
+          <reg>namque</reg>
+        </choice>
+        uerba precepit
+        <choice>
+          <orig>ds<macron/></orig>
+          <reg>deus</reg>
+        </choice>
+        omnibus
+        <choice>
+          <orig><orig><lang="GK">xp<macron/>anis</orig>
+          <reg>christianis</reg>
+        </choice>
+        custodienda
 
-        nos ad eternam uita[m]. in qua cu[m] illo [et] omnib[us] s[an]c[t]is ei[us] aeternali
-
-        ter manebib[us] si in hac mortali uita recta fide [et] bona
-
-        operatione eu[m] nobis placabimus; Rogo uos fratres
-
-        nolite decipere uos m[et] ipsos inuicem fraudib[us] aut furtis:
-
-        quia tu hodie illum decipis [et] anima[m] tua[m] p[er]dis. [et] ille te
-
-        cras decipit. [et] p[er]dit anima[m] suam; Tunc eritis ambo p[er]diti
-
-        carentes substantiis; Nonne ess[et] melius [et] sapientius
-
-        ut tu diligeres p[ro]ximum tuu[m]: sicut d[eu]s precepit [et] ipse
-
-        diliger[et] te qua[m] tu p[er]deres eu[m] et ipse te decipiendo; Duo
-
-        namq[ue] uerba precepit d[eu]s omnibus chr[isti]anis custodienda
-
-        fol. 15 v
-
-        breuiter quide[m] dicta sed ualde utiliter hoc est pace[m] et ueritate[m]
-
-        diligite dicit d[omi]n[u]s d[eu]s om[ni]p[oten]s; Qui pace[m] diligit: [et] ueritate[m] d[eu]m
-
-        placat sibim[et] ipsi [et] homines non offendit nec alique[m] decipit;
-
-        Qui lites [et] discordia[m] amat filius diaboli est qui mendacium
-
-        [et] fraude[m] amat diabolu[m] sequitur qui est mendax [et] pater
-
-        mendacii [et] nihil agit nisi decipit quos potest; Nam de
-
-        pacificis ait d[omi]n[u]s; Beati pacifici: q[uonia]m filii dei uocabunt[ur]. [et] homo
-
-        qui ueritatem diligit: chr[istu]m sequitur qui dixit. ego sum uia
-
-        [et] ueritas. [et] uita; Breuiter nunc dicim[us]. quia nemo sine pace.
-
-        [et] sine ueritate uiuens in hoc mundo habebit mansionem
-
-        nisi cu[m] diabulo [sic] [et] angelis ei[us] in eterno igne; Et hoc scitote
-
-        fratres quia nichil est tam necesse homini chr[isti]ano scire
-
-        in hac uita. qua[m] ut sciat d[eu]m omnipotente[m] uera fide. [et] anima
-
-        ipsius ut intellegat cur ipse sit homo nat[us] in terra. ad quit [sic]
-
-        creatus. [et] ad quit p[er]ueniat in fine. sed quia sepius ia[m] diximus
-
-        uobis de deo [et] de fide catholica habundanter: uolumus
-
+    <pb n="15v" />
+        <lb n="125" />
+        breuiter
+        <choice>
+          <orig>quide<macron/></orig>
+          <reg>quidem</reg>
+        </choice>
+        dicta sed ualde utiliter hoc est
+        <choice>
+          <orig>pace<macron/></orig>
+          <reg>pacem</reg>
+        </choice>
+        <g ref="amp"/>
+        <choice>
+          <orig>ueritate<macron/></orig>
+          <re>ueritatem</reg>
+        </choice>
+        <lb n="126" />
+        diligite dicit
+        <choice>
+          <orig>dn<macron/>s</orig>
+          <reg>dominus</reg>
+        </choice>
+        <choice>
+           <orig>d<macron/>s</orig>
+           <reg>deus</reg>
+         </choice>
+        <choice>
+          <orig>om<macron/>ps;</orig>
+          <reg>omnipotens;</reg>
+        </choice>
+        Qui
+        <choice>
+          <orig>pace<macron/></orig>
+          <reg>pacem</reg>
+        </choice>
+        diligit: <g ref="amp"/>
+        <choice>
+          <orig>ueritate<macron/></orig>
+          <reg>ueritatem</reg>
+        </choice>
+        <choice>
+           <orig>dm<macron/></orig>
+           <reg>deum</reg>
+        <lb n="127" />
+        placat
+        <choice>
+          <orig>sibim<g ref="amp"/></orig>
+          <reg>sibimet</reg>
+        </choice>
+        ipsi <g ref="amp"/> homines non offendit nec
+        <choice>
+          <orig>alique<macron/></orig>
+          <reg>aliquem</reg>
+        </choice>
+        decipit;
+        <lb n="128" />
+        Qui lites <g ref="amp"/>
+        <choice>
+          <orig>discordia<macron/></orig>
+          <reg>discordiam</reg>
+        </choice>
+        amat filius diaboli est qui mendacium
+        <lb n="129" />
+        <g ref="amp"/>
+        <choice>
+          <orig>fraude<macron/></orig>
+          <reg>fraudem</reg>
+        </choice>
+         amat
+         <choice>
+           <orig>diabolu<macron/></orig>
+           <reg>diabolum</reg>
+         </choice>
+          sequitur qui est mendax <g ref="amp"/> pater
+        <lb n="130" />
+        mendacii <g ref="amp"/> nihil agit nisi decipit quos potest; Nam de
+        <lb n="131" />
+        pacificis ait
+        <choice>
+          <orig>dn<macron/>s;</orig>
+          <reg>dominus</reg>
+        </choice>
+         Beati pacifici:
+         <choice>
+           <orig>qm<macron/></orig>
+           <reg>quoniam</reg>
+         </choice> filii dei
+         <choice>
+           <orig>uocabunt<macron/>.</orig>
+           <reg>uocabuntur.</reg>
+         </choice>
+        <g ref="amp"/> homo
+        <lb n="132" />
+        qui ueritatem diligit:
+        <choice>
+          <orig><orig><lang="GK">xp<macron/></orig>m</orig>
+          <reg>christum</reg>
+        </choice>
+        sequitur qui dixit. ego sum uia
+        <lb n="133" />
+        <g ref="amp"/> ueritas. <g ref="amp"/> uita; Breuiter nunc
+        <choice>
+          <orig>dicim<macron/>.</orig>
+          <reg>dicimus.</reg>
+        </choice>
+        quia nemo sine pace.
+        <lb n="134" />
+        <g ref="amp"/> sine ueritate uiuens in hoc mundo habebit mansionem
+        <lb n="135" />
+        nisi
+        <choice>
+          <orig>cu<macron/></orig>
+          <reg>cum</reg>
+        </choice>
+        diabulo <g ref="amp"/> angelis
+        <choice>
+          <orig>ei<macron/></orig>
+          <reg>eius</reg>
+        </choice>
+        in eterno igne; Et hoc scitote
+        <lb n="136" />
+        fratres quia nichil est tam necesse homini
+        <choice>
+          <orig><orig><lang="GK">xp<macron/></orig>ano</orig>
+          <reg>christiano</reg>
+        </choice>
+        scire
+        <lb n="137" />
+        in hac uita.
+        <choice>
+          <orig>qua<macron/></orig>
+          <reg>quam</reg>
+        </choice>
+        ut sciat
+        <choice>
+          <orig>dm<macron/></orig>
+          <reg>deum</reg>
+        </choice>
+         <choice>
+           <orig>omnipotente<macron/></orig>
+           <reg>omnipotentem</reg>
+         </choice>
+        uera fide. <g ref="amp"/> anima
+        <lb n="138" />
+        ipsius ut intellegat cur ipse sit homo
+        <choice>
+          <orig>nat<macron/></orig>
+          <reg>natus</reg>
+        </choice>
+        in terra. ad quit
+        <lb n="139" />
+        creatus. <g ref="amp"/> ad quit
+        <choice>
+          <orig>p<macron/>ueniat</orig>
+          <reg>perueniat</reg>
+        </choce>
+        in fine. sed quia sepius
+        <choice>
+          <orig>ia<macron/></orig>
+          <reg>iam</reg>
+        </choice>
+        diximus
+        <lb n="140" />
+        uobis de deo <g ref="amp"/> de fide catholica habundanter: uolumus
+        <lb n="141" />
         modo uobis dicere de humana anima breuiter si possumus;
-
-        Nichil aliquid magis homini in hac mortalitate uiuenti
-
-        necessariu[m] est nosse: qua[m] d[eu]m [et] anima[m]; Naturale deniq[ue]
-
-        homini est bonum amare; Quid est bonu[m]. nisi d[eu]s qui solus
-
-        su[m]mum bonu[m] est sine quo bono nil boni quisquam habere
-
+        <lb n="142" />
+        Nichil aliquid magis homini in hac
+        <choice>
+          mortali<add>t</add>ate
+      <-- check this --!>
+        </choice>
+        uiuenti
+        <lb n="143" />
+        <choice>
+          <orig>necessariu<macron/></orig>
+          <reg>necessarium</reg>
+        </choice>
+       est nosse:
+       <choice>
+         <orig>qua<macron/></orig>
+         <reg>quam</reg>
+       </choice>
+        <choice>
+          <orig>dm<macron/></orig>
+          <reg>deum</reg>
+        </choice>
+        <g ref="amp"/>
+        <choice>
+          <orig>anima<macron/>;</orig>
+          <reg>animam</reg>
+        </choice>
+        Naturale
+        <choice>
+          <orig>deniq</orig>
+          <reg>denique</reg>
+        </choice>
+        <lb n="144" />
+        homini est bonum amare; Quid est
+        <choice>
+          <orig>bonu<macron/>.</orig>
+          <reg>bonum.</reg>
+        </choice>
+         nisi
+         <choice>
+           <orig>ds<macron/></orig>
+           <reg>deus</reg>
+         </choice>
+        qui solus
+        <lb n="145" />
+        <choice>
+          <orig>su<macron/>mum</orig>
+          <reg>summum</reg>
+        </choice>
+        <choice>
+          <orig>bonu<macron/></orig>
+          <reg>bonum</reg>
+        </choice>
+         est sine quo bono nil boni quisquam habere
+        <lb n="146" />
         poterit; Amor huius boni non nisi in anima esse poterit;
-
-        [Et] haec sola anima nobilis est qu[a]e illum amat a quo est quod
-
-        est, qui illam talem creauit ut in sensu ipsius imagine[m]. [et] simili
-
-        tudinem haber[et] inpressa[m]. [et] digna d[e]i ess[et] habitatione; Om[ne]s
-
+        <lb n="147" />
+        <g ref="amp"/> haec sola anima nobilis est
+        <choice>
+          <orig>que<macron/></orig>
+          <reg>quae</reg>
+        </choice>
+        illum amat a quo est quod
+        <lb n="148" />
+        est, qui illam talem creauit ut in sensu ipsius
+        <choice>
+          <orig>imagine<macron/>.</orig>
+          <reg>imaginem.</reg>
+        </choice>
+        <g ref="amp"/> simili
+        <lb n="149" />
+        tudinem
+        <choice>
+          <orig>haber<g ref="amp"/></orig>
+           <reg>haberet</reg>
+         </choice>
+         <choice>
+           <orig>inpressa<macron/>.</orig>
+           <reg>inpressam.</reg>
+         </choice>
+        <g ref="amp"/> digna
+        <choice>
+          <orig>di</orig>
+          <reg>dei</reg>
+        </choice>
+        <choice>
+          <orig>ess<g ref="amp"/></orig>
+          <reg>esset</reg>
+        </choice>
+         habitatione;
+        <choice>
+            <orig>Om<macron/>s</orig>
+            <reg>Omnes</reg>
+          </choice>
         <lb n="150" />
         <choice>
-          <abbr>eni<macron/></abbr>
-          <expan>enim</expan>
+          <orig>eni<macron/></orig>
+          <reg>enim</reg>
         </choice>
         catholici scriptores in hoc consentiunt, quod anima a
         <choice>
-          <abbr>do<macron/></abbr>
-          <expan>deo</expan>
+          <orig>do<macron/></orig>
+          <reg>deo</reg>
         </choice>
-
-        <lb n="151" />
-        sit condita nec
-        <choice>
-          <abbr>parte<macron/></abbr>
-          <expan>partem</expan>
-        </choice>
-        <choice>
-          <abbr>ea<macron/></abbr>
-          <expan>eam</expan>
-        </choice>
-        <choice>
-          <abbr>e<macron/>s</abbr>
-          <expan>esse</expan>
-        </choice>
-        dei naturae; Quia si ex dei
-
-        <lb n="152" />
-        ess<g ref="amp"/> natura assumpta. peccare non poss<g ref="amp"/>; Unde ait salomon:
-
-        <lb n="153" />
-        reuertatur puluis in
-        <choice>
-          <abbr>terra<macron/></abbr>
-          <expan>terram</expan>
-        </choice>
-        <choice>
-          <abbr>sua<macron/></abbr>
-          <expan>suam</expan>
-        </choice>
-        unde erat:
-        <choice>
-          <abbr>&amp;</abbr>
-          <expan>et</expan>
-        </choice>
-        <choice>
-          <abbr>sp<macron/>s</abbr>
-          <expan>spiritus</expan>
-        </choice>
-        redeat ad
-        <choice>
-          <abbr>dm<macron/></abbr>
-          <expan>deum</expan>
-        </choice>
-
-        <pb n="16r" facs="data/images/fol_5v.png" />
-
-        <lb n="154" />
-        qui dedit illum; Et
-        <choice>
-          <abbr>dn<macron/>s</abbr>
-          <expan>dominus</expan>
-        </choice>
-        loquitur per
-        <choice>
-          <abbr>p<macron/>phetam</abbr>
-          <expan>prophetam</expan>
-        </choice>
-        ; Omnem flatum
-
-        <lb n="155" />
-        ego feci:
-        <choice>
-          <abbr>&amp;</abbr>
-          <expan>Et</expan>
-        </choice>
-        <choice>
-          <abbr>iteru<macron/></abbr>
-          <expan>iterum</expan>
-        </choice>
-        <choice>
-          <abbr>scriptu<macron/></abbr>
-          <expan>scriptum</expan>
-        </choice>
-        est. qui fingit
-        <choice>
-          <abbr>sp<macron/>m</abbr>
-          <expan>spiritum</expan>
-        </choice>
-        hominis in ipso; Et
-
-        <lb n="156" />
-        <choice>
-          <abbr>apts</abbr>
-          <expan>apostolus</expan>
-        </choice>
-        paulus.
-        <choice>
-          <abbr>&amp;</abbr>
-          <expan>et</expan>
-        </choice>
-        ipse d<g ref="amp"/> omnibus
-        <choice>
-          <abbr>uita<macron/></abbr>
-          <expan>uitam</expan>
-        </choice>
-        <choice>
-          <abbr>&amp;</abbr>
-          <expan>et</expan>
-        </choice>
-        <choice>
-          <abbr>sp<macron/>m</abbr>
-          <expan>spiritum</expan>
-        </choice>
-        ; Triplex est enim
-
-        <lb n="157" />
-        animae ut philosophi uolunt natura: Est in ea quaedam
-
-        <lb n="158" />
-        pars concupisscibilis. alia rationabilis. tertia irascibilis; Duas
-
-        <lb n="159" />
-        enim habent
-        <choice>
-          <abbr>haru<macron/></abbr>
-          <expan>harum</expan>
-        </choice>
-        partes
-        <choice>
-          <abbr>nobiscu<macron/></abbr>
-          <expan>nobiscum</expan>
-        </choice>
-        bestiae
-        <choice>
-          <abbr>&amp;</abbr>
-          <expan>et</expan>
-        </choice>
-        animalia com
-
-        <lb n="160" />
-        munes id est
-        <choice>
-          <abbr>concupiscentia<macron/></abbr>
-          <expan>concupiscentiam</expan>
-        </choice>
-        <choice>
-          <abbr>&amp;</abbr>
-          <expan>et</expan>
-        </choice>
-        iram; Homo solus inter in
-
-        <lb n="161" />
-        rationabiles ratione uig<g ref="amp"/>. consilio ual<g ref="amp"/> intellegentia ante
-
-        <lb n="162" />
-        cellit; Concupiscentia data est homini ad cupiscenda quae
-
-        <lb n="163" />
-        sunt utilia.
-        <choice>
-          <abbr>&amp;</abbr>
-          <expan>et</expan>
-        </choice>
-        quae sibi ad
-        <choice>
-          <abbr>salute<macron/></abbr>
-          <expan>salutem</expan>
-        </choice>
-        <choice>
-          <abbr>p<macron/>ficiant</abbr>
-          <expan>proficiant</expan>
-        </choice>
-        <choice>
-          <abbr>sempiterna<macron/></abbr>
-          <expan>sempiternam</expan>
-        </choice>
-        ; Si uero
-
-        <lb n="164" />
-        corrumpitur.
-        <choice>
-          <abbr>nascitu<macron/></abbr>
-          <expan>nascitur</expan>
-        </choice>
-        ex ea gastrimargia fornicatio.
-        <choice>
-          <abbr>&amp;</abbr>
-          <expan>et</expan>
-        </choice>
-
-        <lb n="165" />
-        philargiria; Ira data est ad uitia cohibenda ne impiis id est
-
-        <lb n="166" />
-        peccatis homo seruiat dominis quia iuxta
-        <choice>
-          <abbr>dn<macron/>i</abbr>
-          <expan>domini</expan>
-        </choice>
-        uocem qui
-
-        <lb n="167" />
-        facit
-        <choice>
-          <abbr>peccatu<macron/></abbr>
-          <expan>peccatum</expan>
-        </choice>
-        seruus est peccati; Ex qua corrupta
-        <choice>
-          <abbr>p<macron/>cedit</abbr>
-          <expan>procedit</expan>
-        </choice>
-
-        <lb n="168" />
-        tristitia.
-        <choice>
-          <abbr>&amp;</abbr>
-          <expan>et</expan>
-        </choice>
-        accidia; Ratio data est ut diximus omnem
-
-        <lb n="169" />
-        hominis
-        <choice>
-          <abbr>uita<macron/></abbr>
-          <expan>uitam</expan>
-        </choice>
-        regere
-        <choice>
-          <abbr>&amp;</abbr>
-          <expan>et</expan>
-        </choice>
-        gubernare; Ex qua si corrumpitur
-
-        <lb n="170" />
-        <choice>
-          <abbr>orit<macron/></abbr>
-          <expan>oritur</expan>
-        </choice>
-        .
-        <choice>
-          <abbr>sup<macron/>bia</abbr>
-          <expan>superbia</expan>
-        </choice>
-        .
-        <choice>
-          <abbr>&amp;</abbr>
-          <expan>et</expan>
-        </choice>
-        caeno doxia; Paruulis
-        <choice>
-          <abbr>eni<macron/></abbr>
-          <expan>enim</expan>
-        </choice>
-        ratio crescit non
-
-        <lb n="171" />
-        anima.
-        <choice>
-          <abbr>&amp;</abbr>
-          <expan>et</expan>
-        </choice>
-        <choice>
-          <abbr>p<macron/>ficiendo</abbr>
-          <expan>proficiendo</expan>
-        </choice>
-        ad uirtutem non maior fit. sed melior
-
-        <lb n="172" />
-        nec
-        <choice>
-          <abbr>corporale<macron/></abbr>
-          <expan>corporalem</expan>
-        </choice>
-        recipit
-        <choice>
-          <abbr>quantitate<macron/></abbr>
-          <expan>quantitatem</expan>
-        </choice>
-        ; Hab<g ref="amp"/> igitur anima in
-
-        <lb n="173" />
-        sua natura ut
-        <choice>
-          <abbr>dixim<macron/></abbr>
-          <expan>diximus</expan>
-        </choice>
-        <choice>
-          <abbr>imagine<macron/></abbr>
-          <expan>imaginem</expan>
-        </choice>
-        <choice>
-          <abbr>sc<macron/>ae</abbr>
-          <expan>sanctae</expan>
-        </choice>
-        trinitatis. in eo quod in
-
-        <lb n="174" />
-        tellegentiam
-        <choice>
-          <abbr>uoluntate<macron/></abbr>
-          <expan>uoluntatem</expan>
-        </choice>
-        :
-        <choice>
-          <abbr>&amp;</abbr>
-          <expan>et</expan>
-        </choice>
-        <choice>
-          <abbr>memoria<macron/></abbr>
-          <expan>memoriam</expan>
-        </choice>memoria[m] hab<g ref="amp"/>; Una est
-
-        <lb n="175" />
-        <choice>
-          <abbr>eni<macron/></abbr>
-          <expan>enim</expan>
-        </choice>
-        anima quae mens dicitur. una uita.
-        <choice>
-          <abbr>&amp;</abbr>
-          <expan>et</expan>
-        </choice>
-        una substantia.
-
-        <lb n="176" />
-        quae haec tria hab<g ref="amp"/> in se: sed
-        <choice>
-          <abbr>h<macron/>ec</abbr>
-          <expan>haec</expan>
-        </choice>
-        tria non sunt tres uitae
-
-        <lb n="177" />
-        sed una uita; Nec tres
-        <choice>
-          <abbr>substanti<macron/>e</abbr>
-          <expan>substantiae</expan>
-        </choice> sed una; Quod uero ani
-
-        <lb n="178" />
-        ma uel mens uel uita. uel substantia dicitur. ad se ipsam
-
-        <lb n="179" />
-        <choice>
-          <abbr>dicit<macron/></abbr>
-          <expan>dicitur</expan>
-        </choice>
-        ; Quod uero memoria. uel intellegentia. uel uolun
-
-        <lb n="180" />
-        tas dicitur. ad aliquid relatiue dicitur; Nam in his
-        <choice>
-          <abbr>trib<macron/></abbr>
-          <expan>tribus</expan>
-        </choice>
-
-        <lb n="181" />
-        unitas
-        <choice>
-          <abbr>quaeda<macron/></abbr>
-          <expan>quadam</expan>
-        </choice>
-        est. quia quicquid ad se ipsa singula
-        <choice>
-          <abbr>dicunt<macron/></abbr>
-          <expan>dicuntur</expan>
-        </choice>
-
-        <lb n="182" />
-        <g ref="amp"/>iam simul: non pluraliter sed singulariter dicuntur;
-
-        <pb n="16v" facs="data/images/fol_5v.png" />
-
-        <lb n="183" />
-        Intellego me intellegere uelle:
-        <choice>
-          <abbr>&amp;</abbr>
-          <expan>et</expan>
-        </choice>
-        meminisse;
-        <choice>
-          <abbr>&amp;</abbr>
-          <expan>Et</expan>
-        </choice>
-        uolo me intellegere.
-        <choice>
-          <abbr>&amp;</abbr>
-          <expan>et</expan>
-        </choice>
-        me
-
-        <lb n="184" />
-        minisse.
-        <choice>
-          <abbr>&amp;</abbr>
-          <expan>et</expan>
-        </choice>
-        uelle; Et minime intellegere: uel uelle. uel memi
-
-        <lb n="185" />
-        nisse.
-        <choice>
-          <abbr>&amp;</abbr>
-          <expan>et</expan>
-        </choice>
-        sic in singulis singula capiuntur;
-        <choice>
-          <abbr>Considerem<macron/></abbr>
-          <expan>Consideremus</expan>
-        </choice>
-        <choice>
-          <abbr>aute<macron/></abbr>
-          <expan>autem</expan>
-        </choice>
-
-        <lb n="186" />
-        miram uelocitatem animae in formandis rebus. quae
-        <choice>
-          <abbr>p<macron/>cipit</abbr>
-          <expan>percipit</expan>
-        </choice>
-
-        <lb n="187" />
-        <choice>
-          <abbr>p<macron/></abbr>
-          <expan>per</expan>
-        </choice>
-        carnales sensus a
-        <choice>
-          <abbr>quib<macron/></abbr>
-          <expan>quibus</expan>
-        </choice>
-        quasi
-        <choice>
-          <abbr>p<macron/></abbr>
-          <expan>per</expan>
-        </choice>
-        quosdam nuntios quicquid
-
-        <lb n="188" />
-        rerum
-        <choice>
-          <abbr>uisibiliu<macron/></abbr>
-          <expan>uisibilium</expan>
-        </choice>
-        <choice>
-          <abbr>cognitaru<macron/></abbr>
-          <expan>cognitarum</expan>
-        </choice>
-        uel
-        <choice>
-          <abbr>incognitaru<macron/></abbr>
-          <expan>incognitarum</expan>
-        </choice>
-        <choice>
-          <abbr>p<macron/>cipit</abbr>
-          <expan>percipit</expan>
-        </choice>
-        : mox
-
-        <lb n="189" />
-        in se ipsa
-        <choice>
-          <abbr>earu<macron/></abbr>
-          <expan>earum</expan>
-        </choice>
-        ineffabili celeritate format figuras. for
-
-        <lb n="190" />
-        matasque in suo thesauro memoriae recondit; Sicut
-
-        <lb n="191" />
-        enim qui romam
-        <choice>
-          <abbr>quonda<macron/></abbr>
-          <expan>quondam</expan>
-        </choice>
-        uidit.
-        <choice>
-          <abbr>iteru<macron/></abbr>
-          <expan>iterum</expan>
-        </choice>
-        <choice>
-          <abbr>cu<macron/></abbr>
-          <expan>cum</expan>
-        </choice>
-        nomen audierit
-
-        <lb n="192" />
-        romam fingit in animo suo
-        <choice>
-          <abbr>&amp;</abbr>
-          <expan>et</expan>
-        </choice>
-        format qualis sit; Et ad
-
-        <lb n="193" />
-        huc mirabilius est quod incognitae res si lectae uel audit[a]e
-
-        <lb n="194" />
-        erunt in
-        <choice>
-          <abbr>auri:</abbr>
-          <expan>aurbus</expan>
-        </choice>
-        <choice>
-          <abbr>anim<macron/></abbr>
-          <expan>animae</expan>
-        </choice>
-        : statim format
-        <choice>
-          <abbr>figura<macron/></abbr>
-          <expan>figuram</expan>
-        </choice>
-        <choice>
-          <abbr>ignote</abbr>
-          <expan>ignotae</expan>
-        </choice>
-
-        <lb n="195" />
-        rei; Ex notis enim speciebus fingit ignota: Ex qua ueloci
-
-        <lb n="196" />
-        tate animae quo in se sic omnia fingit audita: aut uisa.
-
-        <lb n="197" />
-        aut sensa: aut odorata: aut gustata.
-        <choice>
-          <abbr>iteru<macron/></abbr>
-          <expan>iterum</expan>
-        </choice>
-        inuenta recog
-
-        <lb n="198" />
-        noscit siue curando siue non curando;
-        <choice>
-          <abbr>&amp;</abbr>
-          <expan>Et</expan>
-        </choice>
-        tante mobilita
-
-        <lb n="199" />
-        tis est ut nec
-        <choice>
-          <abbr>cu</abbr>
-          <expan>cum</expan>
-        </choice>
-        sopita est conquiescat;
-        <choice>
-          <abbr>Tante<macron/></abbr>
-          <expan>Tantae</expan>
-        </choice>
-        celeritatis
-
-        <lb n="200" />
-        ut uno temporis puncto
-        <choice>
-          <abbr>caelu</abbr>
-          <expan>caelum</expan>
-        </choice>
-        conlustr<g ref="amp"/> si uelit; Maria
-
-        <lb n="201" />
-        <choice>
-          <abbr>p>macron/>uolat</abbr>
-          <expan>peruolat</expan>
-        </choice>
-        . terras
-        <choice>
-          <abbr>&amp;</abbr>
-          <expan>et</expan>
-        </choice>
-        urbes
-        <choice>
-          <abbr>p<macron/>agr&amp;</abbr>
-          <expan>peragret</expan>
-        </choice>
-        . omnia in conspectu sibi
-
-        <lb n="202" />
-        cogitando constituens; Sed
-        <choice>
-          <abbr>cu<macron/></abbr>
-          <expan>cum</expan>
-        </choice>
-        de roma cogitat. non eo
-
-        <lb n="203" />
-        momento de hierusalem potest cogitare; Uel
-        <choice>
-          <abbr>cu<macron/></abbr>
-          <expan>cum</expan>
-        </choice>
-        de qua
-
-        <lb n="204" />
-        lib<g ref="amp"/> una
-        <choice>
-          <abbr>remeditat<macron/></abbr>
-          <expan>remeditatur</expan>
-        </choice>
-        non potest eo momento de
-        <choice>
-          <abbr>plurib:</abbr>
-          <expan>pluribus</expan>
-        </choice>
-
-        <lb n="205" />
-        meditari. sed hoc
-        <choice>
-          <abbr>unu<macron/></abbr>
-          <expan>unum</expan>
-        </choice>
-        illi tunc presens est donec uel
-
-        <lb n="206" />
-        citius uel tardius
-        <choice>
-          <abbr>he<macron/>c</abbr>
-          <expan>haec</expan>
-        </choice>
-        cogitatio recedat
-        <choice>
-          <abbr>&amp;</abbr>
-          <expan>et</expan>
-        </choice>
-        alia
-        <choice>
-          <abbr>sup<macron/></abbr>
-          <expan>super</expan>
-        </choice>
-
-        <lb n="207" />
-        ueniat; At
-        <choice>
-          <abbr>di<macron/></abbr>
-          <expan>dei</expan>
-        </choice>
-        omnipotentis
-        <choice>
-          <abbr>nature<macron/></abbr>
-          <expan>naturae</expan>
-        </choice>
-        <choice>
-          <abbr>&amp;</abbr>
-          <expan>et</expan>
-        </choice>
-        ineffabili cog
-
-        <lb n="208" />
-        nitioni omnia simul sunt presentia.
-        <choice>
-          <abbr>&amp;</abbr>
-          <expan>et</expan>
-        </choice>
-        <choice>
-          <abbr>semp<macron/></abbr>
-          <expan>semper</expan>
-        </choice>
-        <choice>
-          <abbr>p<macron/>sentia</abbr>
-          <expan>praesentia</expan>
-        </choice>
-        .
-
-        <lb n="209" />
-        <choice>
-          <abbr>&amp;</abbr>
-          <expan>et</expan>
-        </choice>
-        <choice>
-          <abbr>numqua</abbr>
-          <expan>numquam</expan>
-        </choice>
-        recedentia.
-        <choice>
-          <abbr>&amp;</abbr>
-          <expan>et</expan>
-        </choice>
-        hoc est quod dicitur quod
-
-        <lb n="210" />
-        <choice>
-          <abbr>d<macron/>s</abbr>
-          <expan>deus</expan>
-        </choice>
-        <choice>
-          <abbr>ubiq:</abbr>
-          <expan>ubique</expan>
-        </choice>
-        totus est. quia quae sunt. uel fuerunt. uel
-
-        <lb n="211" />
-        quae futura sunt: simul omnia non semel sed semper
-
-        <pb n="17r" facs="data/images/fol_5v.png" />
-
-        <lb n="212" />
-        presentia hab<g ref="amp"/>; Anima
-        <choice>
-          <abbr>namq:</abbr>
-          <expan>namque</expan>
-        </choice>
-        corporis uita est anime
-
-        <lb n="213" />
-        uero uita
-        <choice>
-          <abbr>d<macron/>s</abbr>
-          <expan>deus</expan>
-        </choice>
-        est; Dum anima corpus deserit: moritur;
-
-        <lb n="214" />
-        Animae uero mors est dum eam
-        <choice>
-          <abbr>d<macron/>s</abbr>
-          <expan>deus</expan>
-        </choice>
-        deserit dono suae
-
-        <lb n="215" />
-        gratiae.
-        <choice>
-          <abbr>&amp;</abbr>
-          <expan>et</expan>
-        </choice>
-        ob
-        <choice>
-          <abbr>magnitude<macron/></abbr>
-          <expan>magnitudem</expan>
-        </choice>
-        scelerum moritur meliore
-
-        <lb n="216" />
-        sui parte.
-        <choice>
-          <abbr>&amp;</abbr>
-          <expan>et</expan>
-        </choice>
-        erit semiuiua.
-        <choice>
-          <abbr>&amp;</abbr>
-          <expan>et</expan>
-        </choice>
-        hoc erit si concupiscentia
-
-        <lb n="217" />
-        uel ira. plus dominabitur in homine quam ratio in qua
-
-        <lb n="218" />
-        sola precellit animantibus; Duabus uero dignitatibus
-
-        <lb n="219" />
-        a creatore anima in sua natura glorificata est. id est
-
-        <lb n="220" />
-        aeternitate.
-        <choice>
-          <abbr>&amp;</abbr>
-          <expan>et</expan>
-        </choice>
-        beatitudine; Sed cum libero arbitrio
-
-        <lb n="221" />
-        maligno
-        <choice>
-          <abbr>sp<macron/>u</abbr>
-          <expan>spiritu</expan>
-        </choice>
-        instigante deprauata est, beatitudinem
-        <choice>
-          <abbr>p<macron/>di</abbr>
-          <expan>perdi</expan>
-        </choice> p[er]di
-
-        <lb n="222" />
-        dit.
-        <choice>
-          <abbr>aeternitate<macron/></abbr>
-          <expan>aeternitatem</expan>
-        </choice>
-        <choice>
-          <abbr>p<macron/>dere</abbr>
-          <expan>perdere</expan>
-        </choice> non potuit; Cuius pulchritudo
-
-        <lb n="223" />
-        <choice>
-          <abbr>uirtu<macron/></abbr>
-          <expan>uirtus</expan>
-        </choice>
-        est.
-        <choice>
-          <abbr>&amp;</abbr>
-          <expan>et</expan>
-        </choice>
-        <choice>
-          <abbr>ei<macron/></abbr>
-          <expan>eius</expan>
-        </choice>
-        deformitas
-        <choice>
-          <abbr>uitiu<macron/></abbr>
-          <expan>uitium</expan>
-        </choice>
-        ; Cuius excellentiores
-
-        <lb n="224" />
-        uirtutes quattuor esse
-        <choice>
-          <abbr>manifestu<macron/></abbr>
-          <expan>manifestum</expan>
-        </choice>
-        est; Id est, prudentia
-
-        <lb n="225" />
-        quae
-        <choice>
-          <abbr>d<macron/>m</abbr>
-          <expan>deum</expan>
-        </choice>
-        intellegit
-        <choice>
-          <abbr>amandu<macron/></abbr>
-          <expan>amandum</expan>
-        </choice>
-        .
-        <choice>
-          <abbr>&amp;</abbr>
-          <expan>et</expan>
-        </choice>
-        agenda uel non agenda
-
-        <lb n="226" />
-        discernit; Iustitia, qua
-        <choice>
-          <abbr>d<macron/>s</abbr>
-          <expan>deus</expan>
-        </choice>
-        colitur
-        <choice>
-          <abbr>&amp;</abbr>
-          <expan>et</expan>
-        </choice>
-        <choice>
-          <abbr>amat<macron/></abbr>
-          <expan>amatur</expan>
-        </choice>
-        ,
-        <choice>
-          <abbr>&amp;</abbr>
-          <expan>et</expan>
-        </choice>
-        recte
-        <choice>
-          <abbr>uiuit<macron/></abbr>
-          <expan>uiuitur</expan>
-        </choice>
-        ;
-
-        <lb n="227" />
-        Temperantia. qua
-        <choice>
-          <abbr>concupiscentia<macron/></abbr>
-          <expan>concupiscentiam</expan>
-        </choice>
-        uel iram gubernat;
-
-        <lb n="228" />
-        Fortitudo, qua
-        <choice>
-          <abbr>p<macron/></abbr>
-          <expan>pro</expan>
-        </choice>
-        dei amore fortiter omnia aduersa
-
-        <lb n="229" />
-        huius uitae constanti animo tolerat; Et hae quattuor
-
-        <lb n="230" />
-        uirtutes uno caritatis diademate ornantur: Haec est
-
-        <lb n="231" />
-        <choice>
-          <abbr>eni<macron/></abbr>
-          <expan>enim</expan>
-        </choice>
-        animae summa beatitudo.
-        <choice>
-          <abbr>eu<macron/></abbr>
-          <expan>eum</expan>
-        </choice>
-        diligere a quo est.
-
-        <lb n="232" />
-        <choice>
-          <abbr>&amp;</abbr>
-          <expan>et</expan>
-        </choice>
-        socias suae beatitudinis diligere animas.
-        <choice>
-          <abbr>&amp;</abbr>
-          <expan>et</expan>
-        </choice>
-        illis
-        <choice>
-          <abbr>p<macron/>desse</abbr>
-          <expan>prodesse</expan>
-        </choice>
-
-        <lb n="233" />
-        in
-        <choice>
-          <abbr>quant</abbr>
-          <expan>quantum</expan>
-        </choice>
-        ualeat; Hoc modo anima definiri potest.
-
-        <lb n="234" />
-        iuxta
-        <choice>
-          <abbr>su<macron/>e</abbr>
-          <expan>suae</expan>
-        </choice>
-        <choice>
-          <abbr>p<macron/>prietatem</abbr>
-          <expan>proprietatem</expan>
-        </choice>
-        <choice>
-          <abbr>natur<macron/>e</abbr>
-          <expan>naturae</expan>
-        </choice>
-        ; Anima est
-        <choice>
-          <abbr>sp<macron/>s</abbr>
-          <expan>spiritus</expan>
-        </choice>
-        intel
-
-        <lb n="235" />
-        lectualis. rationalis:
-        <choice>
-          <abbr>semp<macron/></abbr>
-          <expan>semper</expan>
-        </choice>
-        inmota
-        <choice>
-          <abbr>semp<macron/></abbr>
-          <expan>semper</expan>
-        </choice>
-        uiuens. bonae.
-
-        <lb n="236" />
-        <choice>
-          <abbr>maleq:<macron/></abbr>
-          <expan>maleque</expan>
-        </choice>
-        uoluntatis capax. sed
-        <choice>
-          <abbr>dm<macron/></abbr>
-          <expan>domini</expan>
-        </choice>
-        benignitate creatoris
-
-        <lb n="237" />
-        libero arbitrio nobilitata: sua uoluntate uitiata. dei
-
-        <lb n="238" />
-        gratia liberata in
-        <choice>
-          <abbr>quib:</abbr>
-          <expan>quibus</expan>
-        </choice> ipse
-        <choice>
-          <abbr>dn<macron/>s</abbr>
-          <expan>dominus</expan>
-        </choice>
-        uoluit. ad
-        <choice>
-          <abbr>regendu<macron/></abbr>
-          <expan>regendum</expan>
-        </choice>
-        <choice>
-          <abbr>mot<macron/></abbr>
-          <expan>motus</expan>
-        </choice>
-
-        <lb n="239" />
-        carnis creata: inuisibilis. incorporalis. sine pondere. sine
-
         <lb n="240" />
         colore:
         <choice>
-          <abbr>ciru<macron/>scripta</abbr>
-          <expan>circumscripta</expan>
+          <orig>circu<macron/></orig>
+          <reg>circum</reg>
         </choice>
-        . in singulis suae carnis membris tota
+        scripta. in singulis suae carnis membris tota
 
-        fol. 17 v
-
+    <pb n="17v" />
+        <lb n="241" />
         in qua est imago conditoris spiritaliter inpressa; Non ha
-
-        bens in se potestate[m] exeundi de carne [et] redeundi iteru[m] in eam
-
-        sed ei[us] arbitrio qui fecit ea[m] carniq[ue] inmisit; In qua est amor
-
-        naturaliter, qui amor intellectu discernendus est [et] ratio
-
-        ne ut inlicitas delectationes deuit[et]. [et] ea am[et] qu[a]e amanda
-
-        sunt; Secundu[m] officiu[m] operis sui uariis nunccupat[ur] nominib[us];
-
-        Anima est du[m] uiuificat. du[m] contemplat[ur] sp[iritu]s est. du[m] sentit
-
-        sensus est. du[m] sapit, anim[us] est; du[m] intellegit mens est du[m]
-
-        discernit, ratio e[st]: du[m] consentit, uoluntas est. du[m] recor
-
-        datur memoria est. Non tamen haec diuidentur in sub
-
-        stantia quia h[a]ec omnia, una est anima; Inter sp[iritu]m [et] anima[m]
-
-        huius modi potest differentia e[ss]e quod omnis anima
-
-        sp[iritu]s est. non tamen omnis sp[iritu]s anima: Sed [et] paulus ap[os]t[olu]s
-
-        mirabiliter discernit inter sp[iritu]m [et] mente[m] dicens psallam
-
-        sp[irit]u psalla[m] [et] mente; Sp[irit]u psallit, qui rerum obscuras sig-
-
-        nificationes non intellegens ore p[ro]fert. psallit mente
-
+        <lb n="242" />
+        bens in se
+        <choice>
+          <orig>potestate<macron/></orig>
+          <reg>potestate</reg>
+        </choice>
+         exeundi de carne <g ref="amp"/> redeundi
+         <choice>
+           <orig>iteru<macron/></orig>
+           <reg>iterum</reg>
+         </choice>
+        in eam
+        <lb n="243" />
+        sed
+        <choice>
+          <orig>ei<macron/></orig>
+          <reg.eius</reg>
+        </choice>
+         arbitrio qui fecit
+         <choice>
+           <orig>ea<macron/></orig>
+           <reg>eam</reg>
+          <choice>
+            <orig>carniq:</orig>
+            <reg>carnique:</reg>
+          </choice>
+        inmisit; In qua est amor
+        <lb n="244" />
+        naturaliter, qui amor intellectu discernendus est <g ref="amp"/> ratio
+        <lb n="245" />
+        ne ut inlicitas delectationes
+        <choice>
+          <orig>deuit<g ref="amp"/>.</orig>
+          <reg>deuitet</reg>
+        </choice>
+        <g ref="amp"/> ea
+        <choice>
+          <orig>am<g ref="amp"/></orig>
+          <reg>amet</reg>
+        </choice>
+        <choice>
+          <orig>que<macron/></orig>
+          <reg>quae</reg>
+        </choice>
+        amanda
+        <lb n="246" />
+        sunt;
+        <choice>
+          <orig>Secundu<macron/></orig>
+          <reg>Secundum</reg>
+        </choice>
+        <choice>
+           <orig>officiu<macron/></orig>
+           <reg>officium</reg>
+         </choice>
+        operis sui uariis
+        <choice>
+          <orig>nunccupat<macron/></orig>
+          <reg>nuncupatur</reg>
+        </choice>
+        <choice>
+          <orig>nominib<macron/>;</orig>
+          <reg>nominibus</reg>
+        </choice>
+        <lb n="247" />
+        Anima est
+        <choice>
+          <orig>du<macron/></orig>
+          <reg>dum</reg>
+        </choice>
+        uiuificat.
+        <choice>
+          <orig>du<macron/></orig>
+          <reg>dum</reg>
+        </choice>
+        <choice>
+           <orig>contemplat<macron/></orig>
+           <reg>contemplatur</reg>
+         </choice>
+        <choice>
+          <orig>sp<macron/>s</orig>
+          <reg>spiritus</reg>
+        </choice>
+        est.
+        <choice>
+          <orig>du<macron/></orig>
+          <reg>dum</reg>
+        </choice>
+        sentit
+        <lb n="248" />
+        sensus est.
+        <choice>
+          <orig>du<macron/></orig>
+          <reg>dum</reg>
+        </choice>
+        sapit,
+        <Choice>
+          <orig>anim<macron/></orig>
+          <reg>animus</reg>
+        </choice>
+        est;
+        <choice>
+          <orig>du<macron/></prig>
+          <reg>dum</reg>
+        </choice>
+        intellegit mens est
+        <choice>
+          <orig>du<macron/></orig>
+          <reg>dum</reg>
+        </choice>
+        <lb n="249" />
+        discernit, ratio
+        <choice>
+          <orig>e<macron/>:</orig>
+          <reg>est:</reg>
+        </choice>
+        <choice>
+          <orig>du<macron/></orig>
+          <reg>dum</reg>
+        </choice>
+        consentit, uoluntas est.
+        <choice>
+          <orig>du<macron/></orig>
+          <reg>dum</reg>
+        </choice>
+        recor
+        <lb n="250" />
+        datur memoria est. Non tamen haec diuidentur in sub-
+        <lb n="251" />
+        stantia quia
+        <choice>
+          <orig>he<macron/>c</orig>
+          <reg>haec</reg>
+        </choice>
+        omnia, una est anima; Inter
+        <choice>
+          <orig>sp<macron/>m</orig>
+          <reg>spiritum</reg>
+        </choice>
+        <g ref="amp"/>
+        <choice>
+          <orig>anima<macron/></orig>
+          <reg>animam</reg>
+        <lb n="252" />
+        huius modi potest differentia
+        <choice>
+          <orig>e<macron/>e</orig>
+          <reg>esse</reg>
+        </choice>
+        quod omnis anima
+        <lb n="253" />
+        <choice>
+          <orig>sp<macron/>s</orig>
+          <reg>spiritus</reg>
+        </choice>
+         est. non tamen omnis
+         <choice>
+           <orig>sp<macron/>s<orig>
+           <reg>spiritus</reg>
+         </choice>
+        anima: Sed <g ref="amp"/> paulus
+        <choice>
+          <orig>apts<macron/></orig>
+          <reg>apostolus</reg>
+        </choice>
+        <lb n="254" />
+        mirabiliter discernit inter
+        <choice>
+          <orig>sp<macron/>m</orig>
+          <reg>spiritum</reg>
+        </choice>
+        <g ref="amp"/>
+        <choice>
+          <orig>mente<macron/></orig>
+          <reg>mentem</reg>
+        </choice>
+        dicens psallam
+        <lb n="255" />
+        <choice>
+          <orig>sp<macron/>u</orig>
+          <reg>spiritu</reg>
+        </choice>
+        <choice>
+           <orig>psalla<macron/></orig>
+           <reg>psallam</reg>
+         </choice>
+        <g ref="amp"/> mente;
+        <choice>
+          <orig>Sp<macron/>u</orig>
+          <reg>Spiritu</reg>
+        </choice>
+        psallit, qui rerum obscuras sig-
+        <lb n="256" />
+        nificationes non intellegens ore
+        <choice>
+          <orig>p<macron/>fert.</orig>
+          <reg>profert.</reg>
+        </choice>
+        psallit mente
+        <lb n="257" />
         qui easdem significationes mentis efficacia intellegit;
+        <lb n="258" />
+        Regit
+        <choice>
+          <orig>eni<macron/></orig>
+          <reg>enim</reg>
+        </choice>
+        anima corpus
+        <choice>
+          <orig>p<macron/></orig>
+          <reg>per</reg>
+        </choice>
+        <choice>
+          <orig>quinq<macron/></orig>
+          <reg>quinque</reg>
+        </choice>
+        sensus quasi de sede
+        <lb n="259" />
+        regalis culminis
+        <choice>
+          <orig>qua<macron/><orig>
+          <reg>quam</reg>
+        </choice>
+        decet considerare diligenter quasi
+        <lb n="260" />
+        <choice>
+          <orig>domina<macron/></orig>
+          <reg>dominam</reg>
+        </choice>
+        quid cuique membro
+        <choice>
+          <orig>imper<g ref="amp"/></orig>
+          <reg>imperet</reg>
+        </choice>
+        <choice>
+           <orig>faciendu<macron/>;</orig>
+           <reg>faciendum</reg>
+         </choice>
+        Quid
+        <lb n="261" />
+        <choice>
+          <orig>cuiq<macron/></orig>
+          <reg>cuique</reg>
+        </choice>
+        consentiat in desiderio suae naturae. ne quid in
+        <lb n="262" />
+        <orig>decens</orig>
+        <corr>do<add>e</add>cens</corr>
+        fiat in officio suae carnis alicubi; Sicut
+        <choice>
+          <orig>eni<macron/></orig>
+          <reg>enim</reg>
+        </choice>
+        <choice>
+           <orig>ds<macron/></orig>
+           <reg>deus</reg>
+         </choice>
+        <lb n="263" />
+        <choice>
+          <orig>omne<macron/><orig>
+          <reg>omnem<.reg>
+        </choice>
+        <choice>
+          <orig>creatura<macron/>.</orig>
+          <reg>creaturam</reg>
+        </choice>
+        sic anima
+        <choice>
+          <orig>omne<macron/></orig>
+          <reg>omnem</reg>
+        </choice>
+        <choice>
+          <orig>corporea<macron/></orig>
+          <reg>corpoream</reg>
+        </choice>
+        creaturam
+        <lb n="264" />
+        naturae dignitate precellit; Quae etiam
+        <choice>
+          <orig>p<macron/></orig>
+          <reg>per</reg>
+        </choice>
+        <choice>
+          <orig>luce<macron/></orig>
+          <reg>lucem</reg>
+        </choice>
+        <g ref="amp"/>
+        <choice>
+          <orig>aere<macron/></orig>
+          <reg>aerem</reg>
+        </choice>
+        <lb n="265" />
+        <choice>
+          <orig>que<macron/></orig>
+          <reg>quae</reg>
+        </choice>
+        sunt excellentiora mundi corpora corpus amminis
+        <lb n="266" />
+        trat
+        <choice>
+          <orig>suu<macron/>;</orig>
+          <reg>suum</reg>
+        </choice>
+        <choice>
+          <orig>Omniu<macron/></orig>
+          <reg>Omnium</reg>
+        </choice>
+        <choice>
+          <orig>reru<macron/></orig>
+          <reg>rerum</reg>
+        </choice>
+        species lux animae adnuntiat.
+        <lb n="267" />
+        quas ipsa in se acceptas specificat.
+        <choice>
+          <orig>specificatasq<macron/></orig>
+          <reg>specificatasque</reg>
+        </choice>
+        recondit;
+        <lb n="268" />
+        Sepe etiam in
+        <choice>
+          <orig>tantu<macron/></orig>
+          <reg>tantum</reg>
+        </choice>
+        affectata erit
+        <choice>
+          <orig>qualib<g ref="amp"/></orig>
+          <reg>qualibet</reg>
+        </choice>
+        cogitatione.
+        <lb n="269" />
+        ut
+        <choice>
+          <orig>qua<macron/></orig>
+          <reg>quam</reg>
+        </choice>
+        uis
+        <choice>
+          <orig>ap<macron/>tos</orig>
+          <reg>apertos</reg>
+        </choice>
+        habeat oculos
+        <choice>
+          <orig>qu<macron/>e</orig>
+          <reg>quae</reg>
+        </choice>
+        presto sunt non uidit.
 
-        Regit eni[m] anima corpus p[er] quinq[ue] sensus quasi de sede
-
-        regalis culminis qua[m] decet considerare diligenter quasi
-
-        domina[m] quid cuique membro imper[et] faciendu[m]; Quid
-
-        cuiq[ue] consentiat in desiderio suae naturae. ne quid in
-
-        decens fiat in officio suae carnis alicubi; Sicut eni[m] d[eu]s
-
-        omne[m] creatura[m]. sic anima omne[m] corporea[m] creaturam
-
-        naturae dignitate precellit; Quae etiam p[er] luce[m] [et] aere[m]
-
-        qu[a]e sunt excellentiora mundi corpora corpus amminis
-
-        trat suu[m]; Omniu[m] reru[m] species lux animae adnuntiat.
-
-        quas ipsa in se acceptas specificat. specificatasq[ue] recondit;
-
-        Sepe etiam in tantu[m] affectata erit qualib[et] cogitatione.
-
-        ut qua[m] uis ap[er]tos habeat oculos qu[a]e presto sunt non uidit.
-
-        fol. 18 r
-
-        nec sonante[m] uocem intellegit. nec tangentem corpus
-
-        sentit; Modo corporis dolorib[us] condol[et]. modo letitia
-
+    <pb n="18r" />
+        <lb n="270" />
+        nec
+        <choice>
+          <orig>sonante<macron/></orig>
+          <reg>sonantem</reg>
+        </choice>
+        uocem intellegit. nec tangentem corpus
+        <lb n="271" />
+        sentit; Modo corporis
+        <choice>
+          <orig>dolorib<macron/></orig>
+          <reg>doloribus</reg>
+        </choice>
+         <choice>
+           <orig>condol<g ref="amp"/>.</orig>
+           <reg>condolet</reg>
+         </choice>
+        modo letitia
+        <lb n="272" />
         hilarescit. modo cognita recogitat. modo incognita
-
+        <lb n="273" />
         scire quaerit. alia uult. alia non uult; Humane uero
-
-        animae pulchritudo est [et] decus sapientiae studium:
-
-        non illa quae in terrenis sol[et] occupari negotiis. sed illa
-
-        magis qua d[eu]s colitur. [et] amatur; Ergo uera est sapientia
-
-        nosse quae debeas. [et] nota p[er]ficere; Haec in uirgiliacis non
-
+        <lb n="274" />
+        animae pulchritudo est <g ref="amp"/> decus sapientiae studium:
+        <lb n="275" />
+        non illa quae in terrenis
+        <choice>
+          <orig>sol<g ref="amp"/></orig>
+          <reg>solet</reg>
+        </choice>
+        occupari negotiis. sed illa
+        <lb n="276" />
+        magis qua
+        <choice>
+          <orig>ds<macron/></orig>
+          <reg>deus</reg>
+        </choice>
+        colitur. <g ref="amp"/> amatur; Ergo uera est sapientia
+        <lb n="277" />
+        nosse quae debeas. <g ref="amp"/> nota
+        <choice>
+          <orig>p<macron/>ficere;</orig>
+          <reg>perficere;</reg>
+        </choice>
+        Haec in uirgiliacis non
+        <lb n="278" />
         inuenietur mendaciis. sed in euuangelii affluenter rep-
-
-        peritur ueritate; De uera scilic[et] sapientia dicitur omnis
-
-        sapientia a d[omi]no deo est; Pro inde omnis qui s[e]c[un]d[u]m deum
-
-        sapiens est: beat[us] est; Unde iniob dicitur; Sapientia homi-
-
-        nis est pietas: recedere aute[m] a malo scientia; Uera est
-
-        scilic[et] sapientia: uera[m] toto corde diligere uita[m] [et] totis uirib[us]
-
-        intendere. ut ad eam p[er]uenire mereatur. ad qua[m] p[er]ducat nos
-
-        chr[istu]s qui est uera sapientia uera que uita: qui uiuit cum
-
-        coeterno patre in unitate sp[iritu]s s[an]c[t]i d[eu]s sine initio. [et] nunc [et] sine
-
+        <lb n="279" />
+        peritur ueritate; De uera
+        <choice>
+          <orig>scilic<g ref="amp"/></orig>
+          <reg>scilicet</reg>
+        </choice>
+        sapientia dicitur omnis
+        <lb n="280" />
+        sapientia a
+        <choice>
+          <orig>d<macron/>no</orig>
+          <reg>domino</reg>
+        </choice>
+        deo est; Pro inde omnis qui
+        <choice>
+          <orig>scd<macron/>m</orig>
+          <reg>secundum</reg>
+        </choice>
+        deum
+        <lb n="281" />
+        sapiens est:
+        <choice>
+          <orig>beat<macron/><orig>
+          <reg>deatus</reg>
+        </choice>
+        est; Unde iniob dicitur; Sapientia homi-
+        <lb n="282" />
+        nis est pietas: recedere
+        <choice>
+          <orig>aute<macron/></orig>
+          <reg>autem</reg>
+        </choice>
+        a malo scientia; Uera est
+        <lb n="283" />
+        <choice>
+          <orig>scilic<g ref="amp"/></orig>
+          <reg>scilicet</reg>
+        </choice>
+         sapientia:
+         <choice>
+           <orig>uera<macron/></orig>
+           <reg>ueram</reg>
+         </choice>
+        toto corde diligere
+        <choice>
+          <orig>uita<macron/></orig>
+          <reg>uitam</reg>
+        </choice>
+        <g ref="amp"/> totis
+        <choice>
+          <orig>uirib<macron/></orig>
+          <reg>uiribus</reg>
+        </choice>
+        <lb n="284" />
+        intendere. ut ad eam
+        <choice>
+          <orig>p<macron/>uenire</orig>
+          <reg>peruenire</reg>
+        </choice>
+        mereatur. ad
+        <choice>
+          <orig>qua<macron/></orig>
+          <reg>quam</reg>
+        </choice>
+        <choice>
+          <orig>p<macron/>ducat</orig>
+          <reg>perducat</reg>
+        </choice>
+        nos
+        <lb n="285" />
+        <choice>
+          <orig><lang="GK">xp<macron/>s</orig>
+          <reg>christus</reg>
+        </choice>
+        qui est uera sapientia uera que uita: qui uiuit cum
+        <lb n="286" />
+        coeterno patre in unitate
+        <choice>
+          <orig>sp<macron/>s</orig>
+          <reg>spiritus</reg>
+        </choice>
+        <choice>
+          <orig>sci<macron/></orig>
+          <reg>sancti</reg>
+        </choice>
+        <choice>
+          <orig>ds<macron/></orig>
+          <reg>deus</reg>
+        </choice>
+           sine initio. <g ref="amp"/> nunc <g ref="amp"/> sine
+        <lb n="287" />
         fine. AMEN;
-
 
       </ab>
     </div>
