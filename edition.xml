@@ -41,7 +41,6 @@
 							 	<resp>General overview and critical apparatus:</resp>
 		 							<name>Dr. Theodore H. Leinbaugh</name>
 								<resp>Old English Glossary compiled by:</resp>
-                <--relevant to boulogne? --!>
 									<name>Theodore H. Leinbaugh</name>
 									<name>Hunter Corb</name>
 									<name>Jacob Beerli</name>
@@ -176,6 +175,7 @@
               <reg>DOMINI</reg>
             </choice>
           ET DE RATIONE ANIME.
+        </head>
       <ab>
         <lb n="1" />
         <hi style="font-variant: smallcaps"><hi rend="3lines">Q</hi>uondam</hi>
@@ -208,12 +208,12 @@
         </choice>
         maria uirgine
         <choice>
-          <orig>p<macron></orig>
+          <orig>p<macron/></orig>
           <reg>pro</reg>
         </choice>
         salute mundi. sed tamen
         <choice>
-          <orig>uolum<macron></orig>
+          <orig>uolum<macron/></orig>
           <reg>uolumus</reg>
         </choice>
 
@@ -269,7 +269,7 @@
           </choice>
           non
           <choice>
-            <orig>p<macron></orig>
+            <orig>p<macron/></orig>
             <reg>per</reg>
           </choice>
 
@@ -925,7 +925,6 @@
         <choice>
           <abbr>eo<macron/></abbr>
           <expan>eorum</expan>
-        <--! PSI LOOKING SYMBOL? -->
         </choice>
         ne uideant: et dorsa
         <choice>
@@ -1580,7 +1579,6 @@
         <pb n="16v" facs="data/images/fol_5v.png" />
 
         <lb n="183" />
-        <---LINE STARTS A BIT BEFORE NORMAL - EXTRA TEXT ADDED--!>
         Intellego me intellegere uelle:
         <choice>
           <abbr>&amp;</abbr>
@@ -1782,7 +1780,6 @@
         urbes
         <choice>
           <abbr>p<macron/>agr&amp;</abbr>
-          <---IS THIS CORRECT?-->
           <expan>peragret</expan>
         </choice>
         . omnia in conspectu sibi
@@ -2139,7 +2136,7 @@
         </choice>
         <choice>
           <abbr>natur<macron/>e</abbr>
-          <name></name>expan>naturae</expan>
+          <expan>naturae</expan>
         </choice>
         ; Anima est
         <choice>
