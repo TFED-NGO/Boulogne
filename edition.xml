@@ -422,7 +422,7 @@
         </choice>
         qui
         <choice>
-          <ori<g ref="#g_macron"/></orig>
+          <orig>&amp;</orig>
           <reg>et</reg>
         </choice>
         loquor uobis;
