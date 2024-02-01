@@ -69,8 +69,7 @@
             <publisher>Transatlantic Forum for Education and Diplomacy</publisher>
 						<date>2022</date>
 						<availability status="restricted">
-							<license target="http://creativecommons.org/licenses/by-sa/3.0/">Distributed under a Creative Commons Attribution-ShareAlike 3.0 Unported license
-							</license>
+							<licence target="http://creativecommons.org/licenses/by-sa/3.0/">Distributed under a Creative Commons Attribution-ShareAlike 3.0 Unported license</licence>
 							<p>Contact The Aelfric Project team members for more information.</p>
 						</availability>
          </publicationStmt>
@@ -252,7 +251,7 @@
 		<revisionDesc>
 			<list>
 				<item>
-					<date when=""></date>
+					<date when="2024-01-31"></date>
 				</item>
 			</list>
 		</revisionDesc>
@@ -279,16 +278,16 @@
         </choice>
         uobis fratres quomodo saluator
         <choice>
-          <abr>n<g ref="#r_macron"/></abr>
+          <abbr>n<g ref="#r_macron"/></abbr>
           <exp>noster</exp>
         </choice>
         <lb n="2" />
         <choice>
-          <abr>i<g ref="#h_macron"/>s</abr>
+          <abbr>i<g ref="#h_macron"/>s</abbr>
           <exp>iesus</exp>
         </choice>
         <choice>
-          <orig><foreign lang="grc">x<g ref="#p_macron"/></foreign></orig>
+          <orig><foreign xml:lang="grc">x<g ref="#p_macron"/></foreign></orig>
           <reg>christus</reg>
         </choice>
         hac ipsa die natus sit uera humanita
@@ -420,7 +419,7 @@
         </choice>
         interrogauerunt
         <choice>
-          <orig><foreign lang="grc">x<g ref="#r_macron"/></foreign>m</orig>
+          <orig><foreign xml:lang="grc">x<g ref="#r_macron"/></foreign>m</orig>
           <reg>Christum</reg>
         </choice>
         dicen
@@ -568,7 +567,7 @@
         <lb n="24" />
         se quaerit. qui uechors p[er]scrutando transscendere uult
         <choice>
-          <orig><foreign lang="grc">x<g ref="#r_macron"/></foreign>m,</orig>
+          <orig><foreign xml:lang="grc">x<g ref="#r_macron"/></foreign>m,</orig>
             <reg>christum,</reg>
           </choice>
         <lb n="25" />
@@ -1083,7 +1082,7 @@
         </choice>
         Semel uero natus est
         <choice>
-          <orig><foreign lang="grc">x<g ref="#p_macron"/></foreign>s</orig>
+          <orig><foreign xml:lang="grc">x<g ref="#p_macron"/></foreign>s</orig>
           <reg>christus</reg>
         </choice>
         <lb n="111" />
@@ -1252,7 +1251,7 @@
         </choice>
         omnibus
         <choice>
-          <orig><foreign lang="grc">x<g ref="#p_macron"/></foreign>anis</orig>
+          <orig><foreign xml:lang="grc">x<g ref="#p_macron"/></foreign>anis</orig>
           <reg>christianis</reg>
         </choice>
         custodienda
@@ -1354,7 +1353,7 @@
         <lb n="132" />
         qui ueritatem diligit:
         <choice>
-          <orig><orig><foreign lang="grc">x<g ref="#p_macron"/></foreign></orig>m</orig>
+          <orig><orig><foreign xml:lang="grc">x<g ref="#p_macron"/></foreign></orig>m</orig>
           <reg>christum</reg>
         </choice>
         sequitur qui dixit. ego sum uia
@@ -1382,7 +1381,7 @@
         <lb n="136" />
         fratres quia nichil est tam necesse homini
         <choice>
-          <orig><orig><foreign lang="grc">x<g ref="#p_macron"/></foreign></orig>ano</orig>
+          <orig><orig><foreign xml:lang="grc">x<g ref="#p_macron"/></foreign></orig>ano</orig>
           <reg>christiano</reg>
         </choice>
         scire
@@ -1429,7 +1428,6 @@
         Nichil aliquid magis homini in hac
         <choice>
           mortali<add>t</add>ate
-      <!-- TODO: REVIEWERS: Check this -->
         </choice>
         uiuenti
         <lb n="143" />
@@ -2009,7 +2007,7 @@
         nos
         <lb n="285" />
         <choice>
-          <orig><foreign lang="grc">x<g ref="#p_macron"/></foreign>s</orig>
+          <orig><foreign xml:lang="grc">x<g ref="#p_macron"/></foreign>s</orig>
           <reg>christus</reg>
         </choice>
         qui est uera sapientia uera que uita: qui uiuit cum
