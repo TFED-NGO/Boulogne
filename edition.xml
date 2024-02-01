@@ -279,7 +279,7 @@
           <exp>iesus</exp>
         </choice>
         <choice>
-          <orig><foreign lang="grc">x<g ref="#p_macron"/></orig>
+          <orig><foreign lang="grc">x<g ref="#p_macron"/></foreign></orig>
           <reg>christus</reg>
         hac ipsa die natus sit uera humanita
         <lb n="3" />
@@ -445,7 +445,7 @@
       <lb n="14" />
         pater est principium
         <choice>
-          <orig><&amp;/></orig>
+          <orig>&amp;</orig>
           <reg>et</reg>
         </choice>
         filius qui ex patre natus est
@@ -456,7 +456,7 @@
       <lb n="15" />
         est:
         <choice>
-          <orig><&amp;/></orig>
+          <orig>&amp;</orig>
           <reg>et</reg>
         </choice>
         <choice>
@@ -473,7 +473,7 @@
           <reg>amborum</reg>
         </choice>
         <choice>
-          <org>principiū</orig>
+          <orig>principiū</orig>
           <reg>principium</reg>
         </choice>
         est; non tamen
@@ -584,7 +584,7 @@
         aliquis modo
         <choice>
           <orig>uel<g ref="#l_macron"/></orig>
-          <reg>uellet</reg?
+          <reg>uellet</reg>
           </choice>
           erigere altam scalam sibi:
           <choice>
@@ -609,7 +609,7 @@
          </choice>
           illius ualde uechors
           <choice>
-            <orig>es<g ref="#s_macron"/></rig>
+            <orig>es<g ref="#s_macron"/></orig>
             <reg>esset</reg>
           </choice>
           si
@@ -849,9 +849,10 @@
           <reg>nichilum</reg>
         </choice>
         redigantur: Alia sunt
-        <choice>ae<g ref="#t_macron"/>na:</orig>
-        <reg>aeterna:</reg>
-      </choice>
+        <choice>
+          <orig>ae<g ref="#t_macron"/>na:</orig>
+          <reg>aeterna:</reg>
+        </choice>
         <lb n="49" />
         ita ut habeant initium. sed non habent finem; Initium
         <lb n="50" />
