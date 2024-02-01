@@ -1239,7 +1239,7 @@
         </choice>
         omnibus
         <choice>
-          <orig><orig><foreign lang="grc">x<g ref="#p_macron"/></foreign>anis</orig>
+          <orig><foreign lang="grc">x<g ref="#p_macron"/></foreign>anis</orig>
           <reg>christianis</reg>
         </choice>
         custodienda
@@ -1259,7 +1259,7 @@
         <g ref="amp"/>
         <choice>
           <orig>ueritatē</orig>
-          <re>ueritatem</reg>
+          <reg>ueritatem</reg>
         </choice>
         <lb n="126" />
         diligite dicit
@@ -1400,7 +1400,7 @@
         <choice>
           <orig><g ref="#p_macron"/>ueniat</orig>
           <reg>perueniat</reg>
-        </choce>
+        </choice>
         in fine. sed quia sepius
         <choice>
           <orig>iā</orig>
@@ -1415,7 +1415,7 @@
         Nichil aliquid magis homini in hac
         <choice>
           mortali<add>t</add>ate
-      <-- check this --!>
+      <!-- TODO: REVIEWERS: Check this -->
         </choice>
         uiuenti
         <lb n="143" />
@@ -1541,7 +1541,7 @@
         sed
         <choice>
           <orig>eī</orig>
-          <reg.eius</reg>
+          <reg>eius</reg>
         </choice>
          arbitrio qui fecit
          <choice>
@@ -1621,13 +1621,13 @@
           <reg>dum</reg>
         </choice>
         sapit,
-        <Choice>
+        <choice>
           <orig>ani<g ref="#m_macron"/></orig>
           <reg>animus</reg>
         </choice>
         est;
         <choice>
-          <orig>dū</prig>
+          <orig>dū</orig>
           <reg>dum</reg>
         </choice>
         intellegit mens est
@@ -1682,7 +1682,7 @@
         </choice>
          est. non tamen omnis
          <choice>
-           <orig>s<g ref="#p_macron"/>s<orig>
+           <orig>s<g ref="#p_macron"/>s</orig>
            <reg>spiritus</reg>
          </choice>
         anima: Sed <g ref="amp"/> paulus
@@ -1745,7 +1745,7 @@
         <lb n="259" />
         regalis culminis
         <choice>
-          <orig>quā<orig>
+          <orig>quā</orig>
           <reg>quam</reg>
         </choice>
         decet considerare diligenter quasi
@@ -1784,8 +1784,8 @@
          </choice>
         <lb n="263" />
         <choice>
-          <orig>omnē<orig>
-          <reg>omnem<.reg>
+          <orig>omnē</orig>
+          <reg>omnem</reg>
         </choice>
         <choice>
           <orig>creaturā.</orig>
@@ -1944,7 +1944,7 @@
         <lb n="281" />
         sapiens est:
         <choice>
-          <orig>bea<g ref="#t_macron"/><orig>
+          <orig>bea<g ref="#t_macron"/></orig>
           <reg>deatus</reg>
         </choice>
         est; Unde iniob dicitur; Sapientia homi-
