@@ -702,7 +702,7 @@
           <choice>
             <orig>meā;</orig>
             <reg>meam;</reg>
-            <choice>
+          </choice>
               Et bene altare significat
               <choice>
                 <orig>deū</orig>
@@ -949,6 +949,7 @@
         <choice>
           <orig>illū;</orig>
           <reg>illium;</reg>
+        </choice>
           Et si factus
           ess<g ref="amp"/>
           <choice>
@@ -964,6 +965,7 @@
         <choice>
           <orig><g ref="#d_macron"/>s;</orig>
           <reg>deus;</reg>
+        </choice>
           <g ref="amp"/> si aliquis insanus existimat quod
           <choice>
             <orig>d<g ref="#s_macron"/></orig>
@@ -1288,6 +1290,7 @@
         <choice>
            <orig>d<g ref="#m_macron"/></orig>
            <reg>deum</reg>
+        </choice>
         <lb n="127" />
         placat
         <choice>
@@ -1547,6 +1550,7 @@
          <choice>
            <orig>eā</orig>
            <reg>eam</reg>
+        </choice>
           <choice>
             <orig>carniq:</orig>
             <reg>carnique:</reg>
@@ -1668,6 +1672,7 @@
         <choice>
           <orig>animā</orig>
           <reg>animam</reg>
+        </choice>
         <lb n="252" />
         huius modi potest differentia
         <choice>
