@@ -279,12 +279,12 @@
         uobis fratres quomodo saluator
         <choice>
           <abbr>n<g ref="#r_macron"/></abbr>
-          <exp>noster</exp>
+          <expan>noster</expan>
         </choice>
         <lb n="2" />
         <choice>
           <abbr>i<g ref="#h_macron"/>s</abbr>
-          <exp>iesus</exp>
+          <expan>iesus</expan>
         </choice>
         <choice>
           <orig><foreign xml:lang="grc">x<g ref="#p_macron"/></foreign></orig>
@@ -1426,9 +1426,8 @@
         modo uobis dicere de humana anima breuiter si possumus;
         <lb n="142" />
         Nichil aliquid magis homini in hac
-        <choice>
           mortali<add>t</add>ate
-        </choice>
+          <!-- TODO: Check this!!! -->
         uiuenti
         <lb n="143" />
         <choice>
