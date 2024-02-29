@@ -259,7 +259,7 @@
 
 <text>
    <body>
-     <pb n="13r" facs="data/images/fol_5v.png" />
+     <pb n="13r" facs="data/images/fol_5v.png" facs="data/images/single/13r" facs="data/images/fol_5v.png.jpg"/>
       <div type="sermon">
         <head style="text-align: center; font-variant: smallcaps">
           INCIPIT SERMO IN NATALE
@@ -376,7 +376,7 @@
           <expan>ess<ex>et</ex></expan>
         aliquod
 
-  <pb n="13v" />
+  <pb n="13v" facs="data/images/single/13v.jpg"/>
       <lb n="9" />
         tempus
         <choice>
@@ -765,7 +765,7 @@
         </choice>
          ambobus:
 
-    <pb n="14r" />
+    <pb n="14r" facs="data/images/single/14r.jpg"/>
         <lb n="38" />
         quia quicquid minor est deo non est
         <choice>
@@ -1051,7 +1051,7 @@
           <reg>sanctus</reg>
         </choice>
 
-    <pb n="14v" />
+    <pb n="14v" facs="data/images/single/14v.jpg"/>
         <lb n="67" />
         in quo omnia: sed filius solus incarnatus est.
         <g ref="amp"/> hodie natus
@@ -1073,7 +1073,7 @@
         <lb n="70" />
         ex matre uirgine. sed eius incarnatio erat predestinata
 
-    <pb n="15r" />
+    <pb n="15r" facs="data/images/single/15r.jpg"/>
         <lb n="110" />
         cas dies peragit sine
         <choice>
@@ -1256,7 +1256,7 @@
         </choice>
         custodienda
 
-    <pb n="15v" />
+    <pb n="15v" facs="data/images/single/15v.jpg"/>
         <lb n="125" />
         breuiter
         <choice>
@@ -1533,7 +1533,7 @@
         </choice>
         scripta. in singulis suae carnis membris tota
 
-    <pb n="17v" />
+    <pb n="17v" facs="data/images/single/17v.jpg"/>
         <lb n="241" />
         in qua est imago conditoris spiritaliter inpressa; Non ha
         <lb n="242" />
@@ -1887,7 +1887,7 @@
         </choice>
         presto sunt non uidit.
 
-    <pb n="18r" />
+    <pb n="18r" facs="data/images/single/18r.jpg"/>
         <lb n="270" />
         nec
         <choice>
