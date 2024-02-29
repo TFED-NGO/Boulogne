@@ -259,7 +259,7 @@
 
 <text>
    <body>
-     <pb n="13r" facs="data/images/fol_5v.png" facs="data/images/single/13r" facs="data/images/fol_5v.png.jpg"/>
+     <pb n="13r" facs="data/images/single/13r" />
       <div type="sermon">
         <head style="text-align: center; font-variant: smallcaps">
           INCIPIT SERMO IN NATALE
