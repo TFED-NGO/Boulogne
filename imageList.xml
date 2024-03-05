@@ -2,15 +2,19 @@
 <imageList>
     <imagerv>
         <image val="plat superieur" url="data/images/single/plat superieur.jpg" id="BO-plat superieur">plat superieur</image>
+        <image val="plat superieur" url="data/images/single/plat superieur.jpg" id="BO-plat superieur">plat superieur</image>
     </imagerv>
     <imagerv>
+        <image val="plat inferieur" url="data/images/single/plat inferieur.jpg" id="BO-plat inferieur">plat inferieur</image>
         <image val="plat inferieur" url="data/images/single/plat inferieur.jpg" id="BO-plat inferieur">plat inferieur</image>
     </imagerv>
     <imagerv>
         <image val="dos" url="data/images/single/dos.jpg" id="BO-dos">dos</image>
+        <image val="dos" url="data/images/single/dos.jpg" id="BO-dos">dos</image>
     </imagerv>
     <imagerv>
         <image val="contreplat superieur" url="data/images/single/contreplat superieur.jpg" id="BO-contreplat superieur">contreplat superieur</image>
+        <image val="garde recto" url="data/images/single/garde recto.jpg" id="BO-garde recto">garde recto</image>
     </imagerv>
     <imagerv>
         <image val="garde verso" url="data/images/single/garde verso.jpg" id="BO-garde verso">garde verso</image>
@@ -25,344 +29,344 @@
         <image val="001r" url="data/images/single/001r.jpg" id="BO-1-1-r">001r</image>
     </imagerv>
     <imagerv>
-        <image val="001r" url="data/images/single/001r.jpg" id="BO-1-1-r">001r</image>
-        <image val="002v" url="data/images/single/002v.jpg" id="BO-1-2-v">002v</image>
-    </imagerv>
-    <imagerv>
+        <image val="001v" url="data/images/single/001v.jpg" id="BO-1-1-v">001v</image>
         <image val="002r" url="data/images/single/002r.jpg" id="BO-1-2-r">002r</image>
-        <image val="003v" url="data/images/single/003v.jpg" id="BO-1-3-v">003v</image>
     </imagerv>
     <imagerv>
+        <image val="002v" url="data/images/single/002v.jpg" id="BO-1-2-v">002v</image>
         <image val="003r" url="data/images/single/003r.jpg" id="BO-1-3-r">003r</image>
-        <image val="004v" url="data/images/single/004v.jpg" id="BO-1-4-v">004v</image>
     </imagerv>
     <imagerv>
+        <image val="003v" url="data/images/single/003v.jpg" id="BO-1-3-v">003v</image>
         <image val="004r" url="data/images/single/004r.jpg" id="BO-1-4-r">004r</image>
-        <image val="005v" url="data/images/single/005v.jpg" id="BO-1-5-v">005v</image>
     </imagerv>
     <imagerv>
+        <image val="004v" url="data/images/single/004v.jpg" id="BO-1-4-v">004v</image>
         <image val="005r" url="data/images/single/005r.jpg" id="BO-1-5-r">005r</image>
-        <image val="006v" url="data/images/single/006v.jpg" id="BO-1-6-v">006v</image>
     </imagerv>
     <imagerv>
+        <image val="005v" url="data/images/single/005v.jpg" id="BO-1-5-v">005v</image>
         <image val="006r" url="data/images/single/006r.jpg" id="BO-1-6-r">006r</image>
-        <image val="007v" url="data/images/single/007v.jpg" id="BO-1-7-v">007v</image>
     </imagerv>
     <imagerv>
+        <image val="006v" url="data/images/single/006v.jpg" id="BO-1-6-v">006v</image>
         <image val="007r" url="data/images/single/007r.jpg" id="BO-1-7-r">007r</image>
-        <image val="008v" url="data/images/single/008v.jpg" id="BO-1-8-v">008v</image>
     </imagerv>
     <imagerv>
+        <image val="007v" url="data/images/single/007v.jpg" id="BO-1-7-v">007v</image>
         <image val="008r" url="data/images/single/008r.jpg" id="BO-1-8-r">008r</image>
-        <image val="009v" url="data/images/single/009v.jpg" id="BO-1-9-v">009v</image>
     </imagerv>
     <imagerv>
+        <image val="008v" url="data/images/single/008v.jpg" id="BO-1-8-v">008v</image>
         <image val="009r" url="data/images/single/009r.jpg" id="BO-1-9-r">009r</image>
-        <image val="010v" url="data/images/single/010v.jpg" id="BO-2-0-v">010v</image>
     </imagerv>
     <imagerv>
+        <image val="009v" url="data/images/single/009v.jpg" id="BO-1-9-v">009v</image>
         <image val="010r" url="data/images/single/010r.jpg" id="BO-2-0-r">010r</image>
-        <image val="011v" url="data/images/single/011v.jpg" id="BO-2-1-v">011v</image>
     </imagerv>
     <imagerv>
+        <image val="010v" url="data/images/single/010v.jpg" id="BO-2-0-v">010v</image>
         <image val="011r" url="data/images/single/011r.jpg" id="BO-2-1-r">011r</image>
-        <image val="012v" url="data/images/single/012v.jpg" id="BO-2-2-v">012v</image>
     </imagerv>
     <imagerv>
+        <image val="011v" url="data/images/single/011v.jpg" id="BO-2-1-v">011v</image>
         <image val="012r" url="data/images/single/012r.jpg" id="BO-2-2-r">012r</image>
-        <image val="013v" url="data/images/single/013v.jpg" id="BO-2-3-v">013v</image>
     </imagerv>
     <imagerv>
+        <image val="012v" url="data/images/single/012v.jpg" id="BO-2-2-v">012v</image>
         <image val="013r" url="data/images/single/013r.jpg" id="BO-2-3-r">013r</image>
-        <image val="014v" url="data/images/single/014v.jpg" id="BO-2-4-v">014v</image>
     </imagerv>
     <imagerv>
+        <image val="013v" url="data/images/single/013v.jpg" id="BO-2-3-v">013v</image>
         <image val="014r" url="data/images/single/014r.jpg" id="BO-2-4-r">014r</image>
-        <image val="015v" url="data/images/single/015v.jpg" id="BO-2-5-v">015v</image>
     </imagerv>
     <imagerv>
+        <image val="014v" url="data/images/single/014v.jpg" id="BO-2-4-v">014v</image>
         <image val="015r" url="data/images/single/015r.jpg" id="BO-2-5-r">015r</image>
-        <image val="016v" url="data/images/single/016v.jpg" id="BO-2-6-v">016v</image>
     </imagerv>
     <imagerv>
+        <image val="015v" url="data/images/single/015v.jpg" id="BO-2-5-v">015v</image>
         <image val="016r" url="data/images/single/016r.jpg" id="BO-2-6-r">016r</image>
-        <image val="017v" url="data/images/single/017v.jpg" id="BO-2-7-v">017v</image>
     </imagerv>
     <imagerv>
+        <image val="016v" url="data/images/single/016v.jpg" id="BO-2-6-v">016v</image>
         <image val="017r" url="data/images/single/017r.jpg" id="BO-2-7-r">017r</image>
-        <image val="018v" url="data/images/single/018v.jpg" id="BO-2-8-v">018v</image>
     </imagerv>
     <imagerv>
+        <image val="017v" url="data/images/single/017v.jpg" id="BO-2-7-v">017v</image>
         <image val="018r" url="data/images/single/018r.jpg" id="BO-2-8-r">018r</image>
-        <image val="019v" url="data/images/single/019v.jpg" id="BO-2-9-v">019v</image>
     </imagerv>
     <imagerv>
+        <image val="018v" url="data/images/single/018v.jpg" id="BO-2-8-v">018v</image>
         <image val="019r" url="data/images/single/019r.jpg" id="BO-2-9-r">019r</image>
-        <image val="020v" url="data/images/single/020v.jpg" id="BO-3-0-v">020v</image>
     </imagerv>
     <imagerv>
+        <image val="019v" url="data/images/single/019v.jpg" id="BO-2-9-v">019v</image>
         <image val="020r" url="data/images/single/020r.jpg" id="BO-3-0-r">020r</image>
-        <image val="021v" url="data/images/single/021v.jpg" id="BO-3-1-v">021v</image>
     </imagerv>
     <imagerv>
+        <image val="020v" url="data/images/single/020v.jpg" id="BO-3-0-v">020v</image>
         <image val="021r" url="data/images/single/021r.jpg" id="BO-3-1-r">021r</image>
-        <image val="022v" url="data/images/single/022v.jpg" id="BO-3-2-v">022v</image>
     </imagerv>
     <imagerv>
+        <image val="021v" url="data/images/single/021v.jpg" id="BO-3-1-v">021v</image>
         <image val="022r" url="data/images/single/022r.jpg" id="BO-3-2-r">022r</image>
-        <image val="023v" url="data/images/single/023v.jpg" id="BO-3-3-v">023v</image>
     </imagerv>
     <imagerv>
+        <image val="022v" url="data/images/single/022v.jpg" id="BO-3-2-v">022v</image>
         <image val="023r" url="data/images/single/023r.jpg" id="BO-3-3-r">023r</image>
-        <image val="024v" url="data/images/single/024v.jpg" id="BO-3-4-v">024v</image>
     </imagerv>
     <imagerv>
+        <image val="023v" url="data/images/single/023v.jpg" id="BO-3-3-v">023v</image>
         <image val="024r" url="data/images/single/024r.jpg" id="BO-3-4-r">024r</image>
-        <image val="025v" url="data/images/single/025v.jpg" id="BO-3-5-v">025v</image>
     </imagerv>
     <imagerv>
+        <image val="024v" url="data/images/single/024v.jpg" id="BO-3-4-v">024v</image>
         <image val="025r" url="data/images/single/025r.jpg" id="BO-3-5-r">025r</image>
-        <image val="026v" url="data/images/single/026v.jpg" id="BO-3-6-v">026v</image>
     </imagerv>
     <imagerv>
+        <image val="025v" url="data/images/single/025v.jpg" id="BO-3-5-v">025v</image>
         <image val="026r" url="data/images/single/026r.jpg" id="BO-3-6-r">026r</image>
-        <image val="027v" url="data/images/single/027v.jpg" id="BO-3-7-v">027v</image>
     </imagerv>
     <imagerv>
+        <image val="026v" url="data/images/single/026v.jpg" id="BO-3-6-v">026v</image>
         <image val="027r" url="data/images/single/027r.jpg" id="BO-3-7-r">027r</image>
-        <image val="028v" url="data/images/single/028v.jpg" id="BO-3-8-v">028v</image>
     </imagerv>
     <imagerv>
+        <image val="027v" url="data/images/single/027v.jpg" id="BO-3-7-v">027v</image>
         <image val="028r" url="data/images/single/028r.jpg" id="BO-3-8-r">028r</image>
-        <image val="029v" url="data/images/single/029v.jpg" id="BO-3-9-v">029v</image>
     </imagerv>
     <imagerv>
+        <image val="028v" url="data/images/single/028v.jpg" id="BO-3-8-v">028v</image>
         <image val="029r" url="data/images/single/029r.jpg" id="BO-3-9-r">029r</image>
-        <image val="030v" url="data/images/single/030v.jpg" id="BO-4-0-v">030v</image>
     </imagerv>
     <imagerv>
+        <image val="029v" url="data/images/single/029v.jpg" id="BO-3-9-v">029v</image>
         <image val="030r" url="data/images/single/030r.jpg" id="BO-4-0-r">030r</image>
-        <image val="031v" url="data/images/single/031v.jpg" id="BO-4-1-v">031v</image>
     </imagerv>
     <imagerv>
+        <image val="030v" url="data/images/single/030v.jpg" id="BO-4-0-v">030v</image>
         <image val="031r" url="data/images/single/031r.jpg" id="BO-4-1-r">031r</image>
-        <image val="032v" url="data/images/single/032v.jpg" id="BO-4-2-v">032v</image>
     </imagerv>
     <imagerv>
+        <image val="031v" url="data/images/single/031v.jpg" id="BO-4-1-v">031v</image>
         <image val="032r" url="data/images/single/032r.jpg" id="BO-4-2-r">032r</image>
-        <image val="033v" url="data/images/single/033v.jpg" id="BO-4-3-v">033v</image>
     </imagerv>
     <imagerv>
+        <image val="032v" url="data/images/single/032v.jpg" id="BO-4-2-v">032v</image>
         <image val="033r" url="data/images/single/033r.jpg" id="BO-4-3-r">033r</image>
-        <image val="034v" url="data/images/single/034v.jpg" id="BO-4-4-v">034v</image>
     </imagerv>
     <imagerv>
+        <image val="033v" url="data/images/single/033v.jpg" id="BO-4-3-v">033v</image>
         <image val="034r" url="data/images/single/034r.jpg" id="BO-4-4-r">034r</image>
-        <image val="035v" url="data/images/single/035v.jpg" id="BO-4-5-v">035v</image>
     </imagerv>
     <imagerv>
+        <image val="034v" url="data/images/single/034v.jpg" id="BO-4-4-v">034v</image>
         <image val="035r" url="data/images/single/035r.jpg" id="BO-4-5-r">035r</image>
-        <image val="036v" url="data/images/single/036v.jpg" id="BO-4-6-v">036v</image>
     </imagerv>
     <imagerv>
+        <image val="035v" url="data/images/single/035v.jpg" id="BO-4-5-v">035v</image>
         <image val="036r" url="data/images/single/036r.jpg" id="BO-4-6-r">036r</image>
-        <image val="037v" url="data/images/single/037v.jpg" id="BO-4-7-v">037v</image>
     </imagerv>
     <imagerv>
+        <image val="036v" url="data/images/single/036v.jpg" id="BO-4-6-v">036v</image>
         <image val="037r" url="data/images/single/037r.jpg" id="BO-4-7-r">037r</image>
-        <image val="038v" url="data/images/single/038v.jpg" id="BO-4-8-v">038v</image>
     </imagerv>
     <imagerv>
+        <image val="037v" url="data/images/single/037v.jpg" id="BO-4-7-v">037v</image>
         <image val="038r" url="data/images/single/038r.jpg" id="BO-4-8-r">038r</image>
-        <image val="039v" url="data/images/single/039v.jpg" id="BO-4-9-v">039v</image>
     </imagerv>
     <imagerv>
+        <image val="038v" url="data/images/single/038v.jpg" id="BO-4-8-v">038v</image>
         <image val="039r" url="data/images/single/039r.jpg" id="BO-4-9-r">039r</image>
-        <image val="040v" url="data/images/single/040v.jpg" id="BO-5-0-v">040v</image>
     </imagerv>
     <imagerv>
+        <image val="039v" url="data/images/single/039v.jpg" id="BO-4-9-v">039v</image>
         <image val="040r" url="data/images/single/040r.jpg" id="BO-5-0-r">040r</image>
-        <image val="041v" url="data/images/single/041v.jpg" id="BO-5-1-v">041v</image>
     </imagerv>
     <imagerv>
+        <image val="040v" url="data/images/single/040v.jpg" id="BO-5-0-v">040v</image>
         <image val="041r" url="data/images/single/041r.jpg" id="BO-5-1-r">041r</image>
-        <image val="042v" url="data/images/single/042v.jpg" id="BO-5-2-v">042v</image>
     </imagerv>
     <imagerv>
+        <image val="041v" url="data/images/single/041v.jpg" id="BO-5-1-v">041v</image>
         <image val="042r" url="data/images/single/042r.jpg" id="BO-5-2-r">042r</image>
-        <image val="043v" url="data/images/single/043v.jpg" id="BO-5-3-v">043v</image>
     </imagerv>
     <imagerv>
+        <image val="042v" url="data/images/single/042v.jpg" id="BO-5-2-v">042v</image>
         <image val="043r" url="data/images/single/043r.jpg" id="BO-5-3-r">043r</image>
-        <image val="044v" url="data/images/single/044v.jpg" id="BO-5-4-v">044v</image>
     </imagerv>
     <imagerv>
+        <image val="043v" url="data/images/single/043v.jpg" id="BO-5-3-v">043v</image>
         <image val="044r" url="data/images/single/044r.jpg" id="BO-5-4-r">044r</image>
-        <image val="045v" url="data/images/single/045v.jpg" id="BO-5-5-v">045v</image>
     </imagerv>
     <imagerv>
+        <image val="044v" url="data/images/single/044v.jpg" id="BO-5-4-v">044v</image>
         <image val="045r" url="data/images/single/045r.jpg" id="BO-5-5-r">045r</image>
-        <image val="046v" url="data/images/single/046v.jpg" id="BO-5-6-v">046v</image>
     </imagerv>
     <imagerv>
+        <image val="045v" url="data/images/single/045v.jpg" id="BO-5-5-v">045v</image>
         <image val="046r" url="data/images/single/046r.jpg" id="BO-5-6-r">046r</image>
-        <image val="047v" url="data/images/single/047v.jpg" id="BO-5-7-v">047v</image>
     </imagerv>
     <imagerv>
+        <image val="046v" url="data/images/single/046v.jpg" id="BO-5-6-v">046v</image>
         <image val="047r" url="data/images/single/047r.jpg" id="BO-5-7-r">047r</image>
-        <image val="048v" url="data/images/single/048v.jpg" id="BO-5-8-v">048v</image>
     </imagerv>
     <imagerv>
+        <image val="047v" url="data/images/single/047v.jpg" id="BO-5-7-v">047v</image>
         <image val="048r" url="data/images/single/048r.jpg" id="BO-5-8-r">048r</image>
-        <image val="049v" url="data/images/single/049v.jpg" id="BO-5-9-v">049v</image>
     </imagerv>
     <imagerv>
+        <image val="048v" url="data/images/single/048v.jpg" id="BO-5-8-v">048v</image>
         <image val="049r" url="data/images/single/049r.jpg" id="BO-5-9-r">049r</image>
-        <image val="050v" url="data/images/single/050v.jpg" id="BO-6-0-v">050v</image>
     </imagerv>
     <imagerv>
+        <image val="049v" url="data/images/single/049v.jpg" id="BO-5-9-v">049v</image>
         <image val="050r" url="data/images/single/050r.jpg" id="BO-6-0-r">050r</image>
-        <image val="051v" url="data/images/single/051v.jpg" id="BO-6-1-v">051v</image>
     </imagerv>
     <imagerv>
+        <image val="050v" url="data/images/single/050v.jpg" id="BO-6-0-v">050v</image>
         <image val="051r" url="data/images/single/051r.jpg" id="BO-6-1-r">051r</image>
-        <image val="052v" url="data/images/single/052v.jpg" id="BO-6-2-v">052v</image>
     </imagerv>
     <imagerv>
+        <image val="051v" url="data/images/single/051v.jpg" id="BO-6-1-v">051v</image>
         <image val="052r" url="data/images/single/052r.jpg" id="BO-6-2-r">052r</image>
-        <image val="053v" url="data/images/single/053v.jpg" id="BO-6-3-v">053v</image>
     </imagerv>
     <imagerv>
+        <image val="052v" url="data/images/single/052v.jpg" id="BO-6-2-v">052v</image>
         <image val="053r" url="data/images/single/053r.jpg" id="BO-6-3-r">053r</image>
-        <image val="054v" url="data/images/single/054v.jpg" id="BO-6-4-v">054v</image>
     </imagerv>
     <imagerv>
+        <image val="053v" url="data/images/single/053v.jpg" id="BO-6-3-v">053v</image>
         <image val="054r" url="data/images/single/054r.jpg" id="BO-6-4-r">054r</image>
-        <image val="055v" url="data/images/single/055v.jpg" id="BO-6-5-v">055v</image>
     </imagerv>
     <imagerv>
+        <image val="054v" url="data/images/single/054v.jpg" id="BO-6-4-v">054v</image>
         <image val="055r" url="data/images/single/055r.jpg" id="BO-6-5-r">055r</image>
-        <image val="056v" url="data/images/single/056v.jpg" id="BO-6-6-v">056v</image>
     </imagerv>
     <imagerv>
+        <image val="055v" url="data/images/single/055v.jpg" id="BO-6-5-v">055v</image>
         <image val="056r" url="data/images/single/056r.jpg" id="BO-6-6-r">056r</image>
-        <image val="057v" url="data/images/single/057v.jpg" id="BO-6-7-v">057v</image>
     </imagerv>
     <imagerv>
+        <image val="056v" url="data/images/single/056v.jpg" id="BO-6-6-v">056v</image>
         <image val="057r" url="data/images/single/057r.jpg" id="BO-6-7-r">057r</image>
-        <image val="058v" url="data/images/single/058v.jpg" id="BO-6-8-v">058v</image>
     </imagerv>
     <imagerv>
+        <image val="057v" url="data/images/single/057v.jpg" id="BO-6-7-v">057v</image>
         <image val="058r" url="data/images/single/058r.jpg" id="BO-6-8-r">058r</image>
-        <image val="059v" url="data/images/single/059v.jpg" id="BO-6-9-v">059v</image>
     </imagerv>
     <imagerv>
+        <image val="058v" url="data/images/single/058v.jpg" id="BO-6-8-v">058v</image>
         <image val="059r" url="data/images/single/059r.jpg" id="BO-6-9-r">059r</image>
-        <image val="060v" url="data/images/single/060v.jpg" id="BO-7-0-v">060v</image>
     </imagerv>
     <imagerv>
+        <image val="059v" url="data/images/single/059v.jpg" id="BO-6-9-v">059v</image>
         <image val="060r" url="data/images/single/060r.jpg" id="BO-7-0-r">060r</image>
-        <image val="061v" url="data/images/single/061v.jpg" id="BO-7-1-v">061v</image>
     </imagerv>
     <imagerv>
+        <image val="060v" url="data/images/single/060v.jpg" id="BO-7-0-v">060v</image>
         <image val="061r" url="data/images/single/061r.jpg" id="BO-7-1-r">061r</image>
-        <image val="062v" url="data/images/single/062v.jpg" id="BO-7-2-v">062v</image>
     </imagerv>
     <imagerv>
+        <image val="061v" url="data/images/single/061v.jpg" id="BO-7-1-v">061v</image>
         <image val="062r" url="data/images/single/062r.jpg" id="BO-7-2-r">062r</image>
-        <image val="063v" url="data/images/single/063v.jpg" id="BO-7-3-v">063v</image>
     </imagerv>
     <imagerv>
+        <image val="062v" url="data/images/single/062v.jpg" id="BO-7-2-v">062v</image>
         <image val="063r" url="data/images/single/063r.jpg" id="BO-7-3-r">063r</image>
-        <image val="064v" url="data/images/single/064v.jpg" id="BO-7-4-v">064v</image>
     </imagerv>
     <imagerv>
+        <image val="063v" url="data/images/single/063v.jpg" id="BO-7-3-v">063v</image>
         <image val="064r" url="data/images/single/064r.jpg" id="BO-7-4-r">064r</image>
-        <image val="065v" url="data/images/single/065v.jpg" id="BO-7-5-v">065v</image>
     </imagerv>
     <imagerv>
+        <image val="064v" url="data/images/single/064v.jpg" id="BO-7-4-v">064v</image>
         <image val="065r" url="data/images/single/065r.jpg" id="BO-7-5-r">065r</image>
-        <image val="066v" url="data/images/single/066v.jpg" id="BO-7-6-v">066v</image>
     </imagerv>
     <imagerv>
+        <image val="065v" url="data/images/single/065v.jpg" id="BO-7-5-v">065v</image>
         <image val="066r" url="data/images/single/066r.jpg" id="BO-7-6-r">066r</image>
-        <image val="067v" url="data/images/single/067v.jpg" id="BO-7-7-v">067v</image>
     </imagerv>
     <imagerv>
+        <image val="066v" url="data/images/single/066v.jpg" id="BO-7-6-v">066v</image>
         <image val="067r" url="data/images/single/067r.jpg" id="BO-7-7-r">067r</image>
-        <image val="068v" url="data/images/single/068v.jpg" id="BO-7-8-v">068v</image>
     </imagerv>
     <imagerv>
+        <image val="067v" url="data/images/single/067v.jpg" id="BO-7-7-v">067v</image>
         <image val="068r" url="data/images/single/068r.jpg" id="BO-7-8-r">068r</image>
-        <image val="069v" url="data/images/single/069v.jpg" id="BO-7-9-v">069v</image>
     </imagerv>
     <imagerv>
+        <image val="068v" url="data/images/single/068v.jpg" id="BO-7-8-v">068v</image>
         <image val="069r" url="data/images/single/069r.jpg" id="BO-7-9-r">069r</image>
-        <image val="070v" url="data/images/single/070v.jpg" id="BO-8-0-v">070v</image>
     </imagerv>
     <imagerv>
+        <image val="069v" url="data/images/single/069v.jpg" id="BO-7-9-v">069v</image>
         <image val="070r" url="data/images/single/070r.jpg" id="BO-8-0-r">070r</image>
-        <image val="071v" url="data/images/single/071v.jpg" id="BO-8-1-v">071v</image>
     </imagerv>
     <imagerv>
+        <image val="070v" url="data/images/single/070v.jpg" id="BO-8-0-v">070v</image>
         <image val="071r" url="data/images/single/071r.jpg" id="BO-8-1-r">071r</image>
-        <image val="072v" url="data/images/single/072v.jpg" id="BO-8-2-v">072v</image>
     </imagerv>
     <imagerv>
+        <image val="071v" url="data/images/single/071v.jpg" id="BO-8-1-v">071v</image>
         <image val="072r" url="data/images/single/072r.jpg" id="BO-8-2-r">072r</image>
-        <image val="073v" url="data/images/single/073v.jpg" id="BO-8-3-v">073v</image>
     </imagerv>
     <imagerv>
+        <image val="072v" url="data/images/single/072v.jpg" id="BO-8-2-v">072v</image>
         <image val="073r" url="data/images/single/073r.jpg" id="BO-8-3-r">073r</image>
-        <image val="074v" url="data/images/single/074v.jpg" id="BO-8-4-v">074v</image>
     </imagerv>
     <imagerv>
+        <image val="073v" url="data/images/single/073v.jpg" id="BO-8-3-v">073v</image>
         <image val="074r" url="data/images/single/074r.jpg" id="BO-8-4-r">074r</image>
-        <image val="075v" url="data/images/single/075v.jpg" id="BO-8-5-v">075v</image>
     </imagerv>
     <imagerv>
+        <image val="074v" url="data/images/single/074v.jpg" id="BO-8-4-v">074v</image>
         <image val="075r" url="data/images/single/075r.jpg" id="BO-8-5-r">075r</image>
-        <image val="076v" url="data/images/single/076v.jpg" id="BO-8-6-v">076v</image>
     </imagerv>
     <imagerv>
+        <image val="075v" url="data/images/single/075v.jpg" id="BO-8-5-v">075v</image>
         <image val="076r" url="data/images/single/076r.jpg" id="BO-8-6-r">076r</image>
-        <image val="077v" url="data/images/single/077v.jpg" id="BO-8-7-v">077v</image>
     </imagerv>
     <imagerv>
+        <image val="076v" url="data/images/single/076v.jpg" id="BO-8-6-v">076v</image>
         <image val="077r" url="data/images/single/077r.jpg" id="BO-8-7-r">077r</image>
-        <image val="078v" url="data/images/single/078v.jpg" id="BO-8-8-v">078v</image>
     </imagerv>
     <imagerv>
+        <image val="077v" url="data/images/single/077v.jpg" id="BO-8-7-v">077v</image>
         <image val="078r" url="data/images/single/078r.jpg" id="BO-8-8-r">078r</image>
-        <image val="079v" url="data/images/single/079v.jpg" id="BO-8-9-v">079v</image>
     </imagerv>
     <imagerv>
+        <image val="078v" url="data/images/single/078v.jpg" id="BO-8-8-v">078v</image>
         <image val="079r" url="data/images/single/079r.jpg" id="BO-8-9-r">079r</image>
-        <image val="080v" url="data/images/single/080v.jpg" id="BO-9-0-v">080v</image>
     </imagerv>
     <imagerv>
+        <image val="079v" url="data/images/single/079v.jpg" id="BO-8-9-v">079v</image>
         <image val="080r" url="data/images/single/080r.jpg" id="BO-9-0-r">080r</image>
-        <image val="081v" url="data/images/single/081v.jpg" id="BO-9-1-v">081v</image>
     </imagerv>
     <imagerv>
+        <image val="080v" url="data/images/single/080v.jpg" id="BO-9-0-v">080v</image>
         <image val="081r" url="data/images/single/081r.jpg" id="BO-9-1-r">081r</image>
-        <image val="082v" url="data/images/single/082v.jpg" id="BO-9-2-v">082v</image>
     </imagerv>
     <imagerv>
+        <image val="081v" url="data/images/single/081v.jpg" id="BO-9-1-v">081v</image>
         <image val="082r" url="data/images/single/082r.jpg" id="BO-9-2-r">082r</image>
-        <image val="083v" url="data/images/single/083v.jpg" id="BO-9-3-v">083v</image>
     </imagerv>
     <imagerv>
+        <image val="082v" url="data/images/single/082v.jpg" id="BO-9-2-v">082v</image>
         <image val="083r" url="data/images/single/083r.jpg" id="BO-9-3-r">083r</image>
-        <image val="084v" url="data/images/single/084v.jpg" id="BO-9-4-v">084v</image>
     </imagerv>
     <imagerv>
+        <image val="083v" url="data/images/single/083v.jpg" id="BO-9-3-v">083v</image>
         <image val="084r" url="data/images/single/084r.jpg" id="BO-9-4-r">084r</image>
-        <image val="085v" url="data/images/single/085v.jpg" id="BO-9-5-v">085v</image>
     </imagerv>
     <imagerv>
+        <image val="084v" url="data/images/single/084v.jpg" id="BO-9-4-v">084v</image>
         <image val="085r" url="data/images/single/085r.jpg" id="BO-9-5-r">085r</image>
-        <image val="086v" url="data/images/single/086v.jpg" id="BO-9-6-v">086v</image>
+    </imagerv>
+    <imagerv>
+        <image val="085v" url="data/images/single/085v.jpg" id="BO-9-5-v">085v</image>
+        <image val="086r" url="data/images/single/086r.jpg" id="BO-9-6-r">086r</image>
     </imagerv>
     <imagerv>
         <image val="086v" url="data/images/single/086v.jpg" id="BO-9-6-v">086v</image>
