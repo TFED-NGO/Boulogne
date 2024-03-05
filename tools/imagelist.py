@@ -2,7 +2,8 @@ import os
 from PIL import Image 
 
 PAGES = [
-    ("plat superieur", "plat inferieur"),
+    ("plat superieur", "plat superieur"),
+    ("plat inferieur", "plat inferieur"),
     ("dos", "dos"),
     ("contreplat superieur", "garde recto"),
     ("garde verso", "garde recto"),
@@ -103,6 +104,7 @@ def buildup():
 
 def main():
     build_xml(PAGES)
+    convert_images(PAGES)
 
 def convert_images(pages: list):
     for i in range(len(pages)):

@@ -2,15 +2,15 @@
 <imageList>
     <imagerv>
         <image val="plat superieur" url="data/images/single/plat superieur.jpg" id="BO-plat superieur">plat superieur</image>
+    </imagerv>
+    <imagerv>
         <image val="plat inferieur" url="data/images/single/plat inferieur.jpg" id="BO-plat inferieur">plat inferieur</image>
     </imagerv>
     <imagerv>
         <image val="dos" url="data/images/single/dos.jpg" id="BO-dos">dos</image>
-        <image val="dos" url="data/images/single/dos.jpg" id="BO-dos">dos</image>
     </imagerv>
     <imagerv>
         <image val="contreplat superieur" url="data/images/single/contreplat superieur.jpg" id="BO-contreplat superieur">contreplat superieur</image>
-        <image val="garde recto" url="data/images/single/garde recto.jpg" id="BO-garde recto">garde recto</image>
     </imagerv>
     <imagerv>
         <image val="garde verso" url="data/images/single/garde verso.jpg" id="BO-garde verso">garde verso</image>

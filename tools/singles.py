@@ -3,7 +3,8 @@ from PIL import Image
 import cv2
 
 PAGES = [
-    ("plat superieur", "plat inferieur"),
+    ("plat superieur", "plat superieur"),
+    ("plat inferieur", "plat inferieur"),
     ("dos", "dos"),
     ("contreplat superieur", "garde recto"),
     ("garde verso", "garde recto"),
