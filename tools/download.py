@@ -1,6 +1,5 @@
 
-import requests 
-from PIL import Image 
+import requests
 
 START_INDEX = 0
 MAX_IMAGES = 95

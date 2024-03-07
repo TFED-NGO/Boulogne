@@ -1,0 +1,11 @@
+1. Install Python: https://www.python.org/downloads/
+2. Install pip: https://pip.pypa.io/en/stable/installation/talling/
+3. Enter the tools directory from visual studio code inside this repository: `cd tools`
+3. Install the required packages: `pip install -r requirements.txt`
+4. Create a downloads folder: `mkdir downloads`
+5. Modify download.py with the required urls
+6. Run the script: `python -m download`
+7. Create a folder called 'convert' inside the tools folder
+8. Run the script: `python -m imagelist`
+9. Create a folder called 'single' inside the tools folder
+10. Run the script: `python -m singles` to get halved images
