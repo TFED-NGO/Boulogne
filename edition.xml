@@ -271,7 +271,10 @@
         </head>
       <ab>
         <lb n="1" />
-        <hi style="font-variant: smallcaps" rend="3lines">Q</hi>uondam
+<!--The previous code read this way: "<hi style="font-variant: smallcaps" rend="3lines">Q</hi>uondam"
+The 'rend="3lines"' function was not appearing in the EVT window. Might this same problem may occur with the new code?-->
+        <hi rend="large">Q<hi rend="small">u</hi></hi>
+        <hi rend="smallcaps">ondam</hi>
         <choice>
           <orig>dixi<g ref="#m_macron"/></orig>
           <reg>diximus</reg>
@@ -287,7 +290,7 @@
           <expan>iesus</expan>
         </choice>
         <choice>
-          <orig><foreign xml:lang="grc">x<g ref="#p_macron"/></foreign></orig>
+          <orig><foreign xml:lang="grc">x<g ref="#p_macron"/>s</foreign></orig>
           <reg>christus</reg>
         </choice>
         hac ipsa die natus sit uera humanita
@@ -312,22 +315,22 @@
             <orig>p</orig>
             <reg>pro</reg>
           </choice>
-        huius diei sollempnitate. uestras mentes aliqua spirita-
+        huius diei sollempnitate. uestras mentes aliqua spirita
         <lb n="5" />
         li doctrina spiritaliter letificare.
           <choice>
-            <orig>&amp;</orig>
+            <orig><hi rend="font-size: .6em;">&amp;</hi></orig>
             <reg>et</reg>
         </choice>
         in fide catholica
         <lb n="6" />
         confirmare: Fuerunt
         <choice>
-          <orig>namq</orig>
-          <reg>manque</reg>
+          <orig>namq:</orig>
+          <reg>namque</reg>
         </choice>
         <choice>
-          <orig>qui<g ref="#d_macron"/></orig>
+          <orig>quidā</orig>
           <reg>quidam</reg>
         </choice>
          heretici demonico
@@ -343,7 +346,7 @@
         </choice>
         ut dicerent
         <choice>
-          <orig>chr<g ref="#m_macron"/></orig>
+          <orig>xp<g ref="#m_macron"/></orig>
           <reg>christum</reg>
         </choice>
         <choice>
