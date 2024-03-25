@@ -302,7 +302,7 @@ The 'rend="3lines"' function was not appearing in the EVT window. Might this sam
         </choice>
           maria uirgine
           <choice>
-            <orig>p</orig>
+            <orig>p&#x0331;</orig>
             <reg>pro</reg>
           </choice>
           salute mundi. sed tamen
@@ -312,7 +312,7 @@ The 'rend="3lines"' function was not appearing in the EVT window. Might this sam
           </choice>
         <lb n="4" />
           <choice>
-            <orig>p</orig>
+            <orig>p&#x0331;</orig>
             <reg>pro</reg>
           </choice>
         huius diei sollempnitate. uestras mentes aliqua spirita
@@ -359,7 +359,7 @@ The 'rend="3lines"' function was not appearing in the EVT window. Might this sam
         </choice>
         non
         <choice>
-          <orig>p</orig>
+          <orig>p&#x0331;</orig>
           <reg>per</reg>
         </choice>
         <lb n="8" />
