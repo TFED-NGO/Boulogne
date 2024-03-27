@@ -452,21 +452,17 @@ The 'rend="3lines"' function was not appearing in the EVT window. Might this sam
         </choice>
         breuis responsio:
         <choice>
-          <abbr>&amp;</abbr>
-          <expan>et</expan>
-        </choice>
-        <choice>
-          <orig>quā</orig>
-          <reg>quam</reg>
+          <orig>&amp;quā</orig>
+          <reg>et quam</reg>
         </choice>
         profunda sit; Ergo
       <lb n="14" />
         pater est principium
         <choice>
-          <orig>&amp;</orig>
-          <reg>et</reg>
+          <orig>&amp;filius</orig>
+          <reg>et filius</reg>
         </choice>
-        filius qui ex patre natus est
+        qui ex patre natus est
         <choice>
           <orig>principiū</orig>
           <reg>principium</reg>
@@ -487,7 +483,7 @@ The 'rend="3lines"' function was not appearing in the EVT window. Might this sam
          </choice>
         qui est caritas
         <choice>
-          <orig>ambō</orig>
+          <orig>ambo</orig>
           <reg>amborum</reg>
         </choice>
         <choice>
@@ -510,11 +506,11 @@ The 'rend="3lines"' function was not appearing in the EVT window. Might this sam
         <lb n="17" />
         deitate
         <choice>
-          <orig>sem<g ref="#p_macron"/></orig>
+          <orig>semp&#x0331;</orig>
           <reg>semper</reg>
         </choice>
         <choice>
-          <orig><g ref="#p_macron"/>manens</orig>
+          <orig>p&#x0331;manens</orig>
           <reg>permanens</reg>
         </choice>
         : non inceptus. nec finitus; Sed ille
@@ -544,7 +540,7 @@ The 'rend="3lines"' function was not appearing in the EVT window. Might this sam
         </choice>
         non est creatura nec tempus
         <choice>
-          <orig><g ref="#p_macron"/>manens</orig>
+          <orig>p&#x0331;manens</orig>
           <reg>permanens</reg>
         </choice>
          quod
@@ -574,7 +570,12 @@ The 'rend="3lines"' function was not appearing in the EVT window. Might this sam
         </choice>
          ualde altiora
         <lb n="24" />
-        se quaerit. qui uechors p[er]scrutando transscendere uult
+        se quaerit. qui uechors 
+        <choice>
+          <abbr>p&#x0331;scrutando</abbr>
+          <expan>perscrutando</expan>
+        </choice>
+        transscendere uult
         <choice>
           <orig><foreign xml:lang="grc">x<g ref="#r_macron"/></foreign>m,</orig>
             <reg>christum,</reg>
