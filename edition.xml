@@ -369,16 +369,19 @@ The 'rend="3lines"' function was not appearing in the EVT window. Might this sam
           <reg>patrem</reg>
         </choice>
         <choice>
-          <orig>semp</orig>
+          <orig>semp&#x0331;</orig>
           <reg>semper</reg>
         </choice>
         in diuinitate: sed
-          <abbr>ess<am>
+          <abbr>ess&amp;</abbr>
+<!--Here I replaced this code:
+          <am>
             <g ref="amp"/>
-          </am></abbr>
-          <expan>ess<ex>et</ex></expan>
+          </am>
+    with the character sequence &amp; (seen above). This a different way to represent an ampersand according to TEI standards, since the last one was not properly rendering. I have made similar changes in following lines on this document.-->
+          <expan>esset</expan>
+<!--I also removed the <ex> (editorial expansion) tags; I can replace them if needed, but this looks like a normal abbreviation (cf. Cappelli pg. 113)-->
         aliquod
-
   <pb n="13v" facs="013v.jpg"/>
       <lb n="9" />
         tempus
@@ -386,7 +389,11 @@ The 'rend="3lines"' function was not appearing in the EVT window. Might this sam
           <orig>antequā</orig>
           <reg>antequam</reg>
         </choice>
-        natus ess<g ref="amp"/>
+        natus 
+        <choice>
+          <orig>ess&amp;</orig>
+          <reg>esset</reg>
+        </choice>
         ex patre; Audiamus nunc
         <choice>
           <orig>sc<g ref="#m_macron"/></orig>
@@ -397,19 +404,18 @@ The 'rend="3lines"' function was not appearing in the EVT window. Might this sam
           <orig>euuangeliū</orig>
           <reg>euuangelium</reg>
         </choice>
-        quomodo tales
+        quomodo tales 
+        h<add place="above">
+          <orig>a</orig>
+          <add>e</add>
+        </add>betes 
+<!--changed this from a choice tag to an <add> tag in the hopes that both the "a" and "e" will be present on the document, the "e" above the "a," just as in the original.-->
+        superat
         <choice>
-          <orig>habetes</orig>
-          <corr>h<add>e</add>betes</corr>
+          <orig>&amp;stultitiā</orig>
+          <reg>et stultitiam</reg>
         </choice>
-        <choice>
-          <orig>&amp;</orig>
-          <reg>et</reg>
-        </choice>
-        <choice>
-          <orig>stultitiā</orig>
-          <reg>stultitiam</reg>
-        </choice>
+<!--combined two different choice tags, one for ampersand and one for stultitia, into a single choice tag so that the text would render with no space in between, as in the original.-->
         <choice>
           <orig>eō</orig>
           <reg>eorum</reg>
@@ -417,7 +423,7 @@ The 'rend="3lines"' function was not appearing in the EVT window. Might this sam
         <lb n="11" />
         facile confundit: Iudei
         <choice>
-          <orig>namq</orig>
+          <orig>namq:</orig>
           <reg>namque</reg>
         </choice>
         interrogauerunt
@@ -434,10 +440,10 @@ The 'rend="3lines"' function was not appearing in the EVT window. Might this sam
         </choice>
         qui
         <choice>
-          <orig>&amp;</orig>
-          <reg>et</reg>
+          <orig>&amp;loquor</orig>
+          <reg>et loquor</reg>
         </choice>
-        loquor uobis;
+        uobis;
       <lb n="13" />
         Audistis fratres
         <choice>
