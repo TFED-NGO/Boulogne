@@ -23,4 +23,5 @@ jobs:
         uses: ChristophWurst/xmllint-action@v1.2.1
         with:
           xml-file: edition.xml
-          xml-schema-file: TEI/tei_ms.xsd
+          xml-schema-file: TEI/tei_ms.rng
+          xml-schema-type: relaxng
