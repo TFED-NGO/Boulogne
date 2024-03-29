@@ -163,102 +163,88 @@
 			 </editorialDecl>
   <charDecl>
     <char xml:id="N_macron">
-        <unicodeProp name="Canonical_Combining_Class" value="230"/>
         <localProp name="name"
             value="N CHARACTER WITH A MACRON OVER IT"/>
-        <mapping type="normalized">N&#x00AF;</mapping>
-        <mapping type="diplomatic">N&#x00AF;</mapping>
+        <mapping type="normalized">N̄</mapping>
+        <mapping type="diplomatic">N̄</mapping>
     </char>
     <char xml:id="m_macron">
-        <unicodeProp name="Canonical_Combining_Class" value="230"/>
         <localProp name="name"
             value="M CHARACTER WITH A MACRON OVER IT"/>
-        <mapping type="normalized">m&#x00AF;</mapping>
-        <mapping type="diplomatic">m&#x00AF;</mapping>
+        <mapping type="normalized">m̄</mapping>
+        <mapping type="diplomatic">m̄</mapping>
     </char>
     <char xml:id="r_macron">
-        <unicodeProp name="Canonical_Combining_Class" value="230"/>
         <localProp name="name"
             value="R CHARACTER WITH A MACRON OVER IT"/>
-        <mapping type="normalized">r&#x00AF;</mapping>
-        <mapping type="diplomatic">r&#x00AF;</mapping>
+        <mapping type="normalized">r̄</mapping>
+        <mapping type="diplomatic">r̄</mapping>
     </char>
     <char xml:id="h_macron">
-        <unicodeProp name="Canonical_Combining_Class" value="230"/>
         <localProp name="name"
             value="H CHARACTER WITH A MACRON OVER IT"/>
-        <mapping type="normalized">h&#x00AF;</mapping>
-        <mapping type="diplomatic">h&#x00AF;</mapping>
+        <mapping type="normalized">h̄</mapping>
+        <mapping type="diplomatic">h̄</mapping>
     </char>
     <char xml:id="p_macron">
-        <unicodeProp name="Canonical_Combining_Class" value="230"/>
         <localProp name="name"
             value="P CHARACTER WITH A MACRON OVER IT"/>
-        <mapping type="normalized">p&#x00AF;</mapping>
-        <mapping type="diplomatic">p&#x00AF;</mapping>
+        <mapping type="normalized">p̄</mapping>
+        <mapping type="diplomatic">p̄</mapping>
     </char>
     <char xml:id="d_macron">
-        <unicodeProp name="Canonical_Combining_Class" value="230"/>
         <localProp name="name"
             value="D CHARACTER WITH A MACRON OVER IT"/>
-        <mapping type="normalized">d&#x00AF;</mapping>
-        <mapping type="diplomatic">d&#x00AF;</mapping>
+        <mapping type="normalized">d̄</mapping>
+        <mapping type="diplomatic">d̄</mapping>
     </char>
     <char xml:id="g_macron">
-        <unicodeProp name="Canonical_Combining_Class" value="230"/>
         <localProp name="name"
             value="G CHARACTER WITH A MACRON OVER IT"/>
-        <mapping type="normalized">g&#x00AF;</mapping>
-        <mapping type="diplomatic">g&#x00AF;</mapping>
+        <mapping type="normalized">ḡ</mapping>
+        <mapping type="diplomatic">ḡ</mapping>
     </char>
     <char xml:id="c_macron">
-        <unicodeProp name="Canonical_Combining_Class" value="230"/>
         <localProp name="name"
             value="C CHARACTER WITH A MACRON OVER IT"/>
-        <mapping type="normalized">c&#x00AF;</mapping>
-        <mapping type="diplomatic">c&#x00AF;</mapping>
+        <mapping type="normalized">c̄</mapping>
+        <mapping type="diplomatic">c̄</mapping>
     </char>
     <char xml:id="s_macron">
-        <unicodeProp name="Canonical_Combining_Class" value="230"/>
         <localProp name="name"
             value="S CHARACTER WITH A MACRON OVER IT"/>
-        <mapping type="normalized">s&#x00AF;</mapping>
-        <mapping type="diplomatic">s&#x00AF;</mapping>
+        <mapping type="normalized">s̄</mapping>
+        <mapping type="diplomatic">s̄</mapping>
     </char>
     <char xml:id="t_macron">
-        <unicodeProp name="Canonical_Combining_Class" value="230"/>
         <localProp name="name"
             value="T CHARACTER WITH A MACRON OVER IT"/>
-        <mapping type="normalized">t&#x00AF;</mapping>
-        <mapping type="diplomatic">t&#x00AF;</mapping>
+        <mapping type="normalized">t̄</mapping>
+        <mapping type="diplomatic">t̄</mapping>
     </char>
     <char xml:id="l_macron">
-        <unicodeProp name="Canonical_Combining_Class" value="230"/>
         <localProp name="name"
             value="L CHARACTER WITH A MACRON OVER IT"/>
-        <mapping type="normalized">l&#x00AF;</mapping>
-        <mapping type="diplomatic">l&#x00AF;</mapping>
+        <mapping type="normalized">l̄</mapping>
+        <mapping type="diplomatic">l̄</mapping>
     </char>
     <char xml:id="n_macron">
-        <unicodeProp name="Canonical_Combining_Class" value="230"/>
         <localProp name="name"
             value="N CHARACTER WITH A MACRON OVER IT"/>
-        <mapping type="normalized">n&#x00AF;</mapping>
-        <mapping type="diplomatic">n&#x00AF;</mapping>
+        <mapping type="normalized">n̄</mapping>
+        <mapping type="diplomatic">n̄</mapping>
     </char>
     <char xml:id="b_macron">
-        <unicodeProp name="Canonical_Combining_Class" value="230"/>
         <localProp name="name"
             value="B CHARACTER WITH A MACRON OVER IT"/>
-        <mapping type="normalized">b&#x00AF;</mapping>
-        <mapping type="diplomatic">b&#x00AF;</mapping>
+        <mapping type="normalized">b̄</mapping>
+        <mapping type="diplomatic">b̄</mapping>
     </char>
     <char xml:id="q_macron">
-        <unicodeProp name="Canonical_Combining_Class" value="230"/>
         <localProp name="name"
             value="Q CHARACTER WITH A MACRON OVER IT"/>
-        <mapping type="normalized">q&#x00AF;</mapping>
-        <mapping type="diplomatic">q&#x00AF;</mapping>
+        <mapping type="normalized">q̄</mapping>
+        <mapping type="diplomatic">q̄</mapping>
     </char>
   </charDecl>
     </encodingDesc>
