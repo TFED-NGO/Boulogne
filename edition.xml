@@ -483,7 +483,7 @@ The 'rend="3lines"' function was not appearing in the EVT window. Might this sam
          </choice>
         qui est caritas
         <choice>
-          <orig>ambo</orig>
+          <orig>ambo&#xA75B;</orig>
           <reg>amborum</reg>
         </choice>
         <choice>
@@ -603,7 +603,7 @@ The 'rend="3lines"' function was not appearing in the EVT window. Might this sam
         <lb n="26" />
         aliquis modo
         <choice>
-          <orig>uel<g ref="#l_macron"/></orig>
+          <orig>uell&amp;</orig>
           <reg>uellet</reg>
           </choice>
           erigere altam scalam sibi:
@@ -614,12 +614,12 @@ The 'rend="3lines"' function was not appearing in the EVT window. Might this sam
           ascendere
         <lb n="27" />
         <choice>
-          <orig><g ref="#p_macron"/></orig>
+          <orig>p&#x0331;</orig>
           <reg>per</reg>
         </choice>
         gradus eius
         <choice>
-          <orig>usq</orig>
+          <orig>usq:</orig>
           <reg>usque</reg>
         </choice>
          ad
@@ -629,7 +629,7 @@ The 'rend="3lines"' function was not appearing in the EVT window. Might this sam
          </choice>
           illius ualde uechors
           <choice>
-            <orig>es<g ref="#s_macron"/></orig>
+            <orig>ess&amp;</orig>
             <reg>esset</reg>
           </choice>
           si
@@ -641,14 +641,14 @@ The 'rend="3lines"' function was not appearing in the EVT window. Might this sam
         </choice>
          altius adhuc ascendere
          <choice>
-           <orig>uel<g ref="#l_macron"/>:</orig>
+           <orig>uell&amp;:</orig>
            <reg>uellet</reg>
          </choice>
         quia tanto
         <lb n="29" />
         grauior casus ei eueniret. quanto altius
         <choice>
-          <orig>ascende<g ref="#r_macron"/></orig>
+          <orig>ascender&amp;</orig>
           <reg>ascenderet.</reg>
         </choice>
           sed ad
@@ -666,14 +666,18 @@ The 'rend="3lines"' function was not appearing in the EVT window. Might this sam
         </choice>
           Dicit
         <choice>
-            <orig>deniq</orig>
+            <orig>deniq:</orig>
             <reg>denique</reg>
         </choice>
-           dominus ad moysen:
+        <choice>
+          <abbr>d<g ref="#n_macron"/>s</abbr>
+          <expan>dominus</expan>
+        </choice>
+        ad moysen:
         <lb n="32" />
         Non ascendas
         <choice>
-          <orig><g ref="#p_macron"/></orig>
+          <orig>p&#x0331;</orig>
           <reg>per</reg>
         </choice>
          gradus ad altare
@@ -683,7 +687,7 @@ The 'rend="3lines"' function was not appearing in the EVT window. Might this sam
          </choice>
            Altare
            <choice>
-             <orig>namq</orig>
+             <orig>namq:</orig>
              <reg>namque</reg>
            </choice>
           in hoc
@@ -742,7 +746,7 @@ The 'rend="3lines"' function was not appearing in the EVT window. Might this sam
         </choice>
         ascendere
         <choice>
-          <orig><g ref="#p_macron"/></orig>
+          <orig>p&#x0331;</orig>
           <reg>per</reg>
         </choice>
         gradus ut
@@ -804,7 +808,7 @@ The 'rend="3lines"' function was not appearing in the EVT window. Might this sam
         <lb n="41" />
         sed
         <choice>
-          <orig>sem<g ref="#p_macron"/></orig>
+          <orig>semp&#x0331;</orig>
           <reg>semper</reg>
         </choice>
          erat:
@@ -814,7 +818,7 @@ The 'rend="3lines"' function was not appearing in the EVT window. Might this sam
          </choice>
         incepit filius: sed
         <choice>
-          <orig>sem<g ref="#p_macron"/></orig>
+          <orig>semp&#x0331;</orig>
           <reg>semper</reg>
         </choice>
         erat sapientia
@@ -836,27 +840,38 @@ The 'rend="3lines"' function was not appearing in the EVT window. Might this sam
         sed semper
         <lb n="43" />
         erat caritas patris
-        <g ref="amp"/> filii coeternus
-        <g ref="amp"/> consubstantialis ipsis
+        <choice>
+          <abbr>&amp;</abbr>
+          <expan>et</expan>
+        </choice>
+        filii coeternus
+        <choice>
+          <abbr>&amp;</abbr>
+          <expan>et</expan>
+        </choice> 
+        consubstantialis ipsis
         <lb n="44" />
         in una deitate; In creaturis sunt quaedam temporalia: quae-
         <lb n="45" />
-        dam aeterna; Temporalia uero sunt ut pecora pisces uola 45
+        dam aeterna; Temporalia uero sunt ut pecora pisces uola
         <lb n="46" />
-        tilia
+        tilia quae anima carent quae habent
         <choice>
-          <orig>quē</orig>
-          <reg>quae</reg>
-        </choice>
-        anima carent quae habent
-        <choice>
-          <orig>utrumq</orig>
+          <orig>utrumq:</orig>
           <reg>utrumque</reg>
         </choice>
-        initium <g ref="amp"/>
+        initium 
+        <choice>
+          <abbr>&amp;</abbr>
+          <expan>et</expan>
+        </choice>
         <lb n="47" />
         finem: quae inceperunt quando creata sunt.
-        <g ref="amp"/> iterum
+        <choice>
+          <abbr>&amp;</abbr>
+          <expan>et</expan>
+        </choice>
+        iterum
         <lb n="48" />
         morte
         <choice>
@@ -879,7 +894,11 @@ The 'rend="3lines"' function was not appearing in the EVT window. Might this sam
         habent quia creata sunt: sed carent fine quia numquam
         <lb n="51" />
         desinunt esse: sicut angeli
-        <g ref="amp"/> anime hominum; Nam
+        <choice>
+          <abbr>&amp;</abbr>
+          <expan>et</expan>
+        </choice> 
+        anime hominum; Nam
         <lb n="52" />
         creator
         <choice>
@@ -897,13 +916,27 @@ The 'rend="3lines"' function was not appearing in the EVT window. Might this sam
           <orig>initiū</orig>
           <reg>initium</reg>
         </choice>
-        <g ref="amp"/> finis. carens tamen initio
-        <g ref="amp"/> fine;
+        <choice>
+          <abbr>&amp;</abbr>
+          <expan>et</expan>
+        </choice>
+        finis. carens tamen initio
+        <choice>
+          <abbr>&amp;</abbr>
+          <expan>et</expan>
+        </choice> 
+        fine;
         <lb n="54" />
         Nullum
-        tim<g ref="amp"/>
+        <choice>
+          <abbr>tim&amp;</abbr>
+          <expan>timet</expan>
+        </choice>
         quia non
-        hab<g ref="amp"/>
+        <choice>
+          <abbr>hab&amp;</abbr>
+          <expan>habet</expan>
+        </choice>
         <choice>
           <orig>potentiorē</orig>
           <reg>potentiorem</reg>
@@ -915,15 +948,22 @@ The 'rend="3lines"' function was not appearing in the EVT window. Might this sam
           <reg>similem;</reg>
         </choice>
         <choice>
-          <orig>Sem<g ref="#p_macron"/></orig>
+          <orig>Semp&#x0331;</orig>
           <reg>Semper</reg>
         </choice>
         dat:
-        <g ref="amp"/> umquam sua minuit: nec aliquo in
-        <lb n="56" />
-        dig<g ref="amp"/>;
         <choice>
-          <orig>Sem<g ref="#p_macron"/></orig>
+          <abbr>&amp;</abbr>
+          <expan>et</expan>
+        </choice> 
+        numquam sua minuit: nec aliquo in
+        <lb n="56" />
+        <choice>
+          <abbr>dig&amp;</abbr>
+          <expan>diget</expan>
+        </choice>;
+        <choice>
+          <orig>Semp&#x0331;</orig>
           <reg>Semper</reg>
         </choice>
         est
@@ -932,7 +972,7 @@ The 'rend="3lines"' function was not appearing in the EVT window. Might this sam
           <reg>omnipotens</reg>
         </choice>
         <choice>
-          <orig>sem<g ref="#p_macron"/></orig>
+          <orig>semp&#x0331;</orig>
           <reg>semper</reg>
         </choice>
           uult bene.
