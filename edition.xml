@@ -1049,7 +1049,7 @@ The 'rend="3lines"' function was not appearing in the EVT window. Might this sam
         <choice>
           <abbr>feciss&amp;</abbr>
           <expan>fecisset</expan>
-        <choice>:
+        </choice>:
         tunc interrogemus quomodo se
         <choice>
           <orig>ipsū</orig>
