@@ -2603,7 +2603,6 @@ The 'rend="3lines"' function was not appearing in the EVT window. Might this sam
         <pb n="16v" facs="data/images/fol_5v.png" />
 
         <lb n="183" />
-        <---LINE STARTS A BIT BEFORE NORMAL - EXTRA TEXT ADDED--!>
         Intellego me intellegere uelle:
         <choice>
           <abbr>&amp;</abbr>
@@ -2794,7 +2793,7 @@ The 'rend="3lines"' function was not appearing in the EVT window. Might this sam
 
         <lb n="201" />
         <choice>
-          <abbr>p>macron/>uolat</abbr>
+          <abbr>p<macron/>uolat</abbr>
           <expan>peruolat</expan>
         </choice>
         . terras
@@ -2805,7 +2804,6 @@ The 'rend="3lines"' function was not appearing in the EVT window. Might this sam
         urbes
         <choice>
           <abbr>p<macron/>agr&amp;</abbr>
-          <---IS THIS CORRECT?-->
           <expan>peragret</expan>
         </choice>
         . omnia in conspectu sibi
@@ -3057,8 +3055,7 @@ The 'rend="3lines"' function was not appearing in the EVT window. Might this sam
         <choice>
           <abbr>amandu<macron/></abbr>
           <expan>amandum</expan>
-        </choice>
-        .
+        </choice>.
         <choice>
           <abbr>&amp;</abbr>
           <expan>et</expan>
