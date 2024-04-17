@@ -1058,14 +1058,14 @@ The 'rend="3lines"' function was not appearing in the EVT window. Might this sam
         <choice>
           <abbr>feciss&amp;</abbr>
           <expan>fecisset</expan>
-        <choice> 
+        </choice> 
         si
         <lb n="62" />
         ante non 
         <choice>
           <abbr>ess&amp;</abbr>
           <expan>esset</expan>
-        <choice>; 
+        </choice>; 
         Sed erat
         <choice>
           <orig>semp&#x0331;:</orig>
@@ -1085,7 +1085,7 @@ The 'rend="3lines"' function was not appearing in the EVT window. Might this sam
         <choice>
           <abbr>hab&amp;</abbr>
           <expan>habet</expan>
-        <choice>
+        </choice>
         <choice>
            <orig>semp&#x0331;</orig>
            <reg>semper</reg>
