@@ -2302,7 +2302,7 @@ The 'rend="3lines"' function was not appearing in the EVT window. Might this sam
         loquitur
         <choice>
           <abbr>p&#x0331;</abbr>
-          <expan>per</abbr>
+          <expan>per</expan>
         </choice>
         <choice>
           <abbr>p&#x0331;phetam</abbr>
