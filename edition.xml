@@ -2646,7 +2646,7 @@ The 'rend="3lines"' function was not appearing in the EVT window. Might this sam
         <pb n="16v" facs="data/images/fol_5v.png" />
 
         <lb n="183" />
-        Intellego me intellegere uelle:
+        <add place="left">Intellego me </add><add place="above">in</add>tellegere uelle:
         <choice>
           <abbr>&amp;</abbr>
           <expan>et</expan>
@@ -3531,8 +3531,10 @@ The 'rend="3lines"' function was not appearing in the EVT window. Might this sam
         </choice>
         consentiat in desiderio suae naturae. ne quid in
         <lb n="262" />
-        <orig>decens</orig>
-        <corr>do<add>e</add>cens</corr>
+        <choice>
+          <orig>do<add place="above">e</add>cens</orig>
+          <reg>decens</reg>
+        </choice>
         fiat in officio suae carnis alicubi; Sicut
         <choice>
           <orig>enī</orig>
@@ -3576,7 +3578,7 @@ The 'rend="3lines"' function was not appearing in the EVT window. Might this sam
           <expan>et</expan>
         </choice>
         <choice>
-          <orig>aerē</orig>
+          <orig><add place="above">a</add>erē</orig>
           <reg>aerem</reg>
         </choice>
         <lb n="265" />
