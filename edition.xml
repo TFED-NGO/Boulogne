@@ -252,7 +252,7 @@
         <mapping type="normalized">ꝵ</mapping>
         <mapping type="diplomatic">ꝵ</mapping>
     </char>
-    <char xml:id=“p_with_flourish>
+    <char xml:id="p_with_flourish">
         <localProp name="name"
             value="Latin Small Letter P With Flourish"/>
         <mapping type="normalized">ꝓ</mapping>
