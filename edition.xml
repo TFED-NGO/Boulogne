@@ -252,6 +252,12 @@
         <mapping type="normalized">ꝵ</mapping>
         <mapping type="diplomatic">ꝵ</mapping>
     </char>
+    <char xml:id=“p_with_flourish>
+        <localProp name="name"
+            value="Latin Small Letter P With Flourish"/>
+        <mapping type="normalized">ꝓ</mapping>
+        <mapping type="diplomatic">ꝓ</mapping>
+    </char>
         </charDecl>
     </encodingDesc>
 		<revisionDesc>
@@ -308,7 +314,7 @@ The 'rend="3lines"' function was not appearing in the EVT window. Might this sam
         </choice>
           maria uirgine
           <choice>
-            <orig>p&#x0331;</orig>
+            <orig><g ref="#p_with_flourish"/></orig>
             <reg>pro</reg>
           </choice>
           salute mundi. sed tamen
@@ -318,7 +324,7 @@ The 'rend="3lines"' function was not appearing in the EVT window. Might this sam
           </choice>
         <lb n="4" />
           <choice>
-            <orig>p&#x0331;</orig>
+            <orig><g ref="#p_with_flourish"/></orig>
             <reg>pro</reg>
           </choice>
         huius diei sollempnitate. uestras mentes aliqua spirita
@@ -564,7 +570,7 @@ The 'rend="3lines"' function was not appearing in the EVT window. Might this sam
         <lb n="22" />
         mi, quia
         <choice>
-          <orig>ppheta</orig>
+          <orig><g ref="#p_with_flourish"/>pheta</orig>
           <reg>propheta</reg>
         </choice>
          dicit; Nisi credideritis non intellegitis;
@@ -1378,7 +1384,7 @@ The 'rend="3lines"' function was not appearing in the EVT window. Might this sam
           <expan>et</expan>
         </choice>
         <choice>
-          <abbr>p&#x0331;prio</abbr>
+          <abbr><g ref="#p_with_flourish"/>prio</abbr>
           <expan>proprio</expan>
         </choice>
 
@@ -1608,7 +1614,7 @@ The 'rend="3lines"' function was not appearing in the EVT window. Might this sam
         <lb n="105" />
         caro mea est
         <choice>
-          <abbr>p&#x0331;</abbr>
+          <abbr><g ref="#p_with_flourish"/></abbr>
           <expan>pro</expan>
         </choice>
         mundi uita: Istum panem
@@ -1829,7 +1835,7 @@ The 'rend="3lines"' function was not appearing in the EVT window. Might this sam
         <lb n="122" />
         ut tu diligeres
         <choice>
-          <orig>p&#x0331;ximum</orig>
+          <orig><g ref="#p_with_flourish"/>ximum</orig>
           <reg>proximum</reg>
         </choice>
         <choice>
@@ -2308,7 +2314,7 @@ The 'rend="3lines"' function was not appearing in the EVT window. Might this sam
           <expan>per</expan>
         </choice>
         <choice>
-          <abbr>p&#x0331;phetam</abbr>
+          <abbr><g ref="#p_with_flourish"/>phetam</abbr>
           <expan>prophetam</expan>
         </choice>
         ; Omnem flatum
@@ -2428,7 +2434,7 @@ The 'rend="3lines"' function was not appearing in the EVT window. Might this sam
           <expan>salutem</expan>
         </choice>
         <choice>
-          <abbr>p&#x0331;ficiant</abbr>
+          <abbr><g ref="#p_with_flourish"/>ficiant</abbr>
           <expan>proficiant</expan>
         </choice>
         <choice>
@@ -2468,7 +2474,7 @@ The 'rend="3lines"' function was not appearing in the EVT window. Might this sam
         </choice>
         seruus est peccati; Ex qua corrupta
         <choice>
-          <abbr>p&#x0331;cedit</abbr>
+          <abbr><g ref="#p_with_flourish"/>cedit</abbr>
           <expan>procedit</expan>
         </choice>
 
@@ -2520,7 +2526,7 @@ The 'rend="3lines"' function was not appearing in the EVT window. Might this sam
           <expan>et</expan>
         </choice>
         <choice>
-          <abbr>p&#x0331;ficiendo</abbr>
+          <abbr><g ref="#p_with_flourish"/>ficiendo</abbr>
           <expan>proficiendo</expan>
         </choice>
         ad uirtutem non maior fit. sed melior
@@ -3132,7 +3138,7 @@ The 'rend="3lines"' function was not appearing in the EVT window. Might this sam
         <lb n="228" />
         Fortitudo, qua
         <choice>
-          <abbr>p&#x0331;</abbr>
+          <abbr><g ref="#p_with_flourish"/></abbr>
           <expan>pro</expan>
         </choice>
         dei amore fortiter omnia aduersa
@@ -3167,7 +3173,7 @@ The 'rend="3lines"' function was not appearing in the EVT window. Might this sam
         </choice>
         illis
         <choice>
-          <abbr>p&#x0331;desse</abbr>
+          <abbr><g ref="#p_with_flourish"/>desse</abbr>
           <expan>prodesse</expan>
         </choice>
 
@@ -3182,7 +3188,7 @@ The 'rend="3lines"' function was not appearing in the EVT window. Might this sam
         <lb n="234" />
         iuxta suae
         <choice>
-          <abbr>p&#x0331;prietatem</abbr>
+          <abbr><g ref="#p_with_flourish"/>prietatem</abbr>
           <expan>proprietatem</expan>
         </choice>
         naturae; Anima est
@@ -3474,7 +3480,7 @@ The 'rend="3lines"' function was not appearing in the EVT window. Might this sam
         <lb n="256" />
         nificationes non intellegens. ore
         <choice>
-          <orig>p&#x0331;fert.</orig>
+          <orig><g ref="#p_with_flourish"/>fert.</orig>
           <reg>profert.</reg>
         </choice>
         psallit mente
