@@ -296,7 +296,7 @@ The 'rend="3lines"' function was not appearing in the EVT window. Might this sam
           <expan>iesus</expan>
         </choice>
         <choice>
-          <orig><foreign xml:lang="grc"/>x<g ref="#p_macron"/>s</foreign></orig>
+          <orig><foreign xml:lang="grc">x<g ref="#p_macron"/>s</foreign></orig>
           <reg>christus</reg>
         </choice>
         hac ipsa die natus sit uera humanita
@@ -434,7 +434,7 @@ The 'rend="3lines"' function was not appearing in the EVT window. Might this sam
         </choice>
         interrogauerunt
         <choice>
-          <orig><foreign xml:lang="grc"/>x<g ref="#r_macron"/></foreign>m</orig>
+          <orig><foreign xml:lang="grc">x<g ref="#r_macron"/></foreign>m</orig>
           <reg>Christum</reg>
         </choice>
         dicen
@@ -583,7 +583,7 @@ The 'rend="3lines"' function was not appearing in the EVT window. Might this sam
         </choice>
         transscendere uult
         <choice>
-          <orig><foreign xml:lang="grc"/>x<g ref="#r_macron"/></foreign>m,</orig>
+          <orig><foreign xml:lang="grc">x<g ref="#r_macron"/></foreign>m,</orig>
             <reg>christum,</reg>
           </choice>
         <lb n="25" />
@@ -1258,7 +1258,7 @@ The 'rend="3lines"' function was not appearing in the EVT window. Might this sam
         </choice>
         unus
         <choice>
-          <orig><foreign xml:lang="grc"/>xps</orig>
+          <orig><foreign xml:lang="grc">xps</foreign></orig>
           <reg>christus</reg>
         </choice>
         ; Creaturae uero quas unus
@@ -1621,7 +1621,7 @@ The 'rend="3lines"' function was not appearing in the EVT window. Might this sam
         <lb n="106" />
         mus cum ad sacrificium
         <choice>
-          <orig><foreign xml:lang="grc"/>xpi</orig>
+          <orig><foreign xml:lang="grc">xpi</foreign></orig>
           <reg>christi</reg>
         </choice>
         <choice>
@@ -1633,7 +1633,7 @@ The 'rend="3lines"' function was not appearing in the EVT window. Might this sam
         <lb n="107" />
         hodie debent
         <choice>
-          <orig><foreign xml:lang="grc"/>xpiani</orig>
+          <orig><foreign xml:lang="grc">xpiani</foreign></orig>
           <reg>christiani</reg>
         </choice>
         accedere ad
@@ -1642,7 +1642,7 @@ The 'rend="3lines"' function was not appearing in the EVT window. Might this sam
           <reg>sacrificium</reg>
         </choice>
         <choice>
-          <orig><foreign xml:lang="grc"/>xpi</orig>
+          <orig><foreign xml:lang="grc">xpi</foreign></orig>
           <reg>christi</reg>
         </choice>
         . quia ual
@@ -1679,7 +1679,7 @@ The 'rend="3lines"' function was not appearing in the EVT window. Might this sam
         </choice>
         Semel uero natus est
         <choice>
-          <orig><foreign xml:lang="grc"/>x<g ref="#p_macron"/></foreign>s</orig>
+          <orig><foreign xml:lang="grc">x<g ref="#p_macron"/></foreign>s</orig>
           <reg>christus</reg>
         </choice>
         <lb n="111" />
@@ -1886,7 +1886,7 @@ The 'rend="3lines"' function was not appearing in the EVT window. Might this sam
           <reg>omnibus</reg>
         </choice>
         <choice>
-          <orig><foreign xml:lang="grc"/>x<g ref="#p_macron"/></foreign>anis</orig>
+          <orig><foreign xml:lang="grc">x<g ref="#p_macron"/></foreign>anis</orig>
           <reg>christianis</reg>
         </choice>
         custodienda
@@ -2021,7 +2021,7 @@ The 'rend="3lines"' function was not appearing in the EVT window. Might this sam
         <lb n="132" />
         qui ueritatem diligit:
         <choice>
-          <orig><orig><foreign xml:lang="grc"/>x<g ref="#p_macron"/></foreign></orig>m</orig>
+          <orig><orig><foreign xml:lang="grc">x<g ref="#p_macron"/></foreign></orig>m</orig>
           <reg>christum</reg>
         </choice>
         sequitur qui dixit. ego sum uia
@@ -2067,7 +2067,7 @@ The 'rend="3lines"' function was not appearing in the EVT window. Might this sam
         <lb n="136" />
         fratres quia nichil est tam necesse homini
         <choice>
-          <orig><orig><foreign xml:lang="grc"/>x<g ref="#p_macron"/></foreign></orig>ano</orig>
+          <orig><orig><foreign xml:lang="grc">x<g ref="#p_macron"/></foreign></orig>ano</orig>
           <reg>christiano</reg>
         </choice>
         scire
@@ -3760,7 +3760,7 @@ The 'rend="3lines"' function was not appearing in the EVT window. Might this sam
         nos
         <lb n="285" />
         <choice>
-          <orig><foreign xml:lang="grc"/>x<g ref="#p_macron"/></foreign>s</orig>
+          <orig><foreign xml:lang="grc">x<g ref="#p_macron"/></foreign>s</orig>
           <reg>christus</reg>
         </choice>
         qui est uera sapientia uera que uita: qui uiuit cum
