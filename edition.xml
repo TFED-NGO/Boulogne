@@ -1627,7 +1627,7 @@ The 'rend="3lines"' function was not appearing in the EVT window. Might this sam
         <lb n="106" />
         mus cum ad sacrificium
         <choice>
-          <orig><foreign xml:lang="grc">xpi</foreign></orig>
+          <orig><foreign xml:lang="grc">x<g ref="#p_macron"/>i</foreign></orig>
           <reg>christi</reg>
         </choice>
         <choice>
@@ -1639,7 +1639,7 @@ The 'rend="3lines"' function was not appearing in the EVT window. Might this sam
         <lb n="107" />
         hodie debent
         <choice>
-          <orig><foreign xml:lang="grc">xpiani</foreign></orig>
+          <orig><foreign xml:lang="grc">x<g ref="#p_macron"/>iani</foreign></orig>
           <reg>christiani</reg>
         </choice>
         accedere ad
@@ -1648,7 +1648,7 @@ The 'rend="3lines"' function was not appearing in the EVT window. Might this sam
           <reg>sacrificium</reg>
         </choice>
         <choice>
-          <orig><foreign xml:lang="grc">xpi</foreign></orig>
+          <orig><foreign xml:lang="grc">x<g ref="#p_macron"/>i</foreign></orig>
           <reg>christi</reg>
         </choice>
         . quia ual
@@ -3217,10 +3217,12 @@ The 'rend="3lines"' function was not appearing in the EVT window. Might this sam
           <expan>maleque</expan>
         </choice>
         uoluntatis capax. sed
+        <add place="above">
         <choice>
           <abbr>d<g ref="#m_macron"/></abbr>
           <expan>domini</expan>
         </choice>
+        </add>
         benignitate creatoris
 
         <lb n="237" />
@@ -3529,7 +3531,7 @@ The 'rend="3lines"' function was not appearing in the EVT window. Might this sam
           <orig>cuiq:</orig>
           <reg>cuique</reg>
         </choice>
-        consentiat in desiderio suae naturae. ne quid in
+        consentiat in desiderio suae naturae. ne quid i<hi rend="smallcaps">n</hi>
         <lb n="262" />
         <choice>
           <orig>do<add place="above">e</add>cens</orig>
@@ -3706,7 +3708,7 @@ The 'rend="3lines"' function was not appearing in the EVT window. Might this sam
           <orig>d<g ref="#n_macron"/>o</orig>
           <reg>domino</reg>
         </choice>
-        deo est; Pro inde omnis qui
+        deo est; Pro i<hi rend="smallcaps">n</hi>de omnis qui
         <choice>
           <orig>sc<g ref="#d_macron"/>m</orig>
           <reg>secundum</reg>
