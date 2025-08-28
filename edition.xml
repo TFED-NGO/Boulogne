@@ -29,6 +29,7 @@
 									<name>Sarah Bulger</name>
                   <name>Eve Svoboda</name>
                   <name>Jackson Meade</name>
+                  <name>Micah Morse</name>
             </respStmt>
             <respStmt>
                <resp>Manuscription description:</resp>
@@ -60,7 +61,7 @@
 
 				 <editionStmt>
 					 <edition>Previous Editions</edition>
-					 	<!-- include all previous editions of Aelfric's Live of Saints here -->
+					 	<!-- include all previous editions of Boulogne here -->
 					</editionStmt>
 					<extent>?? [megabytes]</extent>
 
@@ -245,6 +246,30 @@
             value="Q CHARACTER WITH A MACRON OVER IT"/>
         <mapping type="normalized">q̄</mapping>
         <mapping type="diplomatic">q̄</mapping>
+    </char>
+    <char xml:id="u_macron">
+        <localProp name="name"
+            value="U CHARACTER WITH A MACRON OVER IT"/>
+        <mapping type="normalized">ū</mapping>
+        <mapping type="diplomatic">ū</mapping>
+    </char>
+    <char xml:id="a_macron">
+        <localProp name="name"
+            value="A CHARACTER WITH A MACRON OVER IT"/>
+        <mapping type="normalized">ā</mapping>
+        <mapping type="diplomatic">ā</mapping>
+    </char>
+    <char xml:id="i_macron">
+        <localProp name="name"
+            value="I CHARACTER WITH A MACRON OVER IT"/>
+        <mapping type="normalized">ī</mapping>
+        <mapping type="diplomatic">ī</mapping>
+    </char>
+    <char xml:id="o_macron">
+        <localProp name="name"
+            value="O CHARACTER WITH A MACRON OVER IT"/>
+        <mapping type="normalized">ō</mapping>
+        <mapping type="diplomatic">ō</mapping>
     </char>
   </charDecl>
     </encodingDesc>
@@ -524,12 +549,12 @@ The 'rend="3lines"' function was not appearing in the EVT window. Might this sam
           <orig>s<g ref="#c_macron"/>a</orig>
           <reg>sancta</reg>
         </choice>
-      Trinitas ineffabili potentia
-      <choice>
+        Trinitas ineffabili potentia
+        <choice>
         <orig>&amp;</orig>
         <reg>et</reg>
-      </choice>
-       una deitate omnes creatu
+        </choice>
+        una deitate omnes creatu
         <lb n="20" />
         ras fecit:
         <choice>
@@ -834,7 +859,7 @@ The 'rend="3lines"' function was not appearing in the EVT window. Might this sam
         <lb n="44" />
         in una deitate; In creaturis sunt quaedam temporalia: quae-
         <lb n="45" />
-        dam aeterna; Temporalia uero sunt ut pecora pisces uola 45
+        dam aeterna; Temporalia uero sunt ut pecora pisces uola
         <lb n="46" />
         tilia
         <choice>
@@ -1075,17 +1100,437 @@ The 'rend="3lines"' function was not appearing in the EVT window. Might this sam
         <g ref="amp"/> cepit esse in temporae
         <lb n="70" />
         ex matre uirgine. sed eius incarnatio erat predestinata
-
-    <pb n="15r" facs="015r.jpg"/>
-        <lb n="110" />
-        cas dies peragit sine
+        <lb n="71" />
+        <g ref="amp"/>erno
+        consilio patris; Ipse enim est 
         <choice>
-          <orig>cōmunione;</orig>
-          <reg>communione;</reg>
+          <abbr><g ref="p_macron"/>fectus</abbr>
+          <expan>perfectus</expan>
         </choice>
-        Semel uero natus est
         <choice>
-          <orig><foreign xml:lang="grc">x<g ref="#p_macron"/></foreign>s</orig>
+          <abbr><g ref="d_macron"/>s</abbr>
+          <expan>deus</expan>
+        </choice>
+        <choice>
+          <abbr>&amp;</abbr>
+          <expan>et</expan>
+        </choice>
+        <choice>
+          <abbr><g ref="p_macron"/>fect<g ref="t_macron"/></abbr>
+          <expan>perfectus</expan>
+        </choice>
+        <lb n="72" />
+        homo. in duabus naturis
+        <choice>
+          <abbr><g ref="d_macron"/>i</abbr>
+          <expan>dei</expan>
+        </choice>
+        <choice>
+          <abbr><g ref="amp"/></abbr>
+          <expan>et</expan>
+        </choice>
+        hominis existens una
+        <choice>
+          <abbr><g ref="p_macron"/>sona</abbr>
+          <expan>persona</expan>
+        </choice>
+        .
+        <lb n="73" />
+        in
+        <choice>
+          <abbr>tant<g ref="u_macron"/></abbr>
+          <expan>tantum</expan>
+        </choice>
+        ut idem sit filius 
+        <choice>
+          <abbr><g ref="d_macron"/>i</abbr>
+          <expan>dei</expan>
+        </choice>
+        qui filius hominis
+        <choice>
+          <abbr><g ref="amp"/></abbr>
+          <expan>et</expan>
+        </choice>
+        filius
+        <lb n="74" />
+        hominis qui filius
+        <choice>
+          <abbr><g ref="d_macron"/>i</abbr>
+          <expan>dei</expan>
+        </choice>
+        unus
+        <choice>
+          <orig><foreign xml:lang="grc">x</foreign>ps</orig>
+          <reg>christus</reg>
+        </choice>
+        ; Creaturae uero quas unus
+        <lb n="75" />
+        creator creauit multiplices sunt.
+        <choice>
+          <abbr><g ref="amp"/></abbr>
+          <expan>et</expan>
+        </choice>
+        uariae figurae.
+        <choice>
+          <abbr><g ref="amp"/></abbr>
+          <expan>et</expan>
+        </choice>
+        <lb n="76" />
+        non uno modo uiuunt; ex quibus
+        <choice>
+          <abbr>quaed<g ref="a_macron"/>/</abbr>
+          <expan>quaedam</expan>
+        </choice>
+        sunt incorpora
+        <lb n="77" />
+        lia
+        <choice>
+          <abbr><g ref="amp"/></abbr>
+          <expan>et</expan>
+        </choice>
+        inuisibilia; ut angeli in caelo nullo terreno cibo
+        <lb n="78" />
+        utentes; Alia
+        <choice>
+          <orig>namq:</orig>
+          <reg>namque</reg>
+        </choice>
+        corporalia sunt ratione carentia
+        <lb n="79" />
+        <choice>
+          <abbr><g ref="amp"/></abbr>
+          <expan>et</expan>
+        </choice>
+        toto corpore in terra reptantia sicut uermes; Quae
+        <lb n="80" />
+        dam uero ambulant
+        <choice>
+          <orig>duob:</orig>
+          <reg>duobus</reg>
+        </choice>
+        pedibus
+        <choice>
+          <orig>qued<g ref="a_macron"/></orig>
+          <reg>quedam</reg>
+        </choice>
+        quattuor;
+        <lb n="81" />
+        <choice>
+          <abbr>Quaed<g ref="a_macron"/></abbr>
+          <expan>Quaedam</expan>
+        </choice>
+        pennis uolant in aere.
+        <choice>
+          <abbr>quaed<g ref="a_macron"/></abbr>
+          <expan>quaedam</expan>
+        </choice>
+        etiam natatilia sunt
+        <lb n="82" />
+        ut pissces in mari.
+        <choice>
+          <abbr><g ref="amp"/></abbr>
+          <expan>et</expan>
+        </choice>
+        in amne uagantia: quae sine aquis
+        <lb n="83" />
+        uiuere nequeunt
+        <choice>
+          <abbr><g ref="amp"/></abbr>
+          <expan>et</expan>
+        </choice>
+        nos in aquis suffocamur; Omnia
+        <lb n="84" />
+        tamen ad
+        <choice>
+          <abbr>terr<g ref="a_macron"/></abbr>
+          <expan>terram</expan>
+        </choice>
+        <choice>
+          <abbr>inclinan<g ref="t_macron"/></abbr>
+          <expan>inclinantur</expan>
+        </choice>
+        de qua alimenta sumunt:
+        <lb n="85" />
+        <choice>
+          <abbr><g ref="amp"/></abbr>
+          <expan>et</expan>
+        </choice>
+        quicquid desiderant uel indigent; Sed homo solus recta
+        <lb n="86" />
+        statura ambulat. qui ad
+        <choice>
+          <abbr>imagin<g ref="e_macron"/></abbr>
+          <expan>imaginem</expan>
+        </choice>
+        dei creatus est
+        <choice>
+          <abbr><g ref="amp"/></abbr>
+          <expan>et</expan>
+        </choice>
+        <choice>
+          <abbr><g ref="p_macron"/>prio</abbr>
+          <expan>proprio</expan>
+        </choice>
+        <lb n="87" />
+        incessu significat quod deb<g ref="amp"/> plus de
+        <choice>
+          <abbr>celestib:</abbr>
+          <expan>celestibus</expan>
+        </choice>
+        meditari
+        <lb n="88" />
+        <choice>
+          <abbr>qu<g ref="a_macron"/></abbr>
+          <expan>quam</expan>
+        </choice>
+        de terrenis, plus de eternis
+        <choice>
+          <abbr>qu<g ref="a_macron"/></abbr>
+          <expan>quam</expan>
+        </choice>
+        de infimis. ne forte
+        <lb n="89" />
+        mens
+        <choice>
+          <abbr>e<g ref="i_macron"/></abbr>
+          <expan>eius</expan>
+        </choice>
+        fiat inferior corpore; Ergo ille homo qui
+        <choice>
+          <abbr>sem<g ref="p_macron"/></abbr>
+          <expan>semper</expan>
+        </choice>
+        <lb n="90" />
+        inher<g ref="amp"/> infimis de caducis cogitans . nonne est quasi uermis
+        <lb n="91" />
+        qui toto corpore serpit? nolite
+        <choice>
+          <abbr>f<g ref="r_macron"/>s</abbr>
+          <expan>fratres</expan>
+        </choice>
+        esse serpentes uenenati.
+        <lb n="92" />
+        nocentes inuicem;
+        <choice>
+          <abbr>Iter<g ref="u_macron"/></abbr>
+          <expan>Iterum</expan>
+        </choice>
+        nolite incurui incedere ut
+        <choice>
+          <abbr>iu<g ref="m_macron"/>ta</abbr>
+          <expan>iumenta</expan>
+        </choice>
+        ;
+        <lb n="93" />
+        solam
+        <choice>
+          <abbr>terr<g ref="a_macron"/></abbr>
+          <expan>terram</expan>
+        </choice>
+        aspicientes. ne forte dicat
+        <choice>
+          <abbr>uo<g ref="b_macron"/></abbr>
+          <expan>uobis</expan>
+        </choice>
+        psalmista;
+        <lb n="94" />
+        <choice>
+          <abbr>Obscuren<g ref="t_macron"/></abbr>
+          <expan>Obscurentur</expan>
+        </choice>
+        oculi
+        <choice>
+          <abbr>e<g ref="o_macron"/></abbr>
+          <expan>eorum</expan>
+        <!-- PSI LOOKING SYMBOL? -->
+        </choice>
+        ne uideant: 
+        <choice>
+          <abbr><g ref="amp"/>dorsa</abbr>
+          <expan>et dorsa</expan>
+        </choice> 
+        <choice>
+          <abbr>e<g ref="o_macron"/></abbr>
+          <expan>eorum</expan>
+        </choice>
+        semper
+        <lb n="95" />
+        incurua; Erigite capita
+        <choice>
+          <abbr>u<g ref="r_macron"/>a</abbr>
+          <expan>uestra</expan>
+        </choice>
+        : ambulate ut homines
+
+   <pb n="15r" facs="data/images/fol_5v.png" />
+        <lb n="96" />
+        rationabiles; State in fide uiriliter agite
+        <choice>
+          <abbr><g ref="amp"/></abbr>
+          <expan>et</expan>
+        </choice>
+        confortamini
+        <lb n="97" />
+        omnia
+        <choice>
+          <abbr>u<g ref="r_macron"/>a</abbr>
+          <expan>uestra</expan>
+        </choice>
+        <choice>
+          <abbr>c<g ref="u_macron"/></abbr>
+          <expan>cum</expan>
+        </choice>
+        caritate fiant; Nolite esse bruta anima
+        <lb n="98" />
+        lia. intelligite quia serpens
+        <choice>
+          <abbr>terr<g ref="a_macron"/></abbr>
+          <expan>terram</expan>
+        </choice>
+        comedit cunctis
+        <choice>
+          <abbr>dieb:</abbr>
+          <expan>diebus</expan>
+        </choice>
+        <lb n="99" />
+        uitae suae:
+        <choice>
+          <abbr><g ref="amp"/></abbr>
+          <expan>et</expan>
+        </choice>
+        bos herbis pascitur. uobis
+        <choice>
+          <abbr>aut<g ref="e_macron"/></abbr>
+          <expan>autem</expan>
+        </choice>
+        dedit
+        <choice>
+          <abbr><g ref="d_macron"/>s</abbr>
+          <expan>deus</expan>
+        </choice>
+        <lb n="100" />
+        panem ad
+        <choice>
+          <abbr>uescend<g ref="u_macron"/></abbr>
+          <expan>uescendum</expan>
+        </choice>
+        ;
+        <choice>
+          <abbr><g ref="amp"/></abbr>
+          <expan>Et</expan>
+        </choice>
+        non
+        <choice>
+          <abbr>sol<g ref="u_macron"/></abbr>
+          <expan>solum</expan>
+        </choice>
+        <choice>
+          <abbr>pan<g ref="e_macron"/></abbr>
+          <expan>panem</expan>
+        </choice>
+        terrenis
+        <choice>
+          <abbr>dapibu:</abbr>
+          <expan>dapibus</expan>
+        </choice>
+        <choice>
+          <abbr><g ref="p_macron"/>para</abbr>
+          <expan>praepara</expan>
+        </choice>
+        <lb n="101" />
+        tum sed etiam
+        <choice>
+          <abbr>pan<g ref="e_macron"/></abbr>
+          <expan>panem</expan>
+        </choice>
+        <choice>
+          <abbr>angel<g ref="o_macron"/></abbr>
+          <expan>angelorum</expan>
+        </choice>
+        qui de celo descendit. qui hodie
+        <lb n="102" />
+        natus est nobis ex inmaculata uirgine maria. qui dixit;
+        <lb n="103" />
+        Ego
+        <choice>
+          <abbr>s<g ref="u_macron"/></abbr>
+          <expan>sum</expan>
+        </choice>
+        panis uiuus qui de celo descendi: si quis manducaue
+        <lb n="104" />
+        rit ex hoc pane uiu<g ref="amp"/> in aeternum; Et panis
+        <choice>
+          <abbr>qu<g ref="e_macron"/></abbr>
+          <expan>quem</expan>
+        </choice>
+        ego dabo
+        <lb n="105" />
+        caro mea est
+        <choice>
+          <abbr><g ref="p_macron"/></abbr>
+          <expan>pro</expan>
+        </choice>
+        mundi uita: Istum panem
+        <choice>
+          <abbr>deniq:</abbr>
+          <expan>denique</expan>
+        </choice>
+        manduca
+        <lb n="106" />
+        mus cum ad sacrificium
+        <choice>
+          <orig><foreign xml:lang="grc">x<g ref="#p_macron"/>i</foreign></orig>
+          <reg>christi</reg>
+        </choice>
+        <choice>
+          <abbr>c<g ref="u_macron"/></abbr>
+          <expan>cum</expan>
+        </choice>
+        fide accedimus; Nam
+        <lb n="107" />
+        hodie debent
+        <choice>
+          <orig><foreign xml:lang="grc">x<g ref="#p_macron"/>iani</foreign></orig>
+          <reg>christiani</reg>
+        </choice>
+        accedere ad
+        <choice>
+          <abbr>sacrifici<g ref="u_macron"/></abbr>
+          <expan>sacrificium</expan>
+        </choice>
+        <choice>
+          <orig><foreign xml:lang="grc">x<g ref="#p_macron"/>i</foreign></orig>
+          <reg>christi</reg>
+        </choice>
+        . quia ual
+        <lb n="108" />
+        de raro
+        <choice>
+          <orig>c<g ref="u_macron"/>municat</orig>
+          <reg>cummunicat</reg>
+        </choice>
+        qui semel in anno communicat. Cum
+        <lb n="109" />
+        canones
+        <choice>
+          <orig>dign<g ref="u_macron"/></orig>
+          <reg>dignum</reg>
+        </choice>
+        doceant excommunicatione qui tres domini
+        <lb n="110" />
+        cas dies 
+        <choice>
+          <abbr><g ref="p_macron"/>agit</abbr>
+          <expan>peragit</expan>
+        </choice>
+        sine
+        <choice>
+          <abbr>c<g ref="o_macron"/>munione</abbr>
+          <expan>communione</expan>
+        </choice>
+        ; Semel uero natus est
+        <choice>
+          <orig><foreign xml:lang="grc">x<g ref="#p_macron"/>s</foreign></orig>
           <reg>christus</reg>
         </choice>
         <lb n="111" />
@@ -1528,6 +1973,7 @@ The 'rend="3lines"' function was not appearing in the EVT window. Might this sam
           <orig>dō</orig>
           <reg>deo</reg>
         </choice>
+
         <lb n="240" />
         colore:
         <choice>
