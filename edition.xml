@@ -388,7 +388,7 @@ The 'rend="3lines"' function was not appearing in the EVT window. Might this sam
           <reg>per</reg>
         </choice>
         <lb n="8" />
-        manere apud aliquod
+        manere apud 
         <choice>  
           <orig>patrē</orig>
           <reg>patrem</reg>
@@ -402,6 +402,7 @@ The 'rend="3lines"' function was not appearing in the EVT window. Might this sam
           <orig><hi rend="font-size: .6em;">&amp;</hi></orig>
           <reg>et</reg>
         </choice>
+        aliquod
         
   <pb n="13v" facs="013v.jpg"/>
       <lb n="9" />
