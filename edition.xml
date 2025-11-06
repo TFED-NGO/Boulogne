@@ -397,7 +397,7 @@ The 'rend="3lines"' function was not appearing in the EVT window. Might this sam
           <orig>semp</orig>
           <reg>semper</reg>
         </choice>
-<! correct the abbreviation below
+<!-- correct the abbreviation below
           <abbr>ess<am>
             <g ref="amp"/>
           </am></abbr>
