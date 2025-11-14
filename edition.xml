@@ -419,7 +419,7 @@ The 'rend="3lines"' function was not appearing in the EVT window. Might this sam
         natus ess
         <choice>
           <abbr>&</abbr>
-          <expan>et</expan> 
+          <expan>et</expan>
         ex patre; Audiamus nunc
         <choice>
           <orig>sc<g ref="#m_macron"/></orig>
@@ -432,7 +432,7 @@ The 'rend="3lines"' function was not appearing in the EVT window. Might this sam
         </choice>
         quomodo tales
         <choice>
-          <orig>habetes</orig>
+          <orig>habetes superat</orig>
           <corr>h<add>e</add>betes</corr>
         </choice>
         <choice>
