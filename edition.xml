@@ -480,8 +480,11 @@ The 'rend="3lines"' function was not appearing in the EVT window. Might this sam
         </choice>
         <choice>
           <orig>quā</orig>
-          <reg>quam</reg>
+          <expan>quam</expan>
         </choice>
+        <choice>
+          <orig>pfunda</orig>
+          <reg>
         profunda sit; Ergo
       <lb n="14" />
         pater est principium
