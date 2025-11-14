@@ -300,7 +300,7 @@
 The 'rend="3lines"' function was not appearing in the EVT window. Might this same problem may occur with the new code?-->
         <!--<hi rend="large">Q</hi>
         <hi rend="small">uondam</hi>--> 
-        Quondam
+        Quonda
         <choice>
           <orig>dixi<g ref="#m_macron"/></orig>
           <reg>diximus</reg>
