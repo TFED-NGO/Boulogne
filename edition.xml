@@ -298,7 +298,7 @@
         <lb n="1" />
 <!--The previous code read this way: "<hi style="font-variant: smallcaps" rend="3lines">Q</hi>uondam"
 The 'rend="3lines"' function was not appearing in the EVT window. Might this same problem may occur with the new code?-->
-        <hi> rend="large">Q</hi>
+        <hi rend="large">Q</hi>
         uondam 
         <choice>
           <orig>dixi<g ref="#m_macron"/></orig>
