@@ -559,8 +559,8 @@ The 'rend="3lines"' function was not appearing in the EVT window. Might this sam
         </choice>
         Trinitas ineffabili potentia
         <choice>
-        <orig>&amp;</orig>
-        <reg>et</reg>
+        <abbr>&amp;</abbr>
+        <expan>et</expan>
         </choice>
         una deitate omnes creatu
         <lb n="20" />
