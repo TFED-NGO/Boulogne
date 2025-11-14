@@ -398,7 +398,7 @@ The 'rend="3lines"' function was not appearing in the EVT window. Might this sam
           <orig>semp</orig>
           <reg>semper</reg>
         </choice>
-        in diuinitate: sed ess
+        in diuinitate: sed ess&#39;
         <choice>
           <abbr><expan>esset</expan></abbr> 
         </choice>
