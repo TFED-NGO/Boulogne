@@ -404,8 +404,8 @@ The 'rend="3lines"' function was not appearing in the EVT window. Might this sam
           <expan>ess<ex>et</ex></expan>-->
         in diuinitate: sed ess
         <choice>
-          <orig><hi rend="font-size: .6em;">&amp;</hi></orig>
-          <reg>et</reg>
+          <abbr>&</abbr>
+          <expan>et</expan>
         </choice>
         aliquod
         
