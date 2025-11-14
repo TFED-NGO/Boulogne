@@ -403,10 +403,13 @@ The 'rend="3lines"' function was not appearing in the EVT window. Might this sam
             <g ref="amp"/>
           </am></abbr>
           <expan>ess<ex>et</ex></expan>-->
-        in diuinitate: sed ess
-        <choice>
+        in diuinitate: sed ess&amp
+       <!-- <choice>
           <abbr><hi rend="font-size: .6em;">&amp;</hi></abbr>
           <expan>et</expan>
+        </choice>-->
+        <choice>
+        <abbr>esset</abbr>
         </choice>
         aliquod
         
