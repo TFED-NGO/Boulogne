@@ -411,7 +411,10 @@ The 'rend="3lines"' function was not appearing in the EVT window. Might this sam
           <orig>antequā</orig>
           <reg>antequam</reg>
         </choice>
-        natus ess<g ref="amp"/>
+        <choice>
+          <abbr>ess&amp;</abbr> 
+          <expan>esset</expan>
+        </choice>
         ex patre; Audiamus nunc
         <choice>
           <orig>sc<g ref="#m_macron"/></orig>
@@ -431,6 +434,7 @@ The 'rend="3lines"' function was not appearing in the EVT window. Might this sam
           <orig>&amp;</orig>
           <reg>et</reg>
         </choice>
+        superat
         <choice>
           <orig>stultitiā</orig>
           <reg>stultitiam</reg>
