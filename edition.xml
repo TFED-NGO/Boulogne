@@ -398,7 +398,11 @@ The 'rend="3lines"' function was not appearing in the EVT window. Might this sam
           <orig>semp</orig>
           <reg>semper</reg>
         </choice>
-        in diuinitate: sed ess aliquod
+        in diuinitate: sed ess
+        <choice>
+          <abbr><expan>esset</expan></abbr> 
+        </choice>
+         aliquod
     <pb n="13v" facs="013v.jpg"/>
       <lb n="9" />
         tempus
