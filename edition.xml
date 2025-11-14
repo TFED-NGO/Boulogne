@@ -463,7 +463,7 @@ The 'rend="3lines"' function was not appearing in the EVT window. Might this sam
         </choice>
         qui
         <choice>
-          <orig>&amp;</orig>
+          <abbr>&amp;</abbr>
           <expan>et</expan>
         </choice>
         loquor uobis;
@@ -483,15 +483,15 @@ The 'rend="3lines"' function was not appearing in the EVT window. Might this sam
           <expan>quam</expan>
         </choice>
         <choice>
-          <orig>pfunda</orig>
+          <abbr>pfunda</abbr>
           <expan>profunda</expan>
         </choice>
         sit; Ergo
       <lb n="14" />
         pater est principium
         <choice>
-          <orig>&amp;</orig>
-          <reg>et</reg>
+          <abbr>&amp;</abbr>
+          <expan>et</expan>
         </choice>
         filius qui ex patre natus est
         <choice>
@@ -601,7 +601,14 @@ The 'rend="3lines"' function was not appearing in the EVT window. Might this sam
         </choice>
          ualde altiora
         <lb n="24" />
-        se quaerit. qui uechors p[er]scrutando transscendere uult
+        se quaerit. qui uechors 
+        <choice>
+        <abbr>pscrutando</abbr>
+        <expan>perscrutando</expan>
+        </choice
+          <orig>est</orig>
+          <reg>esset</reg>
+        p[er]scrutando transscendere uult
         <choice>
           <orig><foreign xml:lang="grc">x<g ref="#r_macron"/></foreign>m,</orig>
             <reg>christum,</reg>
