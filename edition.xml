@@ -297,9 +297,9 @@
       <ab>
         <lb n="1" />
 <!--The previous code read this way: "<hi style="font-variant: smallcaps" rend="3lines">Q</hi>uondam"
-The 'rend="3lines"' function was not appearing in the EVT window. Might this same problem may occur with the new code?-->
-        <hi rend="large">Q</hi>
-        <hi rend="smallcaps">uondam</hi>
+The 'rend="3lines"' function was not appearing in the EVT window . Might this same problem may occur with the new code?-->
+        <hi rend="large">Q<hi rend="small">u</hi></hi>
+        <hi rend="smallcaps">ondam</hi>
         <choice>
           <orig>dixi<g ref="#m_macron"/></orig>
           <reg>diximus</reg>
@@ -404,8 +404,8 @@ The 'rend="3lines"' function was not appearing in the EVT window. Might this sam
           <expan>ess<ex>et</ex></expan>-->
         in diuinitate: sed ess
         <choice>
-          <abbr>&</abbr>
-          <expan>et</expan>
+          <orig><hi rend="font-size: .6em;">&amp;</hi></orig>
+          <reg>et</reg>
         </choice>
         aliquod
         
@@ -416,10 +416,7 @@ The 'rend="3lines"' function was not appearing in the EVT window. Might this sam
           <orig>antequā</orig>
           <reg>antequam</reg>
         </choice>
-        natus ess
-        <choice>
-          <abbr>&</abbr>
-          <expan>et</expan>
+        natus ess<g ref="amp"/>
         ex patre; Audiamus nunc
         <choice>
           <orig>sc<g ref="#m_macron"/></orig>
@@ -432,7 +429,7 @@ The 'rend="3lines"' function was not appearing in the EVT window. Might this sam
         </choice>
         quomodo tales
         <choice>
-          <orig>habetes superat</orig>
+          <orig>habetes</orig>
           <corr>h<add>e</add>betes</corr>
         </choice>
         <choice>
