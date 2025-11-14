@@ -596,8 +596,8 @@ The 'rend="3lines"' function was not appearing in the EVT window. Might this sam
         <lb n="23" />
         Item scriptum est; Altiora te ne quaesieris;
         <choice>
-          <orig>&amp;</orig>
-          <reg>et</reg>
+          <abbr>&amp;</abbr>
+          <expan>et</expan>
         </choice>
          ualde altiora
         <lb n="24" />
@@ -606,9 +606,7 @@ The 'rend="3lines"' function was not appearing in the EVT window. Might this sam
         <abbr>pscrutando</abbr>
         <expan>perscrutando</expan>
         </choice
-          <orig>est</orig>
-          <reg>esset</reg>
-        p[er]scrutando transscendere uult
+       transscendere uult
         <choice>
           <orig><foreign xml:lang="grc">x<g ref="#r_macron"/></foreign>m,</orig>
             <reg>christum,</reg>
