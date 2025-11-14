@@ -289,7 +289,7 @@
         <head style="text-align: center; font-variant: smallcaps">
           INCIPIT SERMO IN NATALE
             <choice>
-              <orig>D<g ref="#N_macron"/>I.</orig>
+              <orig>D<g ref="#N_macron"/>I.</orig> 
               <reg>DOMINI</reg>
             </choice>
           ET DE RATIONE ANIME.
@@ -299,7 +299,7 @@
 <!--The previous code read this way: "<hi style="font-variant: smallcaps" rend="3lines">Q</hi>uondam"
 The 'rend="3lines"' function was not appearing in the EVT window. Might this same problem may occur with the new code?-->
         <hi rend="large">Q</hi>
-        uondam 
+        <hi rend="small">uondam</hi> 
         <choice>
           <orig>dixi<g ref="#m_macron"/></orig>
           <reg>diximus</reg>
