@@ -745,6 +745,7 @@ The 'rend="3lines"' function was not appearing in the EVT window. Might this sam
          <choice>
          <abbr>dice<g ref="#r_macron"/></abbr>
          <expan>dicetret</expan>
+         </choice>
          .
         <lb n="34" />
         introibo ad altare dei. statim adiunxit; Ad
