@@ -430,9 +430,10 @@ The 'rend="3lines"' function was not appearing in the EVT window. Might this sam
           <orig>habetes</orig>
           <corr>h<add>e</add>betes</corr>
         </choice>
+        superat
         <choice>
-          <orig>&amp;</orig>
-          <reg>et</reg>
+          <abbr>&amp;</abbr>
+          <expan>et</expan>
         </choice>
         superat
         <choice>
@@ -501,8 +502,8 @@ The 'rend="3lines"' function was not appearing in the EVT window. Might this sam
       <lb n="15" />
         est:
         <choice>
-          <orig>&amp;</orig>
-          <reg>et</reg>
+         <abbr>&amp;</abbr>
+          <expan>et</expan>
         </choice>
         <choice>
           <orig>s<g ref="#r_macron"/>s</orig>
@@ -566,8 +567,8 @@ The 'rend="3lines"' function was not appearing in the EVT window. Might this sam
         <lb n="20" />
         ras fecit:
         <choice>
-          <orig>&amp;</orig>
-          <reg>et</reg>
+         <abbr>&amp;</abbr>
+          <expan>et</expan>
         </choice>
         non est creatura nec tempus
         <choice>
@@ -627,8 +628,8 @@ The 'rend="3lines"' function was not appearing in the EVT window. Might this sam
             <reg>uirtus</reg>
           </choice>
           <choice>
-            <orig>&amp;</orig>
-            <reg>et</reg>
+           <abbr>&amp;</abbr>
+          <expan>et</expan>
           </choice>
            sapientia dei; Si
         <lb n="26" />
@@ -639,8 +640,8 @@ The 'rend="3lines"' function was not appearing in the EVT window. Might this sam
           </choice>
           erigere altam scalam sibi:
           <choice>
-            <orig>&amp;</orig>
-            <reg>et</reg>
+          <abbr>&amp;</abbr>
+          <expan>et</expan>
           </choice>
           ascendere
         <lb n="27" />
@@ -700,7 +701,11 @@ The 'rend="3lines"' function was not appearing in the EVT window. Might this sam
             <orig>deniq</orig>
             <reg>denique</reg>
         </choice>
-           dominus ad moysen:
+        <choice>
+         <abbr>dns</abbr>
+          <expan>dominus</expan>
+        </choice>
+        ad moysen:
         <lb n="32" />
         Non ascendas
         <choice>
