@@ -698,14 +698,14 @@ The 'rend="3lines"' function was not appearing in the EVT window. Might this sam
         </choice>
           Dicit
         <choice>
-            <orig>deniq</orig>
-            <reg>denique</reg>
+            <abbr>deniq</abbr>
+            <expand>denique</expand>
         </choice>
         <choice>
          <abbr>dns</abbr>
           <expan>dominus</expan>
         </choice>
-        ad moysen:
+        ad moysen;
         <lb n="32" />
         Non ascendas
         <choice>
@@ -735,8 +735,8 @@ The 'rend="3lines"' function was not appearing in the EVT window. Might this sam
         </choice>
         significat sicut psalmista
         <choice>
-          <orig>testa<g ref="#t_macron"/>;</orig>
-          <reg>testatur</reg>
+          <abbr>testa<g ref="#t_macron"/>;</abbr>
+          <expand>testatur</expand>
         </choice>
          <choice>
            <orig>Cū</orig>
@@ -777,8 +777,8 @@ The 'rend="3lines"' function was not appearing in the EVT window. Might this sam
         </choice>
         non
         <choice>
-          <orig>debe<g ref="#m_macron"/></orig>
-          <reg>debemus</reg>
+          <abbr>debe<g ref="#m_macron"/></abbr>
+          <expand>debemus</expand>
         </choice>
         ascendere
         <choice>
@@ -822,7 +822,11 @@ The 'rend="3lines"' function was not appearing in the EVT window. Might this sam
           <orig>d<g ref="#s_macron"/>:</orig>
           <reg>deus:</reg>
         </choice>
-         <g ref="amp"/> quicquid ince-
+         <choice>
+          <abbr>&amp;</abbr>
+          <expan>et</expan>
+        </choice>
+         quicquid ince-
         <lb n="39" />
         pit non potest habere
         <choice>
@@ -876,8 +880,16 @@ The 'rend="3lines"' function was not appearing in the EVT window. Might this sam
         sed semper
         <lb n="43" />
         erat caritas patris
-        <g ref="amp"/> filii coeternus
-        <g ref="amp"/> consubstantialis ipsis
+        <choice>
+          <abbr>&amp;</abbr>
+          <expan>et</expan>
+        </choice>
+         filii coeternus
+        <choice>
+          <abbr>&amp;</abbr>
+          <expan>et</expan>
+        </choice>
+         consubstantialis ipsis
         <lb n="44" />
         in una deitate; In creaturis sunt quaedam temporalia: quae-
         <lb n="45" />
