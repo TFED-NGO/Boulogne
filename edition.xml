@@ -286,7 +286,7 @@
    <body>
      <pb n="13r" facs="013r" />
       <div type="sermon">
-        <head style="text-align: center; font-variant: smallcaps">
+        <head style="text-align: left; font-variant: smallcaps">
           INCIPIT SERMO IN NATALE
             <choice>
               <orig>D<g ref="#N_macron"/>I.</orig> 
