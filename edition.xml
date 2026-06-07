@@ -290,7 +290,7 @@
           INCIPIT SERMO IN NATALE
             <choice>
               <orig>D<g ref="#N_macron"/>I.</orig> 
-              <reg>DOMINI</reg>
+              <expan>DOMINI</expan>
             </choice>
           ET DE RATIONE ANIME.
         </head>
