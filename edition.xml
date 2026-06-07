@@ -288,10 +288,10 @@
       <div type="sermon">
         <head style="text-align: left; font-variant: smallcaps">
           INCIPIT SERMO IN NATALE
-            <choice>
+       <!--     <choice>
               <orig>D<g ref="#N_macron"/>I.</orig> 
-              <expan>DOMINI</expan>
-            </choice>
+         !     <expan>DOMINI</expan>
+          !  </choice>-->
           ET DE RATIONE ANIME.
         </head>
       <ab>
